@@ -29,7 +29,7 @@ Always name the player alongside the character in anything written for the group
 
 **Speaker labels change every session.** The DM and sameaslasttime use joke display names. The repo's `tools/normalize_transcript.py` holds the alias map. **It is the single source of truth**; this skill deliberately has no copy of it, so alias updates travel through Git and nobody has to re-install the skill. Any unknown label that talks the most is the DM. If a new alias shows up, identify it from context, add it to `ALIAS` / `HAIRY` in `tools/normalize_transcript.py`, and note it in the ingest log.
 
-PQNine is pronounced phonetically like "PQNine" but should always be spelled as "PQNine".
+PQNine is pronounced phonetically like "PQNine" but should always be spelled as "PQNine". Anytime you see the text "Kwapnee" it means PQNine.
 
 If the repo isn't on the local disk (e.g. a player using only the MCP connector), answer questions through the connector's tools. Ingesting and corrections are normally done by whoever has a clone. If you can't write to the repo, draft the changes and say so.
 
