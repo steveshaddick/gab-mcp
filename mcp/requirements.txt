@@ -1,2 +1,2 @@
-mcp>=1.10
+mcp>=2
 uvicorn>=0.30
