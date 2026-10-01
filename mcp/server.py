@@ -102,7 +102,7 @@ async def handle_initialize(_: EmptyParams):
             "tools": {}
         },
         "serverInfo": {
-            "name": "campaign",
+            "name": "Getaroun' Boyz Campaign",
             "version": "1.0.0"
         }
     }
