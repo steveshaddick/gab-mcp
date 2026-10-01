@@ -93,6 +93,21 @@ class GetTranscriptExcerptParams(BaseModel):
     max_passages: int = 3
 
 
+# Handler functions for initialize
+async def handle_initialize(_: EmptyParams):
+    print("DEBUG: handle_initialize called")
+    return {
+        "protocolVersion": "2024-11-05",
+        "capabilities": {
+            "tools": {}
+        },
+        "serverInfo": {
+            "name": "campaign",
+            "version": "1.0.0"
+        }
+    }
+
+
 # Handler functions for tools/list
 async def handle_list_tools(_: EmptyParams):
     print("DEBUG: handle_list_tools called")
@@ -180,6 +195,8 @@ async def handle_call_tool(params: CallToolParams):
 
 
 # Register the handlers
+print("DEBUG: Registering initialize handler")
+mcp.add_request_handler("initialize", EmptyParams, handle_initialize)
 print("DEBUG: Registering tools/list handler")
 mcp.add_request_handler("tools/list", EmptyParams, handle_list_tools)
 print("DEBUG: Registering tools/call handler")
@@ -248,7 +265,9 @@ async def mcp_handler(request):
         params = body.get("params", {})
         request_id = body.get("id")
 
-        if method == "tools/list":
+        if method == "initialize":
+            result = await handle_initialize(EmptyParams())
+        elif method == "tools/list":
             result = await handle_list_tools(EmptyParams())
         elif method == "tools/call":
             result = await handle_call_tool(CallToolParams(**params))
