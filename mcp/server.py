@@ -195,8 +195,6 @@ async def handle_call_tool(params: CallToolParams):
 
 
 # Register the handlers
-print("DEBUG: Registering initialize handler")
-mcp.add_request_handler("initialize", EmptyParams, handle_initialize)
 print("DEBUG: Registering tools/list handler")
 mcp.add_request_handler("tools/list", EmptyParams, handle_list_tools)
 print("DEBUG: Registering tools/call handler")
