@@ -253,7 +253,7 @@ index.ensure_fresh()
 # Custom stateless HTTP endpoint (bypass MCP's session-based transport)
 import json
 from starlette.applications import Starlette
-from starlette.responses import JSONResponse
+from starlette.responses import JSONResponse, Response
 from starlette.routing import Route
 
 async def mcp_handler(request):
@@ -263,7 +263,9 @@ async def mcp_handler(request):
         params = body.get("params", {})
         request_id = body.get("id")
 
-        if method == "initialize":
+        if method == "notifications/initialized":
+            return Response(status_code=202)
+        elif method == "initialize":
             result = await handle_initialize(EmptyParams())
         elif method == "tools/list":
             result = await handle_list_tools(EmptyParams())
