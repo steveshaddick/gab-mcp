@@ -33,5 +33,5 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 ## Sessions 21–32
 - Wears **Sister Halda's shield and splint armour**, and now has her plate set too [S26, S32]. Halda is out for revenge on him specifically [S32].
 - Nearly dragged overboard by the river charm [S24]. Planned the bridge isolation of Cave Mouth [S27].
-- Offered to Mage Hand the Wishkey Gear into the fail-safe; PQNine refused [S30]. **Attacked Fizzlewidget on sight** [S31].
+- Offered to Mage Hand the Wishkey Gear into the fail-safe; Kwapnee refused [S30]. **Attacked Fizzlewidget on sight** [S31].
 - **Felt the Wishkey Gear's pull and heard his dead mother's voice** before it went into the lava [S31].

@@ -4,7 +4,7 @@
 
 ## Notable moments
 - Scouted the museum attic and picked the skylight lock (couldn't open it) [S1–S2]. Posed as a northern dance-studio owner pitching an arts partnership at the gala [S2].
-- Jailed at the casino with PQNine and Fontaine [S5]. Raided the clerk's office with Hairy [S7].
+- Jailed at the casino with Kwapnee and Fontaine [S5]. Raided the clerk's office with Hairy [S7].
 - Ran into Marvin the Magnificent at the casino [S5].
 - Argued for the party keeping control of the egg rather than handing it to Vasil [S7]. Called for peace with Sister Halda mid-fight: "we can work together" [S7].
 - Failed to climb the slippery mansion wall [S8]; later crawled out a window and hugged the outer wall [S9].

@@ -16,7 +16,7 @@
 
 **Sister Halda Thorne** 🔴 — Sister of the Vale. Statuesque warrior-nun, longsword, casts Shield of Faith. Arrived at the Hollow Cask demanding the stone: "I came to end something before it begins" [S7]. Fought the party, badly lost, knelt and **yielded** because "our goals are aligned" [S7]. Now travelling and fighting alongside the party [S8–S9]. Did not appreciate Tordrug wearing a cultist robe as a joke. Wanted Marcos destroyed; compromise: she spared him and carried the Celestial Codex [S11]. **Turned on the party [S12]:** she put a sword to Hairy's neck while defending Vasil, and Hairy magic-missiled her. In the missing S13 the party beat her, stripped her armour, shield and sword, and left her bound on the road. Now the Sisters of the Vale have posters up calling the party blasphemers and urging the faithful to capture them [S15]. **Major enemy.** **Ambushed the party in the Underdark [S32]** with crossbow trackers, now sworn to stop them from stealing cursed artifacts and seeking revenge on Hairy: "I mistook you for fools, now I know what you are." Her trackers were killed, and she was **left unconscious and stripped a second time** (plate armor this time). She carried a notebook on cursed objects and sealed orders about **Constantori's portrait**. Her order watches the **Cognoscenti Esoterica**.
 
-**Marlo Drift** 🟢 — Casino piano player; her **Soul Keys** piano's music creates magical illusions/distractions (faked a kitchen fire) [S6–S7]. Loyal to Fontaine. Her price: remove Fontaine's name from the Ledger. **She stole the Ledger from PQNine** and left a black velvet pouch with orphan token #4397 and a note: "You chose judgment. I chose mercy. One of us had to. — M." [S11]. City Hall records show the token is **her own**: left at the South Ward gate aged ~2 and raised in the **Southgate Foundling Home** as "Marlow" [S14]. Admits her own name may be in it and warned PQNine the book "whispers sweeter to the ones who think they're in charge" [S7].
+**Marlo Drift** 🟢 — Casino piano player; her **Soul Keys** piano's music creates magical illusions/distractions (faked a kitchen fire) [S6–S7]. Loyal to Fontaine. Her price: remove Fontaine's name from the Ledger. **She stole the Ledger from Kwapnee** and left a black velvet pouch with orphan token #4397 and a note: "You chose judgment. I chose mercy. One of us had to. — M." [S11]. City Hall records show the token is **her own**: left at the South Ward gate aged ~2 and raised in the **Southgate Foundling Home** as "Marlow" [S14]. Admits her own name may be in it and warned Kwapnee the book "whispers sweeter to the ones who think they're in charge" [S7].
 
 **Fontaine La Rue** 🟡 — Rumpled, greasy, alcoholic card cheat with an "FLR" monogram (DM modeled him on John Candy's Johnny LaRue). Lived in the casino cells since it opened, trading secrets for drinks [S5]. Engineered the vault plan [S5–S6]. Deeply in the Ledger; now deteriorating, shivering, terrified of mirrors [S7]. Party senses he's "an awful man."
 
@@ -62,7 +62,7 @@
 
 **Sergeant Cragknuckle** 🟡 — Little Lockford militia. "Knock on the gate 7 times" [S25–S26].
 
-**Fizzlewidget Tinklebottom** 🟡 — The surface-gnome "security overseer" whose name nobody could remember. A mad inventor, now **half gnome, half construct**, who uses dimension door. His automatons turned on the town [S23, S25]. **PQNine's old partner from before his monastery days, and the memory PQNine sacrificed in the S8 ritual.** "You left. I finished it." [S29] When PQNine and the gear came together he switched sides ("we can't let those things be together") and helped destroy it; the party subdued him anyway [S31]. Fate ⚠️.
+**Fizzlewidget Tinklebottom** 🟡 — The surface-gnome "security overseer" whose name nobody could remember. A mad inventor, now **half gnome, half construct**, who uses dimension door. His automatons turned on the town [S23, S25]. **Kwapnee's old partner from before his monastery days, and the memory Kwapnee sacrificed in the S8 ritual.** "You left. I finished it." [S29] When Kwapnee and the gear came together he switched sides ("we can't let those things be together") and helped destroy it; the party subdued him anyway [S31]. Fate ⚠️.
 
 **The Abbot** 🟡 — Warned the party not to free the Little Lockford prisoners. They ignored him because they didn't like him [S27–S28].
 
@@ -128,6 +128,6 @@
 - **Quillian Sardo, Pirouette, Barlow Rageblade** — Panopticon inmates [S19].
 - **Captain Bill** — Captain of the pickup ship [S20].
 - **Nervous grain merchant** — Snapped axle, sealed box, refused help [S22].
-- **Bandit captain** — Run down by PQNine [S22].
+- **Bandit captain** — Run down by Kwapnee [S22].
 - **One-eyed, one-legged bargeman ("Jordan"?)** — Cattle barge to Miller's Reach [S24].
 - **Long Saddle mayor** — Received the silver ingots [S22].

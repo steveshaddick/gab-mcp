@@ -1,4 +1,4 @@
-# PQNine Ten
+# PQNine Ten ("Kwapnee")
 **Player:** Steve Shaddick · **Race/Class:** Gnome Monk
 > Updated through Session 10.
 
@@ -16,7 +16,7 @@
 
 ## Sessions 11–20
 - Brokered the compromise: Halda spares Marcos and carries the Codex [S11].
-- **Lost the Ledger to Marlo**, who left orphan token #4397 and a note. PQNine has funded an orphanage himself and knows these tokens [S11]. He traced it at City Hall: it's **Marlo's own** token (Southgate Foundling Home) [S14].
+- **Lost the Ledger to Marlo**, who left orphan token #4397 and a note. Kwapnee has funded an orphanage himself and knows these tokens [S11]. He traced it at City Hall: it's **Marlo's own** token (Southgate Foundling Home) [S14].
 - Keen to fix the deep gnomes' berserk machines: "I can probably fix their problem" [S20].
 
 ## Personal threads
@@ -25,9 +25,9 @@
 ## Sessions 21–32
 - Bought or eyed a steam regulator at Brindlewick's [S22]. Ran down the fleeing bandit captain with magical speed [S22].
 - His Eye Stone flickered at a shifting, "not quite magical" aura in Smolderton [S27].
-- **Fizzlewidget Tinklebottom, his old partner**, recognized him: "You left. I finished it." [S29] This was the memory he gave up in the S8 ritual. He and Fizzlewidget worked on the **Wishkey Gear** before PQNine's monastery days.
+- **Fizzlewidget Tinklebottom, his old partner**, recognized him: "You left. I finished it." [S29] This was the memory he gave up in the S8 ritual. He and Fizzlewidget worked on the **Wishkey Gear** before Kwapnee's monastery days.
 - Obsessively sketched the gear all night and woke to a perfect drawing he doesn't remember finishing [S30]. Couldn't let go of it, fell into the Crown of Madness, and guarded the gear from his friends [S30–S31]. Shook off the crown; the gear went into the lava [S31].
 - "You spat on your daughter?" [S32 recap]
 
 ## Personal threads
-- ⚠️ PQNine still has the **sketch** of the gear. Does he remember Fizzlewidget now?
+- ⚠️ Kwapnee still has the **sketch** of the gear. Does he remember Fizzlewidget now?

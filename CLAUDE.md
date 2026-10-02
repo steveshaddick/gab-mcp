@@ -7,11 +7,12 @@ Read-only MCP server (Python, SQLite FTS5) that lets players' Claude search our 
 - `mcp`: The MCP server code, written in Python3
 - `mcp/server.py`: FastMCP tools + per-player token auth (`CAMPAIGN_TOKENS`)
 - `mcp/index.py`: builds/queries the FTS5 index; rebuilds automatically when files change
-- `campaign/summaries/`: `S<number>.md`, one page per session
-- `campaign/codex/`: living reference files (npcs, locations, factions, loot, timeline, lore, open-threads, glossary, `characters/<name>.md`)
-- `campaign/transcripts/`: `S<number>.txt`, raw, searched only on request
+- `campaign/summaries/`: `Session_###_YYYYMMDD.md`, one page per session (session = first number in the filename)
+- `campaign/codex/`: living reference files (`00_campaign_overview`, `npcs`, `locations`, `loot_and_inventory`, `open_threads`, `glossary`, `ingest_log`, `characters/<name>.md`)
+- `campaign/transcripts/`: `Session_###_YYYYMMDD.docx` (raw Teams export, not indexed) + `Session_###_YYYYMMDD.txt` (normalized by `campaign/tools/normalize_transcript.py`; indexed, searched only on request)
 - `campaign/dm/`: DM-only. NEVER indexed or served. Do not add it to `SOURCES` in `index.py`.
-- `campaign/templates/`, `campaign/INGEST.md`: not indexed; templates and the ingest procedure
+- `campaign/skill/getaround-chronicler/`: the Skill (ingest + corrections procedure, templates); not indexed
+- `campaign/tools/`: transcript normalizer (speaker alias map); not indexed
 
 ## Commands
 
@@ -39,4 +40,4 @@ Read-only MCP server (Python, SQLite FTS5) that lets players' Claude search our 
 - Player identity from token (attach name in `TokenAuth`, read it in tools) for a `my_character` tool
 - Roles: DM token unlocks DM-only tools; players see only what their character knows
 - Usage logging (who searched what), OAuth to replace URL tokens
-- Packaging the ingest procedure (`campaign/INGEST.md`) as a Skill
+- ~~Packaging the ingest procedure as a Skill~~ done: `campaign/skill/`

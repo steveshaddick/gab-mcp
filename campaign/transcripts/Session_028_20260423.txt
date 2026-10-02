@@ -1,0 +1,1494 @@
+DM: Fancier, Jake.
+JEFF (Baron): Yeah, except that it seemed like it knew what I had in my inventory and it definitely did not because I double checked and I don't have any of that flaming stuff.
+DM: Is it because, so does it say loose ends because I mentioned there was lots of loose ends?
+PHIL (Tordrug): It's not smart.
+DM: Because I did mention it after slonking music.
+JAKE (Fic): Yeah, I gotta unmute myself. I just started test driving Cloud, so I'm not really sure how well it works. I'm putting it in both platforms now to see which one's better on a bunch of stuff.
+DM: Isn't it supposed to be the more advanced one?
+JAKE (Fic): Yeah, and then I get the, it's not working today, but I get the one where I can like put it on my desktop or my laptop and I can use files on it and it can collaborate with me in Excel and **** like that. So kind of keen to see that, but it seems okay. It's terrible at making pictures, but It's ******* amazing at code. And I'm curious to see if I can just drop Excel sheets in and be like, redo this and add a macro. So that's my next step. I'm going to do my whole job for me. I'm going to fire myself.
+PHIL (Tordrug): No, no, no, no, no. You fire the people below you.
+DM: Bill's got it right.
+PHIL (Tordrug): Yeah. And then when it breaks, just be like, what? Need somebody to fix this? Who's going to fix this?
+JAKE (Fic): Hmm, um...
+DM: Now you just have an assistant. Claude, fix this.
+JAKE (Fic): So yeah, because I feel like we're at that like Mac versus PC moment. You got to pick a pick a side and start building your library. So they let me have both for a month.
+DM: Not bad. All right, well, let's get into it. All right, so...
+JAKE (Fic): Um... Before we start, I think I accidentally deleted myself off the map. Oh, my bad.
+STEVE (PQNine): That.
+DM: Yeah, I put you back. I saw that. You deleted yourself. You put 3 copies of yourself all over the map. And then I...
+JAKE (Fic): Okay, I can't see, I can't see the map now because I added a new token and it's sweet. Did you see it? It's got gab across the ****.
+DM: Yeah, yeah, no, I saw it. It is sweet. So I reprogrammed your token. I made it so that that picture is now the default and I put it back on the map.
+JAKE (Fic): Three. I can't see the map.
+PHIL (Tordrug): You broke it.
+SAMEASLASTTIME (Hairy): Are you the token with the?
+DM: But you know why that is?
+SAMEASLASTTIME (Hairy): The cute hiney.
+DM: That should be fine now.
+JAKE (Fic): Sweet. Yeah, yeah. Oh yeah. If you look closely, I don't know if you can zoom that in, Colin, or blow it up on the screen because... some tight pants. Oh, yeah. Get around, boys.
+DM: Where are you?
+PHIL (Tordrug): See, in that context, it's like you want to get around boys.
+JAKE (Fic): I don't know, somewhere where the AI thinks I am.
+JEFF (Baron): Ohh.
+STEVE (PQNine): Yeah. Yeah.
+SAMEASLASTTIME (Hairy): Too sad, too sad.
+DM: Wow, your character is too sexy.
+STEVE (PQNine): If...
+SAMEASLASTTIME (Hairy): So, what's the recap there?
+DM: Oh no, I just, that was the recap. Jake's character is too sexy now. Alright, the Getaround Boys looted the hospital, then moved on to the jail in the kitchen. Baron ate a handful of raw mushrooms that tasted like moldy particle board, an experience he immediately regretted. Outside, after searching the bodies of the dead guards, the party realized a mistake. The prisoners they had freed were not harmless. The abbot had warned them, but they decided they didn't like the man of the cloth. The prisoners were men arrested for murdering and eating gnome children. They pressed on to smoke. Oh yeah, that's why that was the charge of desecration of a body.
+SAMEASLASTTIME (Hairy): Eating? I don't remember anything about eating. Wow.
+DM: I mean, why would you kill kids unless you're going to eat that? You enjoy their supple flesh.
+SAMEASLASTTIME (Hairy): I mean, there's lots of reasons.
+STEVE (PQNine): It's true.
+DM: But he's a goblin.
+SAMEASLASTTIME (Hairy): You don't deserve to eat though.
+DM: That's what they're doing. Predators in the Underdark. So the Abbott warned them the prisoners were men arrested for murdering any gnome children. They pressed on to Smoldertown, or as some would say Smolderton, where the eye stone began behaving strangely, registering something as magical, but not quite. The signal was inconsistent. and a little unsettling. They bypassed the Motherlode Tavern and investigated the foundry before heading to a nearby workshop. Guarding the entrance stood an 8 foot tall shield guardian. Tordrug attempted to bluff his way past it using Disguise Self, claiming to be its relief. The construct didn't buy it. Eventually though, he managed to slip inside. The workshop beyond was sprawling. Smelters, drums filled with clockwork parts, tools everywhere. Etched into the floor was a complex geometric design, faintly pulsing with light. At its centre sat a one-foot square metal box embedded in the floor with a strange gear-shaped keyhole unlike anything he'd ever seen. Two suits of animated armor named Rack and Pinion attacked. Tordrug retreated up a ladder to a second workspace, where he found a safe. The boys regrouped, destroyed the constructs, and Fic cracked the safe, revealing an onyx-studded box. The moment he took it, a dimension door tore open and out stepped a half-gnome, half-construct figure, eyes glowing red, steam venting from its body. Quackney stared at it, a flicker of recognition catching in his mind the shape, the posture, something about it felt familiar, but whatever it had been, it wasn't that anymore.
+JAKE (Fic): Can you make that thing big again? See it. The construct that step through the dimension door.
+DM: What thing?
+SAMEASLASTTIME (Hairy): Go back.
+DM: Oops.
+JAKE (Fic): Looks like Jeannie Vance.
+PHIL (Tordrug): Yeah. He's here to **** our couch.
+DM: Maybe he is.
+SAMEASLASTTIME (Hairy): Bye.
+DM: Alright, so before we start, I'm going to go down to Baron, who's downstairs. Um, I'm gonna have you roll a d20.
+SAMEASLASTTIME (Hairy): Yeah, solid one.
+JAKE (Fic): It's the best roll. It's the best roll.
+JEFF (Baron): Get that out of the way.
+PHIL (Tordrug): He.
+DM: All right, so that does... Okay, so you're downstairs, you have your bow drawn, you're waiting for something, right? And all of a sudden, there's sort of a moment where the room feels a little further away than it should be. Like someone quietly nudged everything back an inch. And, you know, at first you shrug it off, and then a minute later, when you look around, something's off, like not... Not enough to name, it's just like your eyes kind of take a second longer to settle, like you're focusing through the wrong end of a lens. And then you blink and it clicks. Like everything looks smaller. Like it's not tiny, not little, just reduced. Like you've almost taken a step back from everything without actually moving. So one of the things you notice with your bow now is that your hands almost feel too big and that you can draw your bow back further than it actually will allow. So your perception... Like, it's almost like you're compensating for something. That's wrong, but isn't actually wrong, and the bow feels lighter.
+JEFF (Baron): Mm.
+DM: So I guess the best way to describe, like you're not, you're not sick, you don't feel dizzy, you actually feel like you got this, like judging distance is easier now. So what, like, actually make a history check.
+JEFF (Baron): I was also wondering, did we leave the door open? I'm pretty sure we did there, right? I think so. Probably should have closed it.
+DM: Yep, you did. Leave the, so do the history check. Yeah, so you know what you ate. It clicks. And you've heard of them. They're called sight distortion caps. And like normally when Underdark gnomes, like the Snirv Ephlin, eat them, they cook them down. But raw, they use them sometimes to mine.
+JEFF (Baron): Ohh, nice.
+DM: and they can scramble your sense of scale. And like they're useful in really small doses, but not like the amount that you had.
+PHIL (Tordrug): Ohh.
+JEFF (Baron): Sweet.
+DM: What that means is that I'm going to have you roll a D6 before. Like so, it's going to actively interfere with your targeting, but in a strange way. So whenever you make a ranged attack, you're going to roll a d6 when you declare it like a shot, right? So one or two, it means you misjudge the distance and you attack a disadvantage. Three to four is a normal shot and five to six is perfect read and you get advantage.
+SAMEASLASTTIME (Hairy): Say.
+JEFF (Baron): It's just for a range.
+DM: The other thing, as you're sort of sitting there and you're trying to process this, you're looking around the room and you're noticing the strange perspective. Um... ****, where did it go?
+SAMEASLASTTIME (Hairy): Mute.
+DM: All right, I'm not going to add it because I can't find it. But... Fix horse appears.
+JEFF (Baron): Just in the room with me.
+DM: Like you, you're looking at the door one second and then you look over and there's fix horse.
+JEFF (Baron): I can be like, "Hey, buddy!"
+DM: And if the horse recognizes you.
+JEFF (Baron): Maybe like... Reach into my satchel for some rations and try and hand it so.
+DM: Yeah, it's just standing there. All right. So back upstairs. You have this half machine, half gnome, step through a dimension door. And so, Quopny, you... You know this person, like not who this person is, but that you should know this person. Like you don't know what it is. Like it's somebody from before the monastery. Like, it's not it's not just familiar, it's before the monastery, and um... You don't really have a memory, but you're going to get an idea of working on something like a workbench and someone across from you arguing with you, but you can't see this person's face.
+STEVE (PQNine): That's my, like, my memory.
+DM: Yeah, it's something you can't quite place. It's like, it's like an idea that's been buried. Like something. Like, well, something that almost worked.
+STEVE (PQNine): And we're not in battle or anything like that, right?
+DM: Well, not yet. I'm just telling you what's going on in your head.
+STEVE (PQNine): Yeah, okay.
+DM: And yeah, so this is what happened when this guy appears, and one of the valves on his shoulder kind of whistles slightly off key, and it reminds you of singing cauldrons. All right, so... Um, and when he appears, he, like, he looks at you. And he says, you left. You always did that. Right before it mattered.
+STEVE (PQNine): I guess I'll just look at him and say... I don't. Don't often leave before it matters.
+DM: Oh, you did? But you know what? I finished it.
+STEVE (PQNine): Did it work?
+DM: Oh, it works.
+STEVE (PQNine): Good. Do I know you?
+DM: Anyway, I think I'm going to have you guys... All roll initiative.
+SAMEASLASTTIME (Hairy): Yeah, let's do this.
+PHIL (Tordrug): Now, what?
+JAKE (Fic): Initiatives. Hey, did I, did I get a new horse? The Shadowstride died.
+JEFF (Baron): Oh, because... Yeah, I forgot that it was dead too. Yeah.
+DM: But that's who appeared downstairs, so you don't know it yet. But Baron sees Shadowstride.
+JAKE (Fic): Okay, so I didn't get a new horse when I was off there. OK.
+SAMEASLASTTIME (Hairy): Ohh. Order. John. Oh, half an hour.
+STEVE (PQNine): With. I need my initiative.
+JEFF (Baron): I'm a little bit toasted.
+SAMEASLASTTIME (Hairy): That's true.
+STEVE (PQNine): Chuck is a lamb. We go, Big Five, Big Five.
+SAMEASLASTTIME (Hairy): Oh, cool.
+DM: Anyway, as you say, do I know you? He he screams, fizzle widget tinkle noggin. But I mean, the name means nothing to you. Where is he? There he is.
+SAMEASLASTTIME (Hairy): This widget, Tinklebottom. It's an embarrassing last name.
+DM: Okay, so the reason I'm going to have you guys all do that is because what he does, I mean to open the combat, he steps forward and he goes to grab the box from Fic. So I'm going to make you do an athletics check. against his and then we'll see who gets it.
+SAMEASLASTTIME (Hairy): Come on, Vic.
+JAKE (Fic): Mm.
+SAMEASLASTTIME (Hairy): Don't be a wimp.
+JAKE (Fic): Athletics, do I have advantage? Mm.
+SAMEASLASTTIME (Hairy): Why would you have advantage?
+STEVE (PQNine): Fair question.
+JAKE (Fic): Athletics, it's not bad.
+SAMEASLASTTIME (Hairy): Pretty solid. Oh yeah, suck at fizz widget.
+JEFF (Baron): Ohh, face widget.
+JAKE (Fic): Ohh, give me that!
+JEFF (Baron): Ohh, that was a strength check, but I don't know if you would get any extra.
+JAKE (Fic): Don't worry, you got a four. Don't worry about it. Oh, you got a one, whatever.
+SAMEASLASTTIME (Hairy): Yeah, you rolled a natural one.
+PHIL (Tordrug): Nah.
+DM: I mean, I don't think I can actually click on that. That's what I was sort of, it's why it took me so long. The character sheet's different, so.
+JEFF (Baron): At some of the characters, yeah.
+SAMEASLASTTIME (Hairy): Yeah, you can't. Yeah.
+JEFF (Baron): And I don't think it would change it necessarily. Not by that much.
+DM: Although, here you go, no, it's right there, but you can't. You can't click on it. All right, well, you keep the, you keep the box and as you sort of pull it away from his grip.
+SAMEASLASTTIME (Hairy): What's in the box?
+DM: You feel something sort of change, like in the room, and you look over and the desk behind Harry Styles actually crumbles, like it's like it aged 1000 years and crumbles.
+JAKE (Fic): Uh-oh.
+SAMEASLASTTIME (Hairy): That's not cool.
+DM: And then the guy who grabbed tried to grab the box, his widget tinkle knocking says. It doesn't create things, it just moves the energy.
+JAKE (Fic): Good to know.
+SAMEASLASTTIME (Hairy): He just came out of like a portal, right? Just like showed up, appeared.
+PHIL (Tordrug): Okay. Yeah. Soly normal.
+DM: All right. Georgia.
+PHIL (Tordrug): Um... Yeah, I mean he hasn't actually attacked us yet, right? Like, did he just reach for the box?
+DM: He tried to grab for the box.
+JAKE (Fic): Feels like he was attacking me.
+JEFF (Baron): And he also, I think, killed a bunch of gnomes with his drones and whatnot.
+PHIL (Tordrug): I don't know that. I don't know this about this man, this gnome. I don't know anything about this gnome.
+JEFF (Baron): It's true.
+JAKE (Fic): He's coming at me.
+PHIL (Tordrug): Is he?
+JAKE (Fic): Third drink.
+STEVE (PQNine): It's like mechanical, it's not.
+PHIL (Tordrug): Is he?
+JEFF (Baron): He's not human.
+PHIL (Tordrug): But he's, but his, yeah, his his organic head.
+SAMEASLASTTIME (Hairy): His eyes are glowing red, man. What else do you mean?
+PHIL (Tordrug): Um... It's true. Um... I think what I'm gonna do is I'm gonna... Hold the fire bolt. Can I do this where I hold a fire bolt? until he attacks for the first time. Okay, I will.
+DM: And you can, you can hold it till your next turn, I guess.
+PHIL (Tordrug): Okay, that's what I'll do. I'm going to hold the fireball until he attacks somebody. And I'll say... Hold on, we're not here to steal your energy. That's what I'm going to say. Makes no sense to me, but it might make sense to him. That's the end of my turn. Actually, no, I'm gonna move, I'm gonna move away a bit. There we go.
+DM: All right, Harry Styles.
+SAMEASLASTTIME (Hairy): I'm gonna cast slow on the guy. So he needs to make a wisdom saving throw. Hold on this, let me double check. Wisdom saving throw.
+JAKE (Fic): Tweet. Thank you.
+SAMEASLASTTIME (Hairy): And he's a beat at 15.
+DM: Is the beat of 15, eh?
+SAMEASLASTTIME (Hairy): That's the DC 50.
+DM: I gotta move. I gotta move this guy. So this is an increasingly large list of things. MMM.
+SAMEASLASTTIME (Hairy): Oh, pickle. Right, it has no effect.
+JEFF (Baron): He's got decent wisdom, but no strength.
+PHIL (Tordrug): Mm.
+SAMEASLASTTIME (Hairy): Well, strength is plus three, his wisdom is only plus one. Oh, it's -1, he just rolled an 18. So, wisdom was the right thing to go with. But you rolled lucky. All right. Uh, I'm gonna move behind, that's it.
+DM: Alright, pick.
+JAKE (Fic): I'm going to disengage. And say, "Whoa, there!" Your energy's all yours. Come over here, guys with sweet jackets. We're here to help.
+DM: Is that your turn?
+JAKE (Fic): It's my turn, I'm gonna, I'm gonna be giving torture of the eyes, like you ******* better have made this. Good choice here.
+PHIL (Tordrug): Okay. But I'm still like getting my fireball.
+JAKE (Fic): Yeah, and I'm gonna hold, I'm gonna hold an action too. I'm gonna hold a, I'm gonna hold a. A fire bolt. If he attacks anybody, it's getting fire bolted.
+DM: Alright, that's your turn.
+JAKE (Fic): It's my turn.
+DM: All right, so Biz Widget Tinkle Noggin casts Dimension Door. But before he goes in, slowly. He says to Tor Drug, it's not energy, it's entropy.
+PHIL (Tordrug): Mm.
+DM: And he steps through the door and vanishes.
+JAKE (Fic): Well, OK, that was that was weird.
+DM: And. And then, as that happens...
+JAKE (Fic): Yeah. Uh-oh.
+DM: ******* long list. It's getting ridiculous. All right, I'm going to put that up here too for quick. Ohh.
+JAKE (Fic): Well, Collins doing that, he. Jeff, are you coming on Saturday?
+JEFF (Baron): Yeah, yeah, for sure.
+JAKE (Fic): Pete and Steve, I didn't invite you, but having people over Saturday night.
+STEVE (PQNine): Parker. I guess I'll just stay home
+SAMEASLASTTIME (Hairy): Yeah, I was gonna be there, but... Play more. Yeah, absolutely. My row party.
+STEVE (PQNine): Pete, you wanna hang out on Saturday? Sweet.
+PHIL (Tordrug): Ohh.
+JAKE (Fic): We might be coming up to Toronto May 2nd. I don't know our itinerary though, but maybe we get together for dinner.
+SAMEASLASTTIME (Hairy): You know, you go and travel on May 2nd, you're not gonna come Ottawa.
+JAKE (Fic): No, nothing going on May 2nd, ************.
+SAMEASLASTTIME (Hairy): It seems weird. Seems pretty selfish. Seems pretty selfish.
+STEVE (PQNine): Yeah. Yeah.
+DM: All right, so I rolled initiative for Clockwork Defenders. And they actually got the same role at the that fizzle widget, whatever his name is, got before. That's why I made it so no one could remember his name, because I can never remember his ******* name.
+JEFF (Baron): Ha ha ha.
+DM: Um... All right. Alright, so, Baron, you, oh, you're holding a, you're holding an action, right?
+JEFF (Baron): Me? Uh, I guess I will.
+DM: Do you really want to feed the horse or do you want to hold an action?
+JEFF (Baron): I guess I was sort of like holding my bow towards the door, but I'm going...
+DM: You did make you made specific reference to that in the last game.
+JEFF (Baron): Yeah, whoa, so this guy's down here.
+DM: He just came through the door.
+JEFF (Baron): Yeah, definitely firing an arrow out of that. Okay, well that changes my plans.
+DM: All right, so if you're going to loose that arrow, you got to roll a D6 before you fire.
+JEFF (Baron): Ohh yeah, right. Come on, bye. Four is just normal, right?
+DM: So the mechanic, yeah, that's normal.
+JEFF (Baron): That works too. And. Ohh yeah, 17 to hit. Oh, I only did 6 damage though.
+DM: All right, let's see. Hang on. Yeah, you got him.
+JEFF (Baron): Nice. And so that's from my last turn, like in, or like I guess it's his turn currently, but that'll be like my, it is my shot on his round kind of thing. Because my turn is coming up, so okay, okay.
+DM: Yeah. Yeah, so he comes up to you.
+JEFF (Baron): It's like a...
+DM: And what has he got here? He's only got one. He's got electrified bite.
+JEFF (Baron): Oh, 11 to hit. That misses.
+DM: Yeah. And he's only got, I think he only got one. Let me just double check this. These notes seem sort of sparse. Yeah, just one attack. All right, the next one comes in: one, two, three, 4, 5, 6. One, two, three, 4, 5, 6. All right, Baron.
+JEFF (Baron): Ha. I, I really don't know if I'm tripping out here. Uh, I'm gonna call up.
+DM: They seem a little further away than normally. They seem kind of small.
+JEFF (Baron): I'm gonna call up to Vic and say, "Hey, Vic, I think your horse is down here, and there's some maybe some dogs down here."
+JAKE (Fic): Can I hear him?
+JEFF (Baron): I don't know. Can they hear me upstairs? Okay, sweet.
+JAKE (Fic): She was.
+JEFF (Baron): My interest was...
+DM: Well, actually, no, make a perception check.
+JAKE (Fic): Ohh.
+JEFF (Baron): Upstairs.
+DM: Yeah. Fick, make a perception check.
+JAKE (Fic): Listen.
+JEFF (Baron): Ohh yeah.
+DM: Yeah, he can hear you.
+JAKE (Fic): Those.
+JEFF (Baron): Okay, so my interest is with this box now all of a sudden, and so I'm guessing I'm going to step away from the one dog and come over to the box.
+DM: Okay. Uh, if you step onto that circle...
+JEFF (Baron): Oh yeah, I did. But I thought they did already too. So I thought somebody already like went in and looked at the box.
+DM: No, people looked at the box, but they didn't step on the circle.
+JEFF (Baron): Oh yeah, I'm going right up to it. But I'll stay on this side because that was the side closest of the circle. Like that would be my first step is on that square.
+DM: All right, where am I? So, I want you to make a wisdom saving throw. I'm pretty sure. Hold on. I gotta look this up. Ohh. Yeah, wisdom.
+JEFF (Baron): Bam. Oh.
+DM: All right, stepping onto the circle. You kind of feel like whoever. has this place is actually pretty cool. Like...
+JEFF (Baron): So, I'm stoned and now I'm just chill.
+DM: Yeah, like, I don't know, maybe it's actually you certainly think it's really wrong to be coming in here and interfering with everything.
+JEFF (Baron): Okay. I was thinking about breaking into that box the second before I stepped into the circle, but now, yeah, I'm just like, whatever.
+DM: So, um, you... Is this actually in roll 20? Do I have this? Uhh... No, it's not in there. All right, so you have been affected by... Crown of Madness. Which here, I'll put it into the chat because it's, I don't have, I don't have, I haven't paid enough money I guess that I can. Um...
+JEFF (Baron): Some of the things are, yeah, like unique to, or whatever.
+DM: So you have a, well the target, so you are charmed and you have a twisted crown of jagged iron on your head. And I guess you can't see it because you're not in front of a mirror, but there's a madness that glows in your eyes. Um... And then you got to pick, so you don't want to attack the Clockwork Defenders. They're pretty cool. They're good inventions. Why would you destroy these perfect inventions?
+JEFF (Baron): Yeah, and I was totally going to use my crowbar against the box, so I guess this won't allow me to do that either, because that would be like a destructive thing too. So, I'm just chilling down here then. Go back to try and feed and fix horse. I'll just pet it.
+DM: What me? Botany.
+STEVE (PQNine): So I'll turn to the guys around me and I'll be like, did you guys see that? Then I'll go over to where the dimension door was and I'll investigate and see if I can see any sort of... Sign of a dimension door. Using my perception.
+DM: It was there, you remember it. Everybody else does, but other than that, it's a normal floor.
+STEVE (PQNine): Guess that's on my turn.
+PHIL (Tordrug): So are we, we're still in combat. OK. Um... Okay, so I heard, what did, sir, what did he yell up? Just that your horse is down here?
+JEFF (Baron): And there are some dogs.
+DM: Well, see if you heard it. Roll A perception check. I'll give you that one for free.
+JAKE (Fic): Of the list.
+PHIL (Tordrug): Hey.
+JEFF (Baron): Mmh.
+DM: You're not really sure, but Fick definitely heard something.
+JAKE (Fic): And put juice and steak on.
+PHIL (Tordrug): Okay, um, and like the desk crumbled.
+DM: Yeah, that was weird.
+PHIL (Tordrug): Yeah, that was weird.
+DM: And it happened pretty much when Fick picked up the box.
+PHIL (Tordrug): No, no. Uh, yeah, I'm just gonna be like... Okay, that was, you're right, that was really crazy. Quadney, Core Mechanico, Norm, just, or Gnome, just. Yeah, but you seem to know him. What was the deal with that?
+STEVE (PQNine): Right. I don't know, he just seems familiar. Doesn't he seem familiar to you?
+PHIL (Tordrug): Not at all. I've never seen a half machine, half gnome.
+STEVE (PQNine): But he's got that kind of face that looks like someone you know, doesn't he?
+PHIL (Tordrug): He had glowing red eyes and steam coming out of his head. So no, I would think I would, it doesn't, it's not really like a familiar face to me. Or do, I don't think.
+STEVE (PQNine): Yeah. Hmm. Do you have a bad memory?
+PHIL (Tordrug): Yeah, a little bit, maybe. Although I feel like I would remember a clockwork gnome, like a dimension door. So I'm just going to go over and I'm going to like yell down to... Baron and be like... Everything okay down there?
+JEFF (Baron): We get to respond on his turn? I guess like with sending, that's the way it works, right? Oh, but now I do think everything's okay. So I'm not even going to respond. Yeah, I'm just going to be like, is somebody talking?
+PHIL (Tordrug): And. Yeah. Can I see, so if I open that door and look down, is there, can I see the dogs or no? Or I'm just gonna be like...
+DM: Yeah, I mean you have enough, you're close enough to look down there, like open it up and look. Like I'm going to say it's already open because nobody closed it.
+PHIL (Tordrug): Yeah. Yeah, that's what I'm gonna do. I'm just gonna open and look.
+SAMEASLASTTIME (Hairy): Mm.
+PHIL (Tordrug): Okay, so I'm just gonna look down. Do I see anything immediately below?
+DM: Yeah, there's a, you can see at least one mechanical dog standing at the bottom of the stairs.
+PHIL (Tordrug): Oh, ****. Okay, I'll be like, oh **** guys, there's, oh fiddlesticks that guys, there's a bunch of, there's another set of those weird dogs at the bottom of the ladder. So I guess... Is that my turn or can I take an action? How are we? I sort of had a little conversation there.
+DM: Well, you can, you can have conversation, you can talk without any kind of penalty, so...
+PHIL (Tordrug): Okay, so I guess I will fire bolt down the ladder. At the guy. At the at the dock. Oh, snap, snip, snappity, is that right?
+DM: Woof.
+PHIL (Tordrug): I have.
+DM: All right, so that was...
+PHIL (Tordrug): 2D10, yeah, okay.
+DM: That one there, right?
+PHIL (Tordrug): Yeah. Yeah.
+DM: Alright, yeah, it's looking kind of scorched.
+PHIL (Tordrug): Well, that's the end of my turn.
+DM: All right, Harry Styles.
+SAMEASLASTTIME (Hairy): Okay, scene. What? Tortrick just did, I will. One, two, three, 4, 5, 6. And can I look down and see the dog?
+DM: Yeah, you can see at least one.
+SAMEASLASTTIME (Hairy): Okay, I will. Cast. Chill. I will cast. I have to be touching over this, yes, chill touch. On the dog. That's A 16 to hit, 7 necrotic damage.
+DM: It seems to have no effect.
+SAMEASLASTTIME (Hairy): Huh. Um... Alright, that's all I got.
+DM: All right, thick.
+JAKE (Fic): Come look down here as well. Then I'm going to do a, I can see this dog down there.
+DM: Yeah, the first one, yeah, this is the one right at the bottom of the ladder.
+JAKE (Fic): I'm going to yell out Shadow Strider. I'm going to shoot a firebolt at him. It.
+DM: It has no effect.
+JAKE (Fic): Ugh.
+DM: Alright, that's your turn.
+JAKE (Fic): It's my turn.
+DM: All right, so the dogs... Recognizing that Baron has walked into the circle, understand what's going on. and are going to move back from a place where anyone can hurt them. Aaron, these dogs are really cool.
+JEFF (Baron): Are you gonna try?
+PHIL (Tordrug): Mm.
+DM: I mean, that's what that's what you're thinking.
+JEFF (Baron): Yeah, I'm gonna try and pet this one.
+DM: Yeah, it lets you.
+JEFF (Baron): Great.
+PHIL (Tordrug): Oh, wow.
+JAKE (Fic): Two.
+JEFF (Baron): That's my turn. I moved a few feet. Hung out with a dog.
+DM: Alright, is that your turn? All right. I'm actually going to have you hold an action for whoever comes down the ladder.
+JEFF (Baron): Well, okay, because I was reading that and yeah, it says like I'm supposed to be like attacking people or things that you have determined. So yeah.
+DM: Yeah, so I'm, well, you get to, I'm pretty sure you get to save at the end of your turn, right?
+JEFF (Baron): Oh yeah, that too. Yeah, yeah.
+SAMEASLASTTIME (Hairy): I feel like his action was petting the dog though. I mean, let's be real here.
+DM: Well, I'm not, I'm gonna make it so his action is say is holding an action for you guys.
+JEFF (Baron): It was bonus action to pet the dog.
+SAMEASLASTTIME (Hairy): I got it.
+DM: But you still gotta, you still gotta roll for the shrooms. Don't forget that.
+JEFF (Baron): And also the wisdom, too.
+DM: Yeah, but I mean, you're holding an action, so I would say roll for wisdom first, because it's at the end, right?
+JEFF (Baron): Sure, yeah. Yeah, that did not save.
+DM: All right, so I think I'm going to put you back there then. Or maybe you're getting ready to pet, but you're holding an action. All right, Quatney.
+JEFF (Baron): Mmh.
+STEVE (PQNine): Uh, okay, I'm gonna go to this wall. And I've got... A rusty key. I'm gonna, I'm gonna hold it on the wall. And I'm going to say... Tinkle widget. And I'm gonna, I'm gonna knock.
+DM: You, but you can't actually think of that name.
+JEFF (Baron): Well, that wasn't the right name anyway, right?
+STEVE (PQNine): It wasn't the right name.
+SAMEASLASTTIME (Hairy): Yeah. This has a bit of gibberish.
+STEVE (PQNine): I gotta like.
+DM: And actually, if you're going to try to think of his name, I'll have you roll a D6.
+STEVE (PQNine): Okay, I'm definitely gonna think of his name.
+PHIL (Tordrug): Yeah. This is actually me.
+JEFF (Baron): Fizz widget, Tinkle Bottom.
+DM: Yeah, you just, you kind of have a headache.
+PHIL (Tordrug): Tinkle butter.
+DM: It just won't come, it won't, you can't summon it from the depths of your mind.
+STEVE (PQNine): Then I'll, I mean, I'll try to say. Like I didn't say the right name, but I'll try to say, okay, so that's what I said. And I'll be like, and I'll like, sort of be holding, holding the key, and then I'll let go of the key.
+DM: Yeah, that's what you said. Alright, it falls to the ground.
+STEVE (PQNine): I'll just sort of look over at... at the at my companions, and I'll be like, I don't know what to do.
+PHIL (Tordrug): Mm.
+STEVE (PQNine): That's my turn.
+PHIL (Tordrug): That was that was your plan?
+SAMEASLASTTIME (Hairy): That was a plan.
+JEFF (Baron): The last home, the Chaplain guy, he was in the wall, right?
+PHIL (Tordrug): It's true.
+DM: All right, is that your turn?
+JAKE (Fic): I see your character sheep.
+STEVE (PQNine): That was my turn. Yeah.
+DM: All right, Tor drug.
+PHIL (Tordrug): Um, can I still see the dog at the bottom of the stairs? Or the ladder? I can't.
+DM: Nope.
+JEFF (Baron): They've moved back.
+PHIL (Tordrug): Okay, I guess I will go down the ladder. And I'll be like, Baron, are you okay, Baron?
+JEFF (Baron): Oh, I'm at disadvantage, I think, with the two.
+DM: Let me remember what that is. I think you are, too.
+JEFF (Baron): which is beneficial because I'm shooting.
+DM: Hey, you misjudge the distance and you attack at a disadvantage.
+JEFF (Baron): Yeah, I'm shooting at Tor drugs, so...
+PHIL (Tordrug): Wait, you're shooting at me?
+JEFF (Baron): Probably good. Yeah, you just stepped into range. Oh, do you want to move him back onto this screen?
+JAKE (Fic): Wait, hold on. e-mail me that picture. Okay.
+DM: Oh yeah, sorry.
+PHIL (Tordrug): This is an outrage. This is an actual outrage.
+JEFF (Baron): It's okay. Yeah. Uh... Eighteen, I guess.
+DM: Yeah, 18 to hit.
+PHIL (Tordrug): Hold on, let me see what my what does shield do.
+JEFF (Baron): Plus 2, I think, maybe.
+PHIL (Tordrug): Plus 5. Okay, so I'll cash shield. Yeah.
+JEFF (Baron): Ohh, nice.
+PHIL (Tordrug): I got a shield and that will not hit.
+JEFF (Baron): You're lucky I'm on shrooms.
+DM: Yeah, you're kind of shocked because that arrow didn't, it came from Baron and he has a jagged metal crown on his head and a glint of madness in his eyes.
+PHIL (Tordrug): Okay. No, that's not right. Ps. Yeah, I'm gonna cast. Uh... Charm person. On Barron. Uh, why does it, why would I cast it higher? One additional creature. No, okay, so it doesn't matter. So yeah, I'll just cast Charm Person on him.
+DM: K.
+PHIL (Tordrug): Uh, so you have to do a wisdom saving throw against my... 16.
+JEFF (Baron): Uhh. Oh, not with this bandage, but it'd be 13, I guess.
+PHIL (Tordrug): Thirteen.
+DM: All right. You no longer think that the guy who runs this place is pretty cool. Now you actually think that Tor Drug Slatewalker is the coolest person you've ever seen.
+JEFF (Baron): The dogs are cool.
+PHIL (Tordrug): EE.
+JEFF (Baron): Whoa, man, did I just shoot at you?
+DM: Yeah, and you're kind of embarrassed, like you're...
+JEFF (Baron): I thought it was somebody else coming in.
+DM: You can't believe that you shot at him because he's so awesome. But I mean, the way that he deflected it, it was like, and you were like, wow.
+PHIL (Tordrug): Ha ha ha. Yeah. So I would say, you know, it's really awesome, killing robo dogs. And that'll be the end of my turn.
+DM: All right. Harry Styles.
+SAMEASLASTTIME (Hairy): I will also go down the ladder. I see. What do I see? What do I see? What do I see? You got to move me down the ladder, man. I think he's scratching his ankle. You want to move me down the ant ladder?
+DM: Yeah, hang on.
+SAMEASLASTTIME (Hairy): There we are. Holy cow, three dogs. Okay. Yeah, I wish I'd saved that slow. I am going to... Test. Flame blade. I get a fiery blade in my hand. That will go on. Move here, and I will... Strike at this dog with my flame blade. Flame blade, 20 to hit, 12 points of flame damage.
+DM: All right. Looking pretty scorched.
+SAMEASLASTTIME (Hairy): Yeah, suck it, dog. The. I should find a cool icon for flame blade.
+DM: Vic, I take it that's your turn, right?
+SAMEASLASTTIME (Hairy): Damn right, it's my turn.
+JAKE (Fic): Going down the ladder, man.
+JEFF (Baron): I... Is what you say to Klopny as you go down the ladder?
+JAKE (Fic): Yeah, kid. Oh man, hold on, I got my ring of jumping. So, I'm actually just gonna like...
+DM: Jump down.
+JAKE (Fic): Be like, **** me and just... Bullet slide down the down the hall. Like, one movement.
+DM: Does the ring of jumping remind me what it does?
+JAKE (Fic): Ring jumping on. I chatted out there. Stupid thing. While wearing this ring, you can cast the jump spell from it as a bonus action at will, but can target only yourself when you do so. Ring of jumping. So jump spell. I'll have that in my thing here. Spells. Jump. Crisscross will make you.
+SAMEASLASTTIME (Hairy): Jump, jump.
+JAKE (Fic): Jump distances dribbled.
+DM: Does that mean you can land though? You can jump to three times as high, but it just breaks your legs. Yeah, that'd be like kind of crappy. So it says, what I got is while wearing this ring, you can cast a jump spell from a bonus action at will, but can target only yourself. Okay, so I'm assuming that, yeah, the landing is concluded. Otherwise, that'd be a huge rip off.
+JAKE (Fic): Okay, so now I kind of like, I get down there, so do I have like my full? Motion again?
+DM: Well, how many spaces did you move to get over to the trap door?
+JAKE (Fic): I was right at the tractor. That's why I was just like, zip, and then boom, down to the floor.
+DM: I'd say it's one. I mean, you'd have to, you'd actually have to jump.
+JAKE (Fic): All right, sweet. I'm gonna go. See how this works here. One, two, three. Sweet. I'm gonna stab this dog. And don't do. Plus 1 Reapier. Hold on, do that again. This one. There you go.
+DM: Alright, it bounces off the armor.
+JAKE (Fic): That. I think that's me, that was my bonus action and attack. Hold on, do I get an extra? Oh, I didn't hit, so I don't get an extra 3D6 damage. Did I hit or not? Yeah. This is no good.
+SAMEASLASTTIME (Hairy): No bueno.
+DM: Alright, uh, Clockwork Defenders.
+JAKE (Fic): But hold on, I had an advantage, I had an advantage.
+JEFF (Baron): We did, because we're blanking.
+JAKE (Fic): Because I'm blinking.
+DM: Okay. Okay, roll another d20 then with a plus 7. Roll another D20 or roll it again. Just roll it again. Roll it once. Advantage like...
+JAKE (Fic): Yeah, yeah, yeah. Okay, I'll take advantage of, I'll just roll it again, I'll just roll it again, yeah, yeah.
+DM: Why did you have advantage? Oh, because it was flanking. Right. Okay, go.
+JEFF (Baron): Ha ha ha!
+DM: All right, so... O, this first one. Uh, is going to, it's going to... Because Baron's in the circle. So, it's programmed to ignore whoever steps in the circle, although you guys, I guess you guys don't know that, but it goes to byte. Thick. Alright, just trying to get it here. So, 13 does not hit, I take it.
+JAKE (Fic): Um, nope.
+DM: All right. Clockwork Defender here. Moves down to Tor Drug. With a bite, 17 to hit.
+PHIL (Tordrug): Uh, oh, I already used my reaction, so yes, that hits.
+DM: Alright, so you take 6 damage plus 7 lightning and you gotta save on a DC 13 or else become grappled.
+PHIL (Tordrug): But. Sorry. Teen. Sorry, what do I have to do?
+DM: You gotta do a strength check. Athletics, whatever you want.
+SAMEASLASTTIME (Hairy): Strength saving throw.
+PHIL (Tordrug): Just. Strength saving through. Okay, here we go. It's going to be a really good one.
+JEFF (Baron): Ohh.
+DM: Alright, you are grappled.
+STEVE (PQNine): Mm.
+PHIL (Tordrug): Damn it, strength's not my strength.
+DM: The last one. Harry Styles. What is that? Oh, that's 'cause I opened Harry Styles, not the Clockwork Defender. It attacks with the electrified bite. Nine to hit. Misses.
+SAMEASLASTTIME (Hairy): Suck it, dog. It does mess.
+DM: All right. So, I rolled a sense.
+SAMEASLASTTIME (Hairy): It comes to bite me, I shove my boot in its mouth. Like, you like that dog? Electric Dog. Don't miss on the electric fence.
+JAKE (Fic): Mm.
+DM: All right. You can see another one coming.
+SAMEASLASTTIME (Hairy): Oh. There's another dog! I yelled at him. Another dog! Really?
+DM: All right, Baron.
+JEFF (Baron): Do I still have the crown on my head?
+DM: So this kind of creates a, I don't know if there's like precedent for this crown of madness.
+JEFF (Baron): Yeah, I was wondering that too, like, can you be charmed twice or does the charm just go away or?
+STEVE (PQNine): Double-charmed.
+DM: Like the nerds talk about it the opposite way. So if you cast a harmful action against someone who's charmed.
+JEFF (Baron): It breaks the, it breaks the spell or or something, right?
+SAMEASLASTTIME (Hairy): Depends on the spell though.
+DM: Like...
+SAMEASLASTTIME (Hairy): But this spell should say if the person's harmed, then it will break the charm.
+DM: Well, it's not harm though. It's basically like a charm spell, right? Because it's an enchantment spell. It's second level versus first level for charm. But toward drug cast it at this, what level did you cast it at?
+PHIL (Tordrug): Just one, level one, yep.
+DM: So does a second, does a first level spell cancel at a second level spell?
+JEFF (Baron): Well, so when it comes to like dispel magic, right? If you would roll, like, so your chances of doing it aren't necessarily 100%. Is that how it works?
+SAMEASLASTTIME (Hairy): I think if you're already charmed, you can't be charmed again. Like if you're charmed, you're charmed.
+DM: Okay, so then I guess it didn't work then.
+JEFF (Baron): I just... For a chargeback.
+SAMEASLASTTIME (Hairy): Yeah, like if he's already charmed, he... You can't take it over.
+DM: So it only works, yeah, so I look up this, it says it's only if it's a counter spell, but I mean, I would think because it's the opposite, it would work, right? But it's not a reaction spell. It's not like shield or absorb elements or counter spell.
+PHIL (Tordrug): Yeah, I thought about using counter spell, but it that is like you interrupt the casting of the spell, not.
+SAMEASLASTTIME (Hairy): Yeah, it would have to be dispell magic, not casual.
+DM: Okay, never mind. So I guess.
+JEFF (Baron): I am still under the crown.
+DM: And I guess Fick would have talked on this. This is just so confusing. All right.
+JEFF (Baron): Well, I don't know about that because, yeah, I don't know how that would work, but.
+DM: What do you mean?
+JEFF (Baron): I mean, because yeah, I guess the dog knew that I wasn't worth focusing on. So yeah, it wouldn't.
+DM: Well, you're in the circle, right? So...
+JEFF (Baron): Yeah, but he failed his hit anyway, so it didn't really matter. It didn't give him any advantage.
+DM: Oh no, I wasn't thinking of that. I was thinking with Fic attacking the dog with you on the other side, right? So, all right, so I'll have you, I'll have you attack Fic. But you had a role for the distortion caps.
+SAMEASLASTTIME (Hairy): Yeah, that's bad.
+DM: All right, disadvantage.
+JEFF (Baron): Uh. Oh, 19.
+DM: 19 to hit.
+JEFF (Baron): Rolling all these good numbers.
+DM: Pick.
+JAKE (Fic): Um... OK, I'm gonna try with advantage to stab this dog again.
+JEFF (Baron): No, no, I just shot you is what he was asking, I think. Yeah.
+JAKE (Fic): No, you shot me or what? 17 + 2? Oh, man.
+DM: So 19 to hit.
+JAKE (Fic): Yeah, that hits. Hold on a second. I have a... Ohh. I use my reaction to dodge that and have the damage.
+JEFF (Baron): So, 4.
+JAKE (Fic): So I'll take 4, one, two, three, 4.
+JEFF (Baron): Oh, I guess I get to roll wisdom as well. But before I do that, I'm going to be like, anybody got any more of those mushrooms?
+DM: Yeah. Yeah. Alright, go for the wisdom.
+JEFF (Baron): Oh, 14 doesn't say I don't think either, but...
+DM: Nope.
+JEFF (Baron): It was 15, I think, that I'm aiming for, right? Fourteen's like, that's my highest.
+DM: Alright, quat me.
+JEFF (Baron): Not getting 15.
+STEVE (PQNine): Okay, well, I'll pick up the key off of the ground and then I'll go to the... The Door. And I've got 5 feet of movement left. Can I open the trapdoor?
+DM: The trapdoor is already open, you don't have to.
+JEFF (Baron): It's still open.
+STEVE (PQNine): Okay, I'll go. I guess I can't climb down.
+DM: So I'll say if you have 5 feet of movement left, you're not going to make it to the bottom. I'll just leave you there.
+STEVE (PQNine): Hold on, hold on.
+SAMEASLASTTIME (Hairy): Just jump down.
+DM: Unless you dash.
+STEVE (PQNine): Uhh...
+DM: Or jump, but it's 12 feet.
+STEVE (PQNine): Yeah. I'm going to... Jump! Because I have slow fall. So, I can reduce, I can reduce my falling damage.
+DM: So remind me what that does.
+STEVE (PQNine): by 5 times my monk level, so I can reduce my falling damage by 25.
+DM: Alright, well I'm sure at 12 feet you're not really gonna.
+STEVE (PQNine): Yeah, I could just float down.
+DM: All right, you float down to the bottom.
+STEVE (PQNine): That means I still have an action left.
+DM: Slow fall, is that just, what is that? That's all, it's a reaction. Okay.
+JEFF (Baron): This is always on kind of thing, or is a reaction to falling?
+DM: Oh, well, it's a reaction, so reaction to falling.
+JEFF (Baron): I guess.
+DM: So if you jump down, okay, yeah, I get it. But then jumping is an action, isn't it?
+STEVE (PQNine): Can I, can I do that? I guess jumping is the action, and then...
+JEFF (Baron): Oh, it's probably your movement though, right?
+SAMEASLASTTIME (Hairy): Yeah, part of your movement. It's not a separate action. Well, it's whatever Colin decides.
+JEFF (Baron): Because that's what it was for Vic as well. When he jumped out, it was just part of his movement.
+DM: Yeah, but FIC has had a jumping ring, so it made it so that it wasn't an action.
+STEVE (PQNine): See, I... But I didn't jump, I just sort of walked onto the open air.
+JEFF (Baron): It fell.
+DM: Okay, whatever. So you still, you have an action if you want to use it, but you can't move.
+STEVE (PQNine): Yes. Yeah, what a nice.
+DM: So if you can do something arranged.
+STEVE (PQNine): I don't really do ranged. I'm going to, I guess I'll hold a dodge.
+SAMEASLASTTIME (Hairy): Now you just use your dodge action. You don't hold it.
+STEVE (PQNine): Oh. I was waiting.
+JEFF (Baron): Ha ha ha ha.
+STEVE (PQNine): Okay, I guess I'll use my dodge, even though I'm not dodging.
+DM: All right, tor drone. You are grappled.
+PHIL (Tordrug): What does that mean?
+DM: That means...
+PHIL (Tordrug): Can't leave.
+JEFF (Baron): You can only attack it with like the dog that's grappling you.
+SAMEASLASTTIME (Hairy): No, you just can't move, and I think it may...
+DM: You can't, yeah, so you can use your action to escape if you want, or you can you can stay there. But you can't, like, you can't move.
+PHIL (Tordrug): OKOK. Um, I will...
+DM: Hang on, I just got a... and tested by your strength check. What the ****?
+JEFF (Baron): Well, also the electrified bite doesn't make sense either, because it's like it will grapple a creature, then that creature takes damage on the defender's turn, but the creature can't also use its electrified bite again. So it's like, is it referring to Tor Drug as being the defender or the dog?
+SAMEASLASTTIME (Hairy): No, the Defender is the name of the, it's a Clockwork Defender, is the name of the dog. So the Defender is the dog.
+JEFF (Baron): So the defender takes damage for grappling and it can attack while it's grappling. So that's the worst move ever.
+SAMEASLASTTIME (Hairy): No, the the it inflicts damage, it doesn't take damage.
+PHIL (Tordrug): No, it inflicts, it inflicts damage. Yeah, yeah.
+JEFF (Baron): Creature grappled takes damage. Okay, the creature that's grappled at the start of the defender's turn. Okay, okay, okay, yeah, that makes sense.
+SAMEASLASTTIME (Hairy): The, yeah. Yeah.
+PHIL (Tordrug): Yeah, yeah, so basic.
+DM: Yeah, I think I left a word out there because I have to program all this **** in, right? And I'm like, oh, Jesus Christ.
+JEFF (Baron): Oh, okay, but it still can't use its electrified bite, so it just automatically takes damage kind of thing rather than having to do it.
+PHIL (Tordrug): Yeah, it's like it continues to hold you essentially I think is.
+SAMEASLASTTIME (Hairy): Yeah. Yeah, and you get like piercing damage instead of also lightning damage, but you take it automatically.
+JEFF (Baron): Yeah. It doesn't have to try to hit you. It's just automatic damage. Yeah, okay, that makes sense too.
+SAMEASLASTTIME (Hairy): Yeah, because you take, you probably take automatic damage at the beginning of your turn and then it can bite you for more damage, just not electric.
+PHIL (Tordrug): Okay, well, I...
+SAMEASLASTTIME (Hairy): As I assume how it goes.
+DM: So it says a creature grappled by the defender takes damage again at the start of each of the defender's turns. The defender can have only one creature grappled in this way at a time, and a defender can't make electrified bite attacks while grappling. So it can't electrocute you again, but it can do the piercing damage. which is what you said.
+PHIL (Tordrug): Okay, so... Three, 4, 5. Okay, I'm gonna cast, but so I can cast. Normally, I can just shoot things at him if I want to. I guess I'll hope for the best here and just shoot him with a level 3 magic missile.
+DM: Wait a minute, hang on a sec.
+PHIL (Tordrug): Oh, oh.
+JAKE (Fic): Level 3 magic missiles is at least three missiles.
+JEFF (Baron): I thought it was 5.
+PHIL (Tordrug): Yeah, it's five, I think. Yeah, yeah. Two, three, 4, 5.
+SAMEASLASTTIME (Hairy): 5 missiles.
+JAKE (Fic): Love you.
+JEFF (Baron): So you have to hit it.
+DM: Yeah, you're all good.
+PHIL (Tordrug): Okay, so.
+SAMEASLASTTIME (Hairy): 15, 19, 22. Wow.
+JAKE (Fic): Damn.
+DM: Twenty-two.
+SAMEASLASTTIME (Hairy): That's a good one, yeah.
+PHIL (Tordrug): And he crumbles to pieces.
+DM: Nobody's looking pretty singed.
+PHIL (Tordrug): Okay, pretty sensed.
+DM: Harry Styles.
+SAMEASLASTTIME (Hairy): Yeah, Harry Styles, I'm going to swipe with my flame. 24 to hit.
+DM: All right. All right, 8 damage.
+SAMEASLASTTIME (Hairy): Wait, I'm going to use... One sorcery point to re-roll the damage.
+DM: OK. Okay.
+SAMEASLASTTIME (Hairy): So it's 3D6. I think I can do better than 8. 3D6. Oh God! I have to use that one so it's 6.
+JEFF (Baron): Ha ha ha!
+DM: All right. It's looking pretty singed.
+SAMEASLASTTIME (Hairy): You must use the new rules.
+DM: Vic.
+SAMEASLASTTIME (Hairy): What does that even mean?
+JAKE (Fic): Um, man, let's do it, advantage.
+JEFF (Baron): Ha ha ha.
+JAKE (Fic): Stabby, stabby.
+DM: Well, you don't have advantage because Baron just shot at you. Remember?
+JAKE (Fic): Yeah, it's ********.
+SAMEASLASTTIME (Hairy): You can attack the dog that's uh grappling uh tor drug and get uh.
+JEFF (Baron): Advantage that way.
+SAMEASLASTTIME (Hairy): Not advantage, but not advantage, but you get the extra damage. Because your allies within 5 feet.
+JEFF (Baron): Oh, because he's near and near an ally, yeah.
+PHIL (Tordrug): But it could be.
+JAKE (Fic): I'm gonna disengage, disengage, and get some advantage. Advantage of stabby stabby. Zoom on. Just break the skull.
+DM: Alright, that hits. And it's looking pretty singed. Is that it?
+JAKE (Fic): Yeah, that's all I got.
+DM: Like, it's looking pretty. I think one more could just smash it to pieces. So, all right, Clockwork Defenders. We'll go with... So, we'll go with this guy first. Um, he's gonna follow you, Vic. Actually, he's going to go right there so that he has advantage.
+STEVE (PQNine): Oh, there's another one down there.
+DM: Oops, I forgot to do advantage there, but it doesn't matter.
+JEFF (Baron): Whoa! But, yeah, you're all better than that.
+PHIL (Tordrug): Mmh.
+DM: Alright, so that's 8 + 4 + 8 + 9.
+JEFF (Baron): So, 29.
+DM: Twenty-nine.
+STEVE (PQNine): Ohh.
+SAMEASLASTTIME (Hairy): That's no good.
+JAKE (Fic): Who's that against?
+DM: You.
+PHIL (Tordrug): You.
+JAKE (Fic): Oh, I gotta go back to my computer then. Hold on, let's do it again.
+STEVE (PQNine): You.
+JAKE (Fic): I think I'm down.
+PHIL (Tordrug): Got my attention.
+JAKE (Fic): Yeah, I thought I was gonna have a little break here and then call and bust out this ********. 29, I'm down.
+DM: You don't have any kind of like you can't reduce that in half with a reaction.
+STEVE (PQNine): This.
+JAKE (Fic): Yeah, I can dodge. So what was it?
+SAMEASLASTTIME (Hairy): So, your easy reaction?
+JAKE (Fic): Yeah, I can dodge.
+DM: I don't think he, well, is so the disengage, that's not a reaction, that's a bonus action, isn't it?
+JAKE (Fic): What's the total there?
+SAMEASLASTTIME (Hairy): It's bonus action, yeah, so you can still...
+JAKE (Fic): Well, no, I can do...
+DM: Yeah, so you can use your reaction.
+JAKE (Fic): I can dodge. Yeah, on my own Kenny Dutch, so...
+SAMEASLASTTIME (Hairy): Uncanny Dodge.
+DM: So 29 reduced to half is 14.
+JAKE (Fic): So, what was the total there? Yeah.
+SAMEASLASTTIME (Hairy): Fourteen.
+JAKE (Fic): Alright, so I'm still good.
+JEFF (Baron): Well then you may have to roll whatever the thing is against the DC 13.
+DM: Yeah, you gotta do, you gotta do a strength check or be grappled. You gotta roll 13.
+SAMEASLASTTIME (Hairy): Ohh. Strength saving.
+JAKE (Fic): Ooh.
+SAMEASLASTTIME (Hairy): Sh. Loose.
+DM: Nice, alright.
+JAKE (Fic): Look, swap that dog off of me. It's going down now. You all good? I can go back, do my thing.
+DM: Yeah, you can do your thing. Um, so that's that one. And then this one. So it's. Hang on, I just got to go into the... So I guess, yeah, you're grappled, so it's just going to do the 1d8 plus 3, because it doesn't need to roll, right? Is this already on? Making sure I got the rules right.
+JEFF (Baron): Oh, oh, plus three, you said, or plus.
+DM: 2 + 3, yeah, so that's five tor drug.
+PHIL (Tordrug): Me.
+DM: And it's going to hold on to you. And then this one over here with Harry Styles.
+PHIL (Tordrug): I like this at all. Some ********.
+SAMEASLASTTIME (Hairy): Ohh, what the?
+JEFF (Baron): Oh, ho, ho.
+DM: Holy ****.
+SAMEASLASTTIME (Hairy): 18.
+DM: Another critical. So, 5 + 1 + 2 + 10.
+SAMEASLASTTIME (Hairy): Flag. It's like half my.
+DM: So that's 6, 8, 18.
+SAMEASLASTTIME (Hairy): So for half my points. And then strength saving through. It's not my best. 18, yeah.
+DM: Yeah, good work.
+JEFF (Baron): Ohh, nice.
+DM: You shake it off, alright? Baron. Uh, I'm gonna have you take aim at Quapney.
+JEFF (Baron): I'm still. Okay.
+DM: Roll for the site caps.
+JEFF (Baron): Oh, yeah.
+STEVE (PQNine): And I've got...
+JEFF (Baron): My mushroom advantage.
+STEVE (PQNine): A Dodge.
+DM: So that's normal. Yeah, you gotta dodge.
+STEVE (PQNine): So what does that mean again exactly? It's a disadvantage?
+DM: I don't know, there's too many ******* rules.
+SAMEASLASTTIME (Hairy): They get disadvantage when they attack you.
+STEVE (PQNine): I think it's, yeah, so, so if you have advantage, but if you have it, were you gonna roll with advantage?
+JEFF (Baron): Have to.
+DM: Okay, so disadvantage, great.
+JEFF (Baron): Nope.
+DM: No, he was rolling normal.
+STEVE (PQNine): Uh, uh, then yeah, disadvantage, *****.
+PHIL (Tordrug): Mm.
+JEFF (Baron): Oh, 10.
+SAMEASLASTTIME (Hairy): Ooh, nice.
+DM: Yeah, it goes wide.
+STEVE (PQNine): Does not hit. I.
+DM: All right, roll your wisdom saving throw, Baron.
+JEFF (Baron): Oh yeah, this is the one. I'm feeling it.
+STEVE (PQNine): What do you need?
+JEFF (Baron): Further away, 15.
+DM: Fifteen.
+STEVE (PQNine): Mm.
+DM: Courtney.
+STEVE (PQNine): Alright, I'm gonna Othello this guy. Get over here.
+SAMEASLASTTIME (Hairy): Say, Othello.
+STEVE (PQNine): Yeah, it's like that game, and I'm gonna get advantage on him. And ******* start asking some questions. What do I have to? Plam! I guess it didn't. No, no, I didn't get, I had, I shouldn't. Oh, I do, sorry, I should have advantage. Yeah.
+DM: All right, yeah, you put a good dent in them.
+STEVE (PQNine): OK, another one. Plow!
+DM: Mm.
+PHIL (Tordrug): Ohh.
+DM: Alright, that one doesn't quite do as much damage as you'd hoped.
+STEVE (PQNine): Okay, I get one. Unarmed strike, I guess, just by normal.
+JAKE (Fic): Forgot to add my extra damage on that last hit. He would have been dead.
+STEVE (PQNine): We slam!
+DM: Well then put it on. Put it on.
+STEVE (PQNine): So I got another one there, my unarmed strike.
+DM: Or I guess it's too late. Unarmed strike.
+JAKE (Fic): That's too late because he would have died.
+DM: So that's another 9.
+STEVE (PQNine): Yeah. And that's it. That's all I can do. I can just... Do that.
+DM: All right. Tor drug.
+PHIL (Tordrug): Well, I think I'm going to do the same thing. I'm going to, but this time level 2, magic missiles. Alright, the dog that's directly beside me. One, two, three, 4.
+DM: OK, it's. With the first one, it blows apart.
+PHIL (Tordrug): Oh, nice. Okay.
+DM: and flies into a million tiny pieces of metal and clockwork gears. And it releases its grip.
+PHIL (Tordrug): Do I get to choose? Can I choose Magic Missiles between actions, or is it all like I choose it first and then OK?
+SAMEASLASTTIME (Hairy): Not that. They all headed the same time.
+PHIL (Tordrug): Yeah, **** you. is what I say to the dog. And, yeah.
+SAMEASLASTTIME (Hairy): The dog pieces.
+DM: You feel, well, you feel like ****, but it's better to have no dog holding on to you.
+PHIL (Tordrug): Yeah, all right. I think I'm just going to stay where I am for now. Or maybe I'll move. Uh, here. Yeah, one, two, three, 4, oh, oh.
+DM: All right, I wanted you to make a wisdom saving throw.
+JEFF (Baron): Oh yeah, you just stepped into the trap.
+PHIL (Tordrug): ****. Yeah, and I didn't.
+JEFF (Baron): I was thinking that position was the best too, because you're kind of like keeping the dog in there. But, and then I was also like, now you have your back to me. I can shoot you from behind.
+DM: Actually, I never even thought that Quapni walked through it too.
+PHIL (Tordrug): Wisdom saving there.
+JEFF (Baron): He might not have had to, if he, because yeah, he could have run beside it, like, because those are 5 foot squares.
+PHIL (Tordrug): Mm.
+DM: But you'd have to risk, you'd have to risk a reaction from everything going by.
+JEFF (Baron): Not necessarily, because yeah, it's just the one dog that he's closest to and he never leaves that dog's melee range or he's not. I don't know.
+PHIL (Tordrug): Uh, 14.
+JEFF (Baron): Also, the...
+DM: So you also have a crown of madness.
+JEFF (Baron): It also could be that the trap only triggers once, but I don't know how that.
+SAMEASLASTTIME (Hairy): Ohh, guys.
+DM: And you're starting to think maybe, maybe you shouldn't be in here and maybe this guy's right. as these weird, jagged, this weird, jagged metal crown appears on your head.
+SAMEASLASTTIME (Hairy): Is it working out well?
+JAKE (Fic): And she went in that circle, man. That was a bad, bad news.
+PHIL (Tordrug): Yeah, didn't I walk into it when I first came into the place and it was fine?
+JAKE (Fic): Mm.
+JEFF (Baron): That's what I said, but no, I think you just walked all around the outsides of the room. Yeah, totally.
+DM: Nope. No, you looked.
+PHIL (Tordrug): Yeah, yeah.
+DM: You didn't have time because you were being chased.
+PHIL (Tordrug): Mm.
+JEFF (Baron): But I thought, I thought somebody came and like, and maybe after we killed the dogs initially, because I thought somebody walked around like the perimeter of this room, but maybe not.
+JAKE (Fic): I think, I think we ran straight up because somebody got in trouble.
+DM: If somebody did it, it was just because they were moving, they were moving **** around, right? Like going like this.
+JEFF (Baron): Oh, yeah, yeah.
+DM: I can't watch everything all the time, so...
+JEFF (Baron): That's true.
+DM: So yeah, I guess that's your turn. Harry Styles.
+SAMEASLASTTIME (Hairy): Blame blade. Kapow! 17 to hit, 14 damage.
+DM: Go for it. Yeah, and it flies apart.
+JAKE (Fic): See you.
+SAMEASLASTTIME (Hairy): Sweet. I am going to back up a little bit. Who has the crowns of madness on them? There's the two in a circle.
+JEFF (Baron): Two down.
+DM: As you turn the corner, you see both Baron Half-Hammer and Tordrug Slatewalker with jagged metal crowns on their heads and the glint of madness in their eyes.
+JEFF (Baron): You can see us.
+SAMEASLASTTIME (Hairy): Okay, I am going to... Use 2 sorcery points and I will cast Magic Missile at first level.
+DM: K.
+SAMEASLASTTIME (Hairy): And I will have one hit each of them and then one hit the dog that is that is outside the door.
+PHIL (Tordrug): Don't roll too well.
+SAMEASLASTTIME (Hairy): Uh, two, three, and two.
+DM: Two, three, and two, which are you, where, where are they going?
+SAMEASLASTTIME (Hairy): So, two. Three. Two.
+JEFF (Baron): So does that break? I don't think that it does break the thing though. I thought we determined that.
+SAMEASLASTTIME (Hairy): I don't know, that's what I'm checking. I don't think you've been hurt yet, have you?
+JEFF (Baron): No, I have not.
+PHIL (Tordrug): If it's a charm, then it will break.
+SAMEASLASTTIME (Hairy): Normally when you take damage, you have at least a chance to break it if it doesn't break it. That's what Harry knows. He knows charms.
+DM: Well, so it's concentration, right? And that's the reason, but if it's a trap... No one's concentrating.
+SAMEASLASTTIME (Hairy): No, it's not because it's not because of concentration. It's just charms. Sometimes when you take damage, you have either a chance to break out or it just automatically fails. It depends on the spell though. It should say.
+JEFF (Baron): You're like knocked out of it.
+DM: Alright, yeah, let's do that then. I mean, I think that's fair, so I'll let you can each roll a wisdom save.
+SAMEASLASTTIME (Hairy): Yeah, let's go with some things. Oh, come on.
+PHIL (Tordrug): I am. 14 again.
+JAKE (Fic): But do we all do wisdom things?
+PHIL (Tordrug): What is the actual?
+SAMEASLASTTIME (Hairy): Oh God, you guys suck. That is too bad.
+DM: That's too bad.
+PHIL (Tordrug): Fourteen's pretty good.
+SAMEASLASTTIME (Hairy): I used my last two sorcerer slots for that.
+DM: All right, Fick.
+JAKE (Fic): Alright. Yeah, let's do this. So I'm at advantage. I am gonna stab a stab a rapier. And is that it? And I get 3d6 extra damage.
+DM: Holy ****!
+JAKE (Fic): Spoon.
+DM: Did you say spoon?
+JAKE (Fic): Spoon!
+STEVE (PQNine): It says spoon.
+DM: Alright, it's looking pretty singed.
+JAKE (Fic): And. Yeah, I'm gonna, you, I did I notice that got some advantage because I was there? I know that, right? I'm gonna stay there. I'm gonna stay there. Flex a little. Maybe maybe slap my gab cheeks.
+DM: Yeah, he did, yep, yep. Alright, now your turn.
+SAMEASLASTTIME (Hairy): I gotta switch my headset, my battery's dying, so I'll be...
+DM: OK, roll for a headset check. OK, it's 1D. 20 perception.
+JEFF (Baron): Perception.
+JAKE (Fic): Definitely perception is good.
+SAMEASLASTTIME (Hairy): That is good.
+DM: Alright, I'm gonna leave that there for now. Um, this one is this one grappled onto you? I'm pretty sure, isn't it? Did you do the?
+SAMEASLASTTIME (Hairy): Perception.
+JEFF (Baron): I don't think any of them are grappled currently because I think they both beat the strength. Yeah, yeah.
+DM: Oh yeah, because he saved. Okay.
+JEFF (Baron): Both got 18.
+DM: All right, well, Jake, I'm assuming... Oh, no, you're still there. He'll go after Quatney.
+JAKE (Fic): Yeah, you will.
+DM: Mm.
+JEFF (Baron): Twenty-one.
+STEVE (PQNine): Definitely hits.
+DM: So that is 21 to hit, 11 damage. You got to save on a 13.
+STEVE (PQNine): Uh, I have to, what do I have to roll?
+JEFF (Baron): Strength.
+PHIL (Tordrug): Strength error, yes, strength save.
+JEFF (Baron): Strength save, yeah.
+DM: You guys also have healing potions, I'm going to remind you.
+STEVE (PQNine): Ohh yeah.
+JAKE (Fic): Ohh yeah.
+JEFF (Baron): True.
+PHIL (Tordrug): Wouldn't need him.
+STEVE (PQNine): Sit in.
+JEFF (Baron): I had.
+JAKE (Fic): I might need one.
+DM: Alright, yeah, you uh, you managed to wrestle free.
+SAMEASLASTTIME (Hairy): OK, can you guys hear me? Can you hear me? Yeah.
+PHIL (Tordrug): Yep, sweet.
+JEFF (Baron): Can hear.
+STEVE (PQNine): Yeah, yeah. But I take 11 damage.
+DM: Yeah. All right, so I think that's, oh wait, this one. This one is going to attack you, Harry.
+JEFF (Baron): Ohh.
+SAMEASLASTTIME (Hairy): Definitely hits, and I am very singed.
+JEFF (Baron): What is the symbol that you have on you?
+SAMEASLASTTIME (Hairy): That's just for my flame blade. But there is no fire, so that's the closest I could come up with. It is a grenade.
+JEFF (Baron): It's A grenade, I think. Sweet.
+SAMEASLASTTIME (Hairy): Because I'm the bomb.
+JAKE (Fic): Dah bum.
+SAMEASLASTTIME (Hairy): The bomb. I like it so hot. I was really hoping that you guys would make your wisdom saving throws.
+DM: Yeah. Kind of crazy.
+PHIL (Tordrug): Fourteen's pretty good. It's pretty good.
+DM: Oh, you gotta make a strength saving check, see if it grapples.
+SAMEASLASTTIME (Hairy): Yeah. Ohh yeah. Strength saving throw, bam, you.
+JAKE (Fic): What legs?
+DM: Yeah, you managed to fight it off. Alright, uh, Baron, it's your turn.
+JEFF (Baron): Question that.
+DM: Um... I guess I'll have you. Fire at Quadney.
+JEFF (Baron): And look.
+DM: Better Mary to roll for the mushrooms first.
+JEFF (Baron): Four. Oh, I think that's just normal. Yeah.
+DM: So it's normal, unless he uses some kind of... Monk Talent.
+JEFF (Baron): No, it doesn't currently have dodge active. Yeah. The.
+DM: So, 11.
+JEFF (Baron): 11.
+STEVE (PQNine): 11 does not hit.
+JEFF (Baron): 18, I'm no longer crowned. So I was going to ask about the circle in general or like my moving in general, but I guess I can move free now. I'm definitely getting out of the circle. I think.
+DM: All right. Yeah. I'd say, yeah, get out of the circle. Get out of the circle.
+PHIL (Tordrug): I think the circle's awesome. I think every... Yeah, you do. You really do. I should be in a circle.
+DM: So you don't understand, actually you're quite offended by the fact that he left the circle. Uh, Quatney, it's your turn.
+STEVE (PQNine): Alright, I'm gonna ******* axe it.
+DM: Alright, that one doesn't do as much damage as you hoped.
+JAKE (Fic): You're using your advantage.
+STEVE (PQNine): I am. Here's another one. Chicklam!
+JAKE (Fic): Mhm. Yeah!
+DM: And that one does, and... You strike it and its head comes clean off and gears come tumbling out.
+JAKE (Fic): Not quite happening.
+STEVE (PQNine): All right. It's just like a pile, it's like a pile of mechanical gears.
+DM: Alright, what are you doing now? Yeah.
+STEVE (PQNine): Uhh... I'm going to... I'm gonna like pick up some of the gears and then throw them all around. And then I'm gonna look around.
+DM: You do? All right.
+PHIL (Tordrug): Mm.
+DM: Like, are you trying to do anything or?
+STEVE (PQNine): Yeah, that. I'm gonna watch, I'm gonna watch how they bounce and stuff.
+DM: They they bounce in an interesting way.
+PHIL (Tordrug): Haha. Yeah.
+DM: Actually, one of them you notice. Bounces into the corner and does a pleasant little...
+STEVE (PQNine): Like inception styles. Okay, I'm going to go over to that one.
+PHIL (Tordrug): Mm.
+STEVE (PQNine): I gotta go over to the one in the corner then.
+JAKE (Fic): It.
+DM: Sure, yeah, right here.
+STEVE (PQNine): And I'm going to... I have some clockwork materials myself. And I'm gonna like, I'm gonna like, sort of like, sort of, sort of like a bit, I'm gonna use them to like hit the thing while it's spinning.
+DM: K. OK, falls over.
+STEVE (PQNine): Do I notice anything about how it's moving that interests me? Can I notice any pattern to it?
+DM: No. No, it just falls over.
+STEVE (PQNine): Okay, I'll continue to behold the pieces while other people do whatever it is that they need to do.
+DM: OK. Uh, Tour Drug Slate Walker.
+STEVE (PQNine): Are we still in battle?
+JEFF (Baron): You're still our dog.
+DM: And he's going to, you're going to attack Quatney with...
+JEFF (Baron): Oh, yeah.
+PHIL (Tordrug): My staff, or what do I have a staff, or like with spells?
+STEVE (PQNine): I guess I wouldn't have been able to do all of that stuff. I sort of thought we were done battle. It's fine.
+DM: No, no, I mean you wouldn't have been able to do all that. I was just trying to figure out where you were going.
+PHIL (Tordrug): At.
+DM: And you can move over there in the corner. That's why I'm like, okay. Like, what are you trying to do? And then I was like, okay, I guess this is like he's role-playing here.
+STEVE (PQNine): I'm doing ex, I'm doing experiments.
+JAKE (Fic): Inspiration points, inspiration points.
+STEVE (PQNine): Doing experiments on the on the thing.
+DM: Alright, Tor Drug Slate Walker.
+PHIL (Tordrug): Ohh. No, I do have a longbow and 1/4 staff as physical attacks, and then I have a few spells left.
+DM: Yeah, you also have a light crossbow. Do you know how to use that?
+PHIL (Tordrug): Ohh yeah. Yeah, do I? Yes, I do.
+DM: All right, so I think I'm gonna have you use that because you don't you think this circle's pretty awesome. O, you fire at... Quatney.
+STEVE (PQNine): Mrs.
+DM: Twelve to hit, misses, alright, and I'll have you do that wisdom saving throw.
+STEVE (PQNine): Nope.
+PHIL (Tordrug): This is the one. Yeah!
+SAMEASLASTTIME (Hairy): Yeah, yes, finally.
+JAKE (Fic): Ohh.
+DM: I think you want to step out of there.
+PHIL (Tordrug): Yeah, I do. I'm gonna step over here. Um, yeah, um, I'm gonna step way over here, just like way back.
+SAMEASLASTTIME (Hairy): Maybe we should step towards where the dog is eating me.
+DM: Maybe apologize.
+JAKE (Fic): Is that surgical to a drug?
+PHIL (Tordrug): Uh, pretty awesome when I was in there. Now it seems really ******. Like, I would not recommend it. One star.
+DM: Alright, Harry Styles.
+SAMEASLASTTIME (Hairy): Play, play.
+JEFF (Baron): Ohh, yeah.
+DM: Whoa!
+STEVE (PQNine): There it is, there it is.
+SAMEASLASTTIME (Hairy): I strike off his head. 22 damage.
+DM: Wow, yeah, it is. It's looking singed.
+SAMEASLASTTIME (Hairy): Look at cinched.
+JAKE (Fic): Still up?
+JEFF (Baron): It was brand, it was a fresh one, right? Yeah.
+SAMEASLASTTIME (Hairy): But. Yeah.
+JAKE (Fic): Damn.
+SAMEASLASTTIME (Hairy): Um... All right, well, like it's gonna attack me anyway. Do I try to get away or do I just sit here and take it?
+DM: U to you.
+JEFF (Baron): I'm here now. I'll heal you on my next turn, although he goes first, so...
+SAMEASLASTTIME (Hairy): Ohh, I actually bonus action healing potion.
+DM: There you go.
+SAMEASLASTTIME (Hairy): So now I have three left. That is... Healing potion is what, 2D4 plus 2?
+JEFF (Baron): I thought it was 2D 4 plus 4, but I don't know.
+SAMEASLASTTIME (Hairy): I think it's... Oh well, it should say on healing. Anyways, you can keep going. I'll just take it. Healing potion, potion of healing, it's called.
+DM: Yeah, 2D 4 + 2.
+JEFF (Baron): Two D 4 + 2. Yeah, you're right.
+SAMEASLASTTIME (Hairy): You. Six points. Yeah, feeling better. I'm gonna throw the empty potion at the dog.
+DM: All right, Vic.
+JAKE (Fic): Um, is it was a special thing that you can use a bonus action to take a healing potion?
+DM: No, it's just bonus action.
+JAKE (Fic): Anybody can do that?
+DM: Yeah, even you.
+JAKE (Fic): Okay, gonna do a bonus action, potion of healing.
+DM: Actually, even guys like you. And you should say, I'm a guy like me.
+STEVE (PQNine): I think that's racist.
+SAMEASLASTTIME (Hairy): Sounds very racist.
+JAKE (Fic): Okay, so what is it? Was a healing potion worth?
+DM: 2D 4 + 2.
+JAKE (Fic): 2D floor plus 22. Before was to roll. Seven, nice.
+DM: Nine, nice. Mm.
+JAKE (Fic): Okay, and so...
+DM: Oh no, 7, you're right. Sorry, I didn't notice that you already added the two.
+JAKE (Fic): And I will, where am I here? Getting in line of sight here, so... One. I can see him. I'll get over here some shooting around. Harry Styles. We can give it a fire bolt. Bring the kiss there. Well, I'll turn my advantage off.
+DM: Alright, it doesn't do as much damage as you'd hoped.
+JAKE (Fic): Yeah. Giving her a shot.
+DM: Alright, that's your turn.
+JAKE (Fic): I think that's all I got.
+DM: Unless you got a reaction of some kind.
+JAKE (Fic): Well, reaction I can only use as a reaction, right?
+DM: I know. I was just, I was just hoping maybe you had something.
+JAKE (Fic): Don't **** with me, I don't know how to do this.
+DM: I, well, I don't always either, so... All right, Clockwork Defender. Electrified bite against Harry Styles. Nine to hit.
+SAMEASLASTTIME (Hairy): That does not hit.
+JAKE (Fic): Nine.
+DM: All right, it stands its ground, Baron.
+JEFF (Baron): Going to look at Harry and be like, you look a little rough and toss him a cure wounds.
+SAMEASLASTTIME (Hairy): Sweet.
+JEFF (Baron): Uh... Think I just, I'm still trying to save that hiding spell though, right, in case we need it. So I'm just doing that level one. Oh, so you're only getting five points, but five extra points.
+SAMEASLASTTIME (Hairy): That's right, that's better than nothing.
+PHIL (Tordrug): I think we're gonna have to rest after this, no matter what.
+JEFF (Baron): Yeah, I was thinking that too. Can we just sleep here with the guy like out there wandering around?
+PHIL (Tordrug): Yeah. Yeah, we'll sleep in the circle.
+JEFF (Baron): So yeah, I'm just going to stay here as well.
+DM: All right. Quant me.
+STEVE (PQNine): I'm gonna pick up one of those mechanical pieces, and I'm gonna throw it at Tordrug.
+PHIL (Tordrug): What are you doing?
+STEVE (PQNine): You shot, you shot me with your fireball.
+DM: You throw it hard, like are you trying to do damage? Or are you just throwing it at him? Is it just like...
+PHIL (Tordrug): Uh, no, I sh- I shot you with an arrow.
+STEVE (PQNine): Ohh. The.
+PHIL (Tordrug): Totally different.
+STEVE (PQNine): Yeah, I'm not, I'm not like throwing it super hard, but like, but like, kind of hard. I'm very annoyed.
+DM: Okay, just yeah, just annoyed. All right, just wanted to...
+STEVE (PQNine): Do I have to do I roll for something or?
+DM: All right. No. You throw it at him, he gets your point. It's like, okay, yeah. So he looks embarrassed. He's blushing.
+STEVE (PQNine): I mean, I... I mean, I kind of want him to lose a little bit of damage. I mean, not anything crazy, but like... Is that, and I assume that's my action.
+DM: If that's how you want to spend your action, sure. Alright, tor drug.
+SAMEASLASTTIME (Hairy): Instead of helping your injured friend, yeah, that's cool.
+STEVE (PQNine): But then I'll also go... over here to see what's doing. Yeah. That's how I can move.
+DM: Okay, tor drug.
+PHIL (Tordrug): Yeah, I'm gonna go around the circle. And I will fire. Yeah, I'm just gonna, just gonna go level 3, magic missiles at this ****. So. Three, 4, 5.
+STEVE (PQNine): Oof.
+DM: So that's 7, 9, 13. Eighteen.
+STEVE (PQNine): That's gotta do it. That's gotta do it.
+DM: It's just enough. It flies apart. And yeah, finally. Everything lies still after the last gear sort of rattles as it turns on the floor and then circles and goes... Like A coin.
+JEFF (Baron): May I ask anybody remember, did we lift all the bridges or just the ones going to that Monster Island?
+PHIL (Tordrug): Oh. We left, we didn't have any bridges going to the centre yet. We have to go back to do that.
+JEFF (Baron): But did we lift all of the other bridges or we left some other ones down too?
+PHIL (Tordrug): I think we only left the one that goes from where we are to where the controls are.
+JEFF (Baron): So we trapped the criminal guys in their like little hub too. Yeah, so they're not totally loose.
+PHIL (Tordrug): Center.
+SAMEASLASTTIME (Hairy): Yeah, those, they were all, all those ones were already up.
+JEFF (Baron): No, no, uh, sorry, the two guys that we left in the, in like the monks hut.
+SAMEASLASTTIME (Hairy): So I... Oh no, we didn't like we didn't, no, we didn't lift those ones though.
+JEFF (Baron): Lift those bridges up. Okay.
+SAMEASLASTTIME (Hairy): We put the ones down and we lifted the one from Cave Mouth to Smolderton, and we put down the ones from Turbine Heights to Smolderton, but that's it.
+JEFF (Baron): Yeah. And we stopped the uh buckets from going around, but the, but those dudes can still get around anyway. Well, whatever the...
+SAMEASLASTTIME (Hairy): Yeah. They were. Yeah, they they got nowhere to go, like they can't leave.
+JEFF (Baron): They could come from there to us though, and like attack us in our sleep or something if we were all just sleeping.
+SAMEASLASTTIME (Hairy): Yeah. Yeah. Yeah, we'll stay on watch.
+JAKE (Fic): I mean, maybe we go upstairs and do a rest. Like, we can guard that trap door at least.
+JEFF (Baron): Yeah, yeah. Well, the guy did dimension door straight into that room though, so... Oh, that's true.
+SAMEASLASTTIME (Hairy): For sure.
+PHIL (Tordrug): Yeah, I'm down with that.
+JAKE (Fic): But you also to bench and door out of there. If we have a look at, we'll see him come in. You can do some good look at action.
+JEFF (Baron): That.
+DM: So you guys are going upstairs?
+JAKE (Fic): Think so. Can we close the door at the end of the hall first? Two?
+DM: All right. Pardon me?
+JEFF (Baron): Yeah, we should probably do that too.
+SAMEASLASTTIME (Hairy): Yeah, I'll close the door.
+DM: Yeah, I can.
+STEVE (PQNine): Did we fight some of the dogs upstairs?
+DM: No, you fought 2 animated suits of armor.
+PHIL (Tordrug): Oh. That's right.
+STEVE (PQNine): Oh yeah, okay. I'm gonna take some, I'm gonna take a whole bunch of the, because there's a whole bunch of different.
+JEFF (Baron): I was gonna take the bed, damn it.
+SAMEASLASTTIME (Hairy): Too late. I already took it.
+JEFF (Baron): In that chair.
+DM: Yeah. All right. Yep. So why don't you add miscellaneous clockwork parts to your inventory?
+STEVE (PQNine): Okay, and then I'm gonna if we're take
+DM: The workshop downstairs is full of them, by the way. Like it's a sprawling workshop that's just, it's got all sorts of parts that you don't really have to scavenge. Like it's, this is where he made them.
+SAMEASLASTTIME (Hairy): Play.
+STEVE (PQNine): I actually have already have some, but I'm gonna, I'm gonna take, I'm gonna make myself 2 then, but... We're taking a rest.
+JAKE (Fic): Yeah, if you guys let me take first rest, I'll take second watch because I can trance and heal up in four hours.
+STEVE (PQNine): Because I want to spend... I want to spend like 2 hours seeing if I can like build my own little... Dog thing with the with the parts.
+JAKE (Fic): Who?
+DM: Okay, is there, do you have like, is there rules for that? Do you have mechanics for that?
+STEVE (PQNine): I mean, it's, it's sort of what I do. I've, I build. Things like that.
+DM: Right, but there's got to be rules.
+STEVE (PQNine): I mean, it's sort of how, how you want to, how you want to impose that rule.
+DM: So you spend one hour and 10 gold pieces of materials, they can build a tiny device that functions for 24 hours.
+STEVE (PQNine): Yeah, so I'm trying to like, I'm using the idea that I can tinker and build mechanical items. I don't know what I will achieve in two hours of using these materials. I'll kind of leave that to your judgment or in like whatever roles I need to do or whatnot.
+PHIL (Tordrug): Mm.
+DM: Alright, I, I'm gonna say like you, you, you plans, you have parts, like if you want to forego your rest and do this instead. Yeah, you can do it.
+STEVE (PQNine): I don't want to forego my rest. Could I do it during when I'm on watch?
+DM: Uh, you can't do both. You can do one or the other.
+STEVE (PQNine): Maybe. I won't.
+JEFF (Baron): I guess I was thinking you'd be in the workshop, so you'd be like basically a watch because they'd have to come through the door. Like you'd be down there already, but you'd also be super distracted, right? So yeah, I don't think you'll be actually effective.
+STEVE (PQNine): But multiple people can watch, right?
+PHIL (Tordrug): Why don't we put like the bed?
+DM: Well, all I'm saying is if you're going to work, that's not rest.
+STEVE (PQNine): That's fair. Um... Alright, I do have to rest.
+JEFF (Baron): Just take the parts for later, take some of the plants.
+STEVE (PQNine): Uhh... Yeah, I'm gonna also take, take the plans.
+DM: I mean, you can take, yeah, take the plans. You can even put in like clockwork, like you can, I'll let you, if you want to take the time to sort of look for them.
+SAMEASLASTTIME (Hairy): I mean. Beat.
+DM: Um, doing a...
+SAMEASLASTTIME (Hairy): You can work on it tomorrow too if you want. I mean, I don't think we're in a particular rush. We need to take a couple hours.
+DM: No, I mean, I don't even make you do a check because I mean, they're there.
+STEVE (PQNine): Yeah, okay. I guess I'll just, I'll take the parts, I'll take the plans, and it's time to rest.
+SAMEASLASTTIME (Hairy): But in the morning, maybe if you want to spend a couple hours working on it before we head out. Alright, rest. So how are you doing rest, Colin? Is it the...
+PHIL (Tordrug): Yeah, sure. Should we put something on the door to like a bed or something?
+SAMEASLASTTIME (Hairy): I'm on the bed, so no, but there's like a couple cabinets and stuff, right?
+DM: Well, you guys have, well, it'll be like we did it before, right? Sorry, what?
+JAKE (Fic): Can we move, if we work together, can we move this safe? If we work together, can we move the safe?
+DM: Maybe when Quapni had the potion of giant strength, but in the amount of time.
+STEVE (PQNine): Yeah, I did have it up for that battle, but I just took it off because I figured it was done.
+JAKE (Fic): Mm.
+DM: Oh, really?
+STEVE (PQNine): Well, when we came over, it was still active. Yeah, so...
+DM: You should have kept it on.
+STEVE (PQNine): I did keep it on, but I feel like by the time the battle ended, that was probably an hour, yeah, so I just took it off now.
+DM: Cause I.
+SAMEASLASTTIME (Hairy): I count as one size larger when determining my carrying capacity and the weight you can push, drag, or lift. Like if I'm a large creature, can I push the safe over? How heavy is it?
+JAKE (Fic): If we all help, if we all push.
+DM: Um... Let's see, is there any rules in the level for that?
+JEFF (Baron): Well, also, what's in the box? We don't know yet, right? I was wondering when somebody was actually going to say that.
+JAKE (Fic): What's in the box?
+SAMEASLASTTIME (Hairy): What's in the box?
+STEVE (PQNine): Which box?
+JEFF (Baron): The box that the uh, this is bottom wanted.
+STEVE (PQNine): Ohh, ohh yeah.
+JAKE (Fic): I got the Onyx studded jewelry box. I haven't opened it yet. I'm gonna wait till I rest.
+STEVE (PQNine): Oh yeah, oh yeah.
+JEFF (Baron): Yeah, that's what, that's what it was in the safe.
+JAKE (Fic): Yeah, I'm resting up first.
+STEVE (PQNine): How can you rest?
+JAKE (Fic): I'm A patient man.
+STEVE (PQNine): I can, I can, I really want to know what's in it.
+SAMEASLASTTIME (Hairy): Just open it.
+JAKE (Fic): Yeah. Hmm.
+STEVE (PQNine): That's just so bad.
+JAKE (Fic): Nah, I'm gonna wait.
+STEVE (PQNine): How are you not gonna be able to sleep?
+JAKE (Fic): I go, it's fun. I'm gonna go into a trance.
+STEVE (PQNine): I, I won't be able to sleep.
+JAKE (Fic): Well...
+SAMEASLASTTIME (Hairy): While he's in a trance, just take it from him. Just take it. What's he gonna do?
+JAKE (Fic): You're gonna take first watch then, I guess. If you take first watch, then I'll...
+STEVE (PQNine): But. Yeah. Maybe I'll do that, actually.
+JAKE (Fic): I'm gonna put it right in my tight ******* gab pants against my junk.
+DM: All right, so in terms of the resting rules, let's just do what we did before.
+SAMEASLASTTIME (Hairy): So this would be a long rest, not a full rest. So we have to do hit dice.
+DM: Yeah. Yeah.
+JAKE (Fic): Doing a trance, I can I can heal in four hours when I do in uh eat.
+SAMEASLASTTIME (Hairy): G.
+STEVE (PQNine): Ah. It reset it.
+SAMEASLASTTIME (Hairy): 12.
+JAKE (Fic): So do I just get to go full?
+DM: So sorry, explain that to me again. I wasn't listening.
+JAKE (Fic): I have trance, so I get to... I get the same rest in four hours that you get in eight.
+SAMEASLASTTIME (Hairy): Like the rules that we played with before with the long rest, it wouldn't, you wouldn't heal that. You just don't take exhaustion from only getting 4 hours sleep.
+JAKE (Fic): So, no healing from it?
+SAMEASLASTTIME (Hairy): No, you have to use hit dice, but you gain hit dice back quicker.
+DM: Yeah, I think it's trance is what you do instead of sleeping. So this is like resting. You're not sleeping.
+STEVE (PQNine): And is it, will it, will it be a new day when we come out of the rest?
+PHIL (Tordrug): Oh, snap!
+DM: That's a good question. I mean, time is sort of hard to figure out here because you're underground.
+STEVE (PQNine): I guess we're, I guess we're assuming we're just... Well, my like, I get to reset my eye stone when it's a new day, so it it should know when it's a new day.
+DM: Okay, well, it's still, like, it's going, you find it's not very reliable here. And you've noticed that ever since that Onyx box was taken out of the safe, it's completely unreliable. Like it's just going crazy. It's detecting something that's not quite magic.
+PHIL (Tordrug): Um, so do we get our spells back on a long rest on this rest or no? We do? Okay. We did. We did. Oh, okay.
+DM: How did we do it before?
+SAMEASLASTTIME (Hairy): Yes, yes, you regain spells.
+DM: I never had magic in my, my, the only, like the character that I had, so I don't know.
+PHIL (Tordrug): Yeah, so you get your spells, but you have to use hit dice.
+JAKE (Fic): Okay, so how many hit dice do you get back after 8 hours sleep?
+SAMEASLASTTIME (Hairy): After how many hit dice, it's half. You get half your hit dice.
+STEVE (PQNine): Oliver.
+JAKE (Fic): Yeah. Right.
+PHIL (Tordrug): Round it up or down? Round it down.
+SAMEASLASTTIME (Hairy): Rounded down, down, always round down.
+DM: Well, you guys aren't sleeping, you're resting though, aren't you?
+SAMEASLASTTIME (Hairy): No, we're taking long rests, like we're sleeping. Sleeping for 8 hours.
+JAKE (Fic): I'm trancing for four hours. I get 8 hours.
+DM: Okay, you're taking a sweep. Okay, so then you're trancing, that's fine.
+JAKE (Fic): So I get, is it rounded up or down on half your hit dice?
+DM: Okay, I didn't understand that part that you guys were actually taking a sleep.
+SAMEASLASTTIME (Hairy): Yeah, I'm in bed, man.
+JAKE (Fic): Turn it up, turn it down.
+SAMEASLASTTIME (Hairy): Rounded down, always rounded down.
+PHIL (Tordrug): Run it down.
+JEFF (Baron): I'm sleeping on the chair. Grab the only other piece of furniture.
+JAKE (Fic): A. I like sat cross-legged on the safe.
+SAMEASLASTTIME (Hairy): We should take turns. On watch, though.
+DM: Yeah, it was on watch.
+STEVE (PQNine): Uh, I'm on, yeah, I'm also, I'll take first watch.
+PHIL (Tordrug): I'll go on first watch.
+JAKE (Fic): Barries.
+DM: All right, roll a perception check. Who else? And then I think. All right, what do you guys talk about?
+STEVE (PQNine): I rolled an 8. Where do you put that box?
+PHIL (Tordrug): You really want in the box? I think he put it in his pants.
+STEVE (PQNine): Yeah. The.
+PHIL (Tordrug): Ha ha. Um, so what's with, what's what was with the key?
+STEVE (PQNine): What do you think's in the box? Okay.
+PHIL (Tordrug): Well, you stuck the key to the wall, went slash, you said something crazy, and then just dropped it.
+SAMEASLASTTIME (Hairy): It.
+STEVE (PQNine): I was just trying to figure out how to how to see this guy again. He's really familiar.
+PHIL (Tordrug): And that was. You were thinking that was what was going to do it.
+STEVE (PQNine): I had a key.
+PHIL (Tordrug): Like, not denying that, yeah, yeah.
+STEVE (PQNine): Open to suggestions.
+PHIL (Tordrug): And... Yeah, okay.
+STEVE (PQNine): What would you have? What would you have done?
+PHIL (Tordrug): Uh, you're a magic user, right? Do you have like...
+STEVE (PQNine): I'm not.
+PHIL (Tordrug): Oh, you're not a magic user. Oh. Okay, well now that we've seen them, I mean, I don't have it. Maybe somebody else has find locate person. I know of it. I'm aware of this magic that exists. But I don't have it, so maybe that would be one way to do it.
+STEVE (PQNine): But see, I don't have that either, so I had to do something.
+PHIL (Tordrug): Yeah. It's true, it's true. Okay, so what is the basis of using the key? Why did you think?
+STEVE (PQNine): I thought... You know, key, it unlocks stuff.
+PHIL (Tordrug): Mhm, mhm.
+STEVE (PQNine): The hue is at a door.
+PHIL (Tordrug): Dimension Door.
+STEVE (PQNine): So. It was like a door-like thing.
+PHIL (Tordrug): Where'd you get that key? Yeah, where'd you get that key?
+STEVE (PQNine): Uh, I got it at one of our, one of the places that we were at. And.
+PHIL (Tordrug): Not here though, like some other, like at the castle when we fought.
+STEVE (PQNine): That's a good question. Was it, was it here? No, it was like on the way here. It was on one of those places.
+PHIL (Tordrug): Well, maybe at the um, the prison.
+STEVE (PQNine): I'd have to scroll through my memory. I didn't do much at the prison.
+PHIL (Tordrug): That's right.
+STEVE (PQNine): And then I did the prison, they gave me a bad back. Give me a sore back. I didn't get anything out of that prison.
+PHIL (Tordrug): Yeah. Have you tried putting the key on your back? Yeah.
+STEVE (PQNine): The back feels a little bit better. I didn't try that. But keys don't usually do anything with backs. They do stuff with doors.
+PHIL (Tordrug): Yeah, okay. Yeah. It's true, it's true. So that, what do you know about robot gnomes?
+STEVE (PQNine): I've never seen a robot gnome.
+PHIL (Tordrug): or a mechanical gnome.
+STEVE (PQNine): I've never seen one, but I feel like I have. So maybe I have. But it kind of gives me a headache when I try to think about it, so I don't really try to think about it that much. I have seen mechanical dogs, oh, you've seen mechanical dogs too, but that was, I've never seen them before today. I've seen mechanical mice, I build them.
+PHIL (Tordrug): Okay. K. Okay.
+STEVE (PQNine): Little toys, little mechanical soldiers.
+PHIL (Tordrug): K. Yeah.
+STEVE (PQNine): You know, clocks. I did a clock. I built a clock once with a dog. And the door.
+PHIL (Tordrug): Like you, you took the parts from the dog and make it a clock?
+STEVE (PQNine): No, I put a dog-like shaped thing on a clock.
+PHIL (Tordrug): Okay, okay.
+STEVE (PQNine): So that was kind of like a mechanical dog that I saw before I built it.
+PHIL (Tordrug): Yeah, I mean, it's basically the same as the thing that almost killed me like 10 minutes ago. It's very similar.
+STEVE (PQNine): It's not exactly the same. This thing moved by itself. The clock... Uh, it didn't tell time. But it, but it moved rhythmically. And if you knew sort of the right way to read it, you could, you could like figure out within a few hours what time it was.
+PHIL (Tordrug): That's more like a metronome.
+STEVE (PQNine): Kind of like a metronome, wasn't very stable, so you wouldn't, we didn't have a like a steady beat.
+PHIL (Tordrug): Yeah. Okay. Okay, okay, so a clock that had didn't tell time and that moved at irregular times.
+STEVE (PQNine): It wouldn't tell you time if you didn't know how to read it properly. It wasn't the same.
+PHIL (Tordrug): Gotcha. That makes sense. That makes total sense. So is there any way to disrupt, once you have a machine working and there's like electricity flowing through it, is there any way to disrupt that? Do you know that?
+STEVE (PQNine): You can break it.
+PHIL (Tordrug): Okay. Okay. Oh, and sorry I shot you with my bow.
+STEVE (PQNine): That was kind of annoying.
+PHIL (Tordrug): Yeah, I just got these crazy ideas in my head when I got, when I was in that circle and then eventually broke out. So I, my recommendation to you, don't go in the circle.
+STEVE (PQNine): I won't go into the circle.
+PHIL (Tordrug): Yeah, smart.
+STEVE (PQNine): I, I'm gonna recommend that you also don't go into the circle.
+PHIL (Tordrug): Yeah, I mean, it was kind of fun, but mostly it was bad because I was shooting at people and I didn't have control of myself.
+STEVE (PQNine): Okay, I forgive you.
+PHIL (Tordrug): Thank you, and uh, I also forgive you for throwing weird cogs at me.
+STEVE (PQNine): OK, I mean, I didn't ask for forgiveness, but...
+PHIL (Tordrug): No, I forgive you though. I'm A forgiving kind of guy.
+STEVE (PQNine): That's nice. I accept your forgiveness.
+PHIL (Tordrug): All right. But you're not sorry. Which is fine. Yeah. All right. Good. So we'll get that box tomorrow, I guess.
+STEVE (PQNine): Oh, the box! I forgot about the box. Do you think I could just like...
+SAMEASLASTTIME (Hairy): He he he.
+PHIL (Tordrug): He.
+STEVE (PQNine): I can reach it then.
+PHIL (Tordrug): Reach down his pants.
+STEVE (PQNine): It's probably not.
+PHIL (Tordrug): I mean, I do have a, he's already asleep. I do have a sleep spell. I could like put him extra sleep and then you can like try and go into his pants. But that sounds creepy.
+JEFF (Baron): We're all friends here.
+JAKE (Fic): Let's see the trace you're done.
+PHIL (Tordrug): I have girlfriends.
+STEVE (PQNine): Is that, is that wrong? Do we not do that? Is that...
+SAMEASLASTTIME (Hairy): He.
+PHIL (Tordrug): Yeah, I just don't know how the AI is going to react to being like, first they put him to sleep and then he reached down his pants. You could end up on a list. Yeah, I'm sure there's probably not nothing in it. Now, what do you make of that thing downstairs? Inside the circle, it was like a device with like a big cog in it that we it was like, like a key or something.
+JEFF (Baron): Is a box, yeah. I mean, I'm not there, but...
+STEVE (PQNine): I didn't even, I didn't even see that. I didn't even notice that.
+PHIL (Tordrug): It was a, yeah. So in, yeah, in the circle, there's like a box and it has like a thing where you would like set a cog that looks like it would like engage into it.
+STEVE (PQNine): We gotta go do that.
+PHIL (Tordrug): But we don't have a... It's a big cog, I think. I'm not sure. I can't remember.
+STEVE (PQNine): Let's make one.
+PHIL (Tordrug): Yeah, well go down, don't step in the circle, but you can go take a look at it.
+STEVE (PQNine): We could like fashion something to keep us out of the circle.
+PHIL (Tordrug): Yeah, yeah.
+STEVE (PQNine): Like with pulleys.
+PHIL (Tordrug): Yeah, I like that.
+STEVE (PQNine): We got rope.
+PHIL (Tordrug): If you have rope and you can build pulleys, I assume.
+STEVE (PQNine): I can build you a pulley. I can go build you a pulley, right? You want a pulley?
+PHIL (Tordrug): Yeah. Tomorrow, tomorrow, after we open the box, I'm gonna hope start making a pulley.
+STEVE (PQNine): I'm gonna, I gotta pull out some of the clockwork. But there's no, I guess there probably aren't any wheels or anything like that, but...
+PHIL (Tordrug): I'm hoping that when we open that box, there's a big cog in it.
+JEFF (Baron): Oh, in the ornamental box, yeah, yeah.
+PHIL (Tordrug): That's what I'm hoping. In the ornamental box, that's what I'm hoping.
+STEVE (PQNine): That could be good. Okay, if there's no, we'll build one.
+PHIL (Tordrug): Okay, all right. I'm down with that. That's a good plan. OK, good.
+DM: Second watch.
+PHIL (Tordrug): That's somebody else's shift now.
+JAKE (Fic): I'm going to come out of my trans fiance and watch. Just a side note that the AI transcript confused rapey with creepy.
+JEFF (Baron): I, I, I vaguely heard creepy.
+DM: Rape you with creepy.
+PHIL (Tordrug): To be clear, I was saying rapey, as in sexual assault. Not that creepy.
+JEFF (Baron): I actually kind of heard it as creepy as well.
+STEVE (PQNine): This is.
+PHIL (Tordrug): No, I was saying rapey.
+DM: I heard creepy.
+JEFF (Baron): I mean, I figured it out, but yeah.
+STEVE (PQNine): I heard rapey.
+PHIL (Tordrug): I do.
+DM: Alright, who's on second watch with Fic?
+SAMEASLASTTIME (Hairy): Who? It's Baron. I'm sleeping on a bed. I'm not getting up.
+JAKE (Fic): This transcript is great.
+JEFF (Baron): For your perception.
+DM: What are you guys talking about?
+JAKE (Fic): Um, I don't know, you just want to see what's in this box? Who's up with me?
+JEFF (Baron): I am, ohh, my perception's not very good, so...
+JAKE (Fic): Like, I mean, I can open it right now while everybody's asleep, but maybe something bad happens.
+JEFF (Baron): It's true, yeah.
+JAKE (Fic): Can I, can I check it? Like, can I do a quick check to see if this thing's booby-trapped?
+DM: Sure, and...
+JAKE (Fic): What do I gotta do here?
+DM: Yeah, investigation.
+JAKE (Fic): Investigation. Sure is not perception. Yeah. Ohh.
+DM: Yeah, you're still kind of, like, you're just not gonna, it's in your pants, it's hard to get out.
+JAKE (Fic): The worm.
+DM: Your, your, your new pants are really tight. Like normally you can tell your religion when you're wearing your pants. Right now, there's just a box there.
+JAKE (Fic): Okay. All right, well, I'll get it out. Who sat and watched with me?
+JEFF (Baron): I am.
+JAKE (Fic): Aaron. All right. Yeah, let's open it up. What do you think?
+JEFF (Baron): Yeah, I'm down.
+JAKE (Fic): Okay, um, I'm gonna... You gonna hold it away from me and give it a little crack-a-roo?
+DM: All right, it opens. It's unlocked.
+JEFF (Baron): See what's in it.
+DM: And it has a zircon ring.
+JAKE (Fic): Mm. Ooh.
+DM: Worth 60 gold. It's got 3 amethysts. Worth 100 each. And. The last thing in it.
+JAKE (Fic): How do you spell amethyst, amethyst, amethysts?
+STEVE (PQNine): Was a lot of wise.
+JAKE (Fic): And the best.
+STEVE (PQNine): Or maybe, maybe there's only one way, but there's...
+DM: AM ETHYSTS.
+JAKE (Fic): SDS, so three of those.
+DM: Plural. Yeah.
+JAKE (Fic): Worth how much?
+DM: One 100 each.
+JEFF (Baron): 100.
+JAKE (Fic): 100 G each, okay. That it?
+DM: Uh, no, there's one more thing.
+JEFF (Baron): in a regular shaped cup.
+DM: It is the strangest thing. It's a gear, and it is the strangest gear you have ever seen.
+JAKE (Fic): Ooh, the card. Interesting, I.
+DM: Like it doesn't, it's like an MC Escher drawing. Like it doesn't make sense. You don't know what kind of machine this thing would go into.
+JAKE (Fic): I bet you Quapni would be all over this, Baron.
+DM: It's a gear.
+PHIL (Tordrug): Mmh.
+JAKE (Fic): Okay, cool.
+JEFF (Baron): Looks like his kind of thing, but it also kind of looks like the box downstairs.
+JAKE (Fic): I'm gonna call it a cog, 'cause Kwabi was looking for a cog earlier. He was hoping it was a cog. I heard him while I was in my trance.
+JEFF (Baron): True.
+JAKE (Fic): I'm gonna like put the cog. Like how he's sleeping, just like on his chest. So when he wakes up, he finds it like a surprise. Like it's Christmas.
+DM: You gonna put it on his chest?
+JEFF (Baron): At Christmas, you should just start putting your Christmas presents on your kids while they're sleeping.
+JAKE (Fic): Yeah, yeah, yeah.
+PHIL (Tordrug): Yeah. Yeah.
+JAKE (Fic): Oh man, so the Christmas tradition at Shara's house was you hung the stocking on the end of your bed.
+SAMEASLASTTIME (Hairy): Hey.
+PHIL (Tordrug): Ohh.
+JAKE (Fic): And yeah, as you got old, as he got older, the stealth ******* ninja effect on that, it was insane. Anyway, so I got that skill as the owner of...
+JEFF (Baron): So then when you woke up, you'd see that.
+STEVE (PQNine): If.
+JAKE (Fic): Thick, so I'm gonna just Indiana Jones it right onto his chest. He doesn't wake up.
+DM: Great, okay. So, uh, Quatney, I want you to do a perception check.
+JEFF (Baron): That.
+STEVE (PQNine): OK, even though I'm asleep.
+JEFF (Baron): Oh, mysterious object looks mysterious.
+JAKE (Fic): It's pretty good.
+SAMEASLASTTIME (Hairy): Doesn't look good.
+DM: You don't notice.
+JAKE (Fic): Oh, I said, I told you.
+DM: And then as you do that, Vic, you notice that part of the floor starts to crumble. And collapse.
+JAKE (Fic): Whereabouts?
+DM: Like, um... Yeah, but I just roll for it.
+JAKE (Fic): Miss Clavi, are you just leaving right there?
+DM: There we go, right there.
+JAKE (Fic): Where?
+DM: So this 5 foot piece just crumbles and falls in.
+JEFF (Baron): Right by the door.
+JAKE (Fic): I love you. Yeah, yeah, okay. I'm gonna, I'm gonna carefully pick it back up. Hang on to it, be like that maybe is not a good idea. I'm gonna look over at Bear and be like, I don't, maybe that was bad. Did you see the floor there, man?
+JEFF (Baron): Yeah, that was weird, but are they connected? I don't know. Baby clocking is yet.
+JAKE (Fic): I don't know. Maybe, maybe we just wait till everybody wakes up now.
+JEFF (Baron): Maybe put it back in the box.
+JAKE (Fic): Is there anything else significant about the box, the Onyx box? Like, is it...
+DM: Well, the box is the what's most valuable. So the box is 250 gold pieces. Sorry, I forgot to tell you that.
+JAKE (Fic): Oh, damn. Wow. I'm gonna put, I'm gonna put the zircon ring it.
+DM: But no, it's just it's a jewelry box. It's just a really nice jewelry box, like the kind of thing you would see in the old days back when you were a noble, right? Like it's just some really nice ****.
+JAKE (Fic): Yeah. I'm gonna put the Zircon Ring back in the box, the Amethysts back in the box, and I'll stash that away. We'll keep the we'll keep the cog out. And wait for a...
+JEFF (Baron): Everybody wake up.
+JAKE (Fic): Copy, wake up.
+DM: All right. What do you guys want to do? Do you want to just wake up and do that one, like just so that Quopny can tell you what it is? Or do you want to end it here?
+JAKE (Fic): Nah, let's find out where this thing is, man.
+JEFF (Baron): Yeah, probably. Yeah.
+DM: Alright, so everybody wakes up, whatever, whatever you did during your full rest, it's it takes effect. And Quapni, so you wake up.
+JAKE (Fic): We thumb wrestled. Barry and I thumb wrestled A lot.
+DM: And one of the things you notice is there's something... No, no, not yet. So the first thing you notice isn't that. It's that there's a hat on your face, but you can't see it.
+STEVE (PQNine): I see this cog here. Oh. I, I notice that there's a hat on my face.
+DM: Yeah, like, like, like it's just right here. Like, you know, when somebody takes a nap and they have a hat over their head?
+STEVE (PQNine): Like a... Like A cowboy hat.
+DM: No, an invisible hat.
+JEFF (Baron): He forgot to get up when he went to sleep.
+STEVE (PQNine): Ohh, okay.
+DM: No, you have an invisible hat.
+STEVE (PQNine): Ohh.
+JEFF (Baron): Did you have it from before?
+STEVE (PQNine): The. Yeah.
+JEFF (Baron): I thought I thought it was wearing it.
+STEVE (PQNine): I was like...
+DM: No, this is this is another invisible hat. Like you had one before.
+STEVE (PQNine): I had one before.
+DM: I always thought you just talked about it in theory.
+JEFF (Baron): Yeah, I thought it was on his head.
+STEVE (PQNine): I mean, theory, reality.
+DM: No, so, okay, it's not in your inventory. It's nowhere to be seen. You've never said you had an invisible hat before.
+STEVE (PQNine): Yeah, I did. No, no, I don't, you know, no, I don't, I don't have one now.
+JEFF (Baron): Okay, you had one before, though. Okay, yeah, you do.
+DM: You do have one now is what I'm. So what I'm telling you is you have one now.
+STEVE (PQNine): Oh, so now I have one in my end. Yeah, okay. You're like, ah, there it is.
+DM: Well, no, you this it it it just appeared. You woke up and it's on you.
+STEVE (PQNine): No. Yeah, and I'll say, ah. There it is!
+DM: That's funny 'cause you didn't lose it.
+STEVE (PQNine): Uh... I mean, I sort of did, like, in my, in my, like, past.
+DM: No, they never had one before. You've only ever discussed 1 philosophically. You actually have one now.
+STEVE (PQNine): Yeah. Yeah.
+DM: But, so, Vic's trying to show you something.
+STEVE (PQNine): I'm sort of distracted by the hat.
+JAKE (Fic): Man, I really thought he would have thought this is way cooler.
+STEVE (PQNine): Well, because now I see it, I haven't noticed you yet, because I found out that I've got, I've got like my invisible head.
+JAKE (Fic): I'm doing this like right at you is 3D.
+DM: Alright, make a perception check.
+JEFF (Baron): Ha ha ha ha ha.
+JAKE (Fic): Ohh. No.
+PHIL (Tordrug): It's really good. It's really good.
+DM: Yeah, you're really into that hat.
+JAKE (Fic): Maybe like, do you guys?
+STEVE (PQNine): Is it like... Is it like, is it a, can I feel, is it like a soft hat? Is it a hard hat? Is it, does it look like a beanie? Does it like...
+DM: What, what's the, what's the invisible hat of your dreams?
+SAMEASLASTTIME (Hairy): Why would you say beanie instead of toque?
+STEVE (PQNine): Ohh. I thought a beanie was more like a...
+SAMEASLASTTIME (Hairy): I think it's the same thing.
+JAKE (Fic): We need is a pom-pom for sure.
+JEFF (Baron): Yeah, I'd say a beanie is like a warm weather, too.
+JAKE (Fic): Yeah, and maybe even a beanie doesn't have the roll up, like a toque is a roll up, it's got a pom-pom.
+STEVE (PQNine): Yeah, that's sort of sort of what I was thinking, yeah, like a big yarmulke.
+DM: That's what you want? You want a big yamaka?
+STEVE (PQNine): No, I was wondering if that's what it was.
+JEFF (Baron): Ha ha ha ha.
+PHIL (Tordrug): Whether was like a propeller.
+STEVE (PQNine): Uh, what would I like? I guess I would like... Like A well-worn, very comfortable, like a leather sort of hat.
+DM: Like what Pete has, except invisible.
+SAMEASLASTTIME (Hairy): My name's Harry.
+DM: with a racing stripe, but invisible.
+SAMEASLASTTIME (Hairy): and lightning bolts.
+STEVE (PQNine): Yeah, I can't actually see him at the moment.
+JAKE (Fic): It's weird to wear an invisible hat, I think.
+STEVE (PQNine): Yeah, yeah, yeah, like Pete has it.
+DM: But you have it. That's so the invisible hat of your dreams is what you have.
+STEVE (PQNine): Whoa, I'm really happy. I'm just gonna...
+JAKE (Fic): I mean, I mean, for like, does it for me, does it just look like he's got really weird hat head?
+DM: So. You have no idea, like he's just, he's being swapping.
+JAKE (Fic): But once he puts it on his head, it's going to look like he's got hat head, because I can't see the hat.
+STEVE (PQNine): This is. Look, I don't see, you don't, Colin doesn't have had had.
+JAKE (Fic): Fair enough. But his hair, look at that hair, man. That hair gets stuck with Bola.
+PHIL (Tordrug): Mm.
+STEVE (PQNine): Yeah, it would have, it would have been. He just wakes up like that every morning. Alright, uh, now maybe I notice.
+DM: Alright, so what Vic is holding is the Wishkey gear.
+STEVE (PQNine): Whoa! Okay, now I'm really, I'm really into it. And...
+JAKE (Fic): You like this? What are you doing there? What are you doing there, Poppy? I've been holding this in your face and you didn't even notice.
+STEVE (PQNine): Tutorial. It will be like, I have an invisible hat.
+JAKE (Fic): What is the point of an invisible hat?
+STEVE (PQNine): You wear it.
+JAKE (Fic): Why?
+STEVE (PQNine): Do you do with a hat?
+JAKE (Fic): How do you know you have it if it's invisible?
+STEVE (PQNine): It's right here.
+JAKE (Fic): I can't see it, obviously.
+DM: O.
+STEVE (PQNine): Cause it's invisible.
+JAKE (Fic): Right, but what's the point in wearing it?
+DM: So more important, the whiskey gear, it's... So what it does is it forces reality to align with intent, but only by taking something else apart to do it. So one of the things when you were trying to build the whiskey gear, what you couldn't do was create a whiskey gear that could do that without taking something away. But what the guy that you can't remember did is he basically made what you wanted to make, but the imperfect version of it. So it will create, it uses entropy, but in order to do it, it has to take that entropy from somewhere else.
+STEVE (PQNine): K. So I recognize it obviously as the Wishkey gear that I've been trying to build.
+DM: Yeah. Yeah, and he built it.
+STEVE (PQNine): But it. But it won't, but it's... But it's not quite right.
+DM: It's not, well, it's not the perfection that you always sought.
+STEVE (PQNine): Yeah. K.
+DM: But maybe it can't be perfect.
+STEVE (PQNine): Well, not this one, anyway.
+DM: So this one doesn't break entropy, it moves it. It turns desire into outcome by rearranging the world.
+JAKE (Fic): Done. Mm. People.
+STEVE (PQNine): Frame this down.
+DM: So like in the case of, so in the case of Shadow Stride, right, Jake's horse, you didn't get the horse back. You got a version of the world where the horse was never lost and something else had to shift to make that true, which was the desk. Just like you got a version of the world where the invisible hat
+STEVE (PQNine): And... And I'll know this.
+DM: was always on your head, but in order to make that true, part of the floor crumbled.
+STEVE (PQNine): And I know this.
+DM: This is what you're starting to, you're starting to pick it up. I mean, you're putting it together. You guys have been sitting in this room for 8 hours.
+STEVE (PQNine): I'll explain it to my friends and I'll be, and to Fic, I'll be like, see, I told you this was in the box.
+JAKE (Fic): Oh man, whatever. I just wanted to be chill. I wanted to rest up first. Eat it like... It's good that you were sure, but we didn't know for sure.
+STEVE (PQNine): And now we do.
+DM: So I mean, that's sort of the give and take, right? It gives you what you want, but it doesn't tell you what it took to do it.
+STEVE (PQNine): And do you have to be holding it? In order to make it do that.
+DM: You're not sure yet.
+JAKE (Fic): Hold on, so give you invisible hat. What did it take from you?
+JEFF (Baron): The floor.
+JAKE (Fic): The floor.
+JEFF (Baron): But we were like, yeah, because you, because that was when you put it on, so like maybe you were sort of dreaming about the Biddlesville hat.
+DM: It doesn't necessarily take from you, it just takes from somewhere.
+JAKE (Fic): Mm. Yeah.
+DM: So it's like it's total chaos.
+JAKE (Fic): Interesting.
+JEFF (Baron): And so there is actually a horse downstairs. His horse is actually there and everybody else saw it when they came downstairs.
+JAKE (Fic): I didn't see it.
+JEFF (Baron): Yeah, you did, but you just, but it wasn't acknowledged because it was a mid-battle, but there was a horse in that room with us when we were fighting.
+DM: How do you miss these things, Jake? I said you had the horse down there a couple times.
+JAKE (Fic): I knew that he saw the horse. I didn't know that we all could see the horse.
+JEFF (Baron): Yeah, I didn't know that either.
+JAKE (Fic): So, so Shadow Strider actually downstairs.
+DM: And no one told you?
+JAKE (Fic): Well, I thought it was a... I thought I thought it was a hallucination. I didn't realize it was actually there.
+JEFF (Baron): I called up right away.
+DM: It's because as soon as you took possession of the box, the horse appeared.
+JAKE (Fic): Okay. Oh man, Shadow Strider's down. I gotta, we gotta move. I gotta go downstairs. We gotta go. I gotta get Shadow Strider. He's probably lonely.
+STEVE (PQNine): I'm just gonna like look at the gear. I'm sitting. I'm gonna keep like.
+JAKE (Fic): I'm going downstairs to find Shadow Strider.
+PHIL (Tordrug): And I'm awake at this point, so can I, does it look like it'll fit? Like, do we know that's where it's for, like downstairs?
+DM: Yeah, well, I mean, so you're the one who really got a good look at it. And you've never seen a gear that looks like that. And this gear looks like that. Like, it looks like a gear you've never seen before. Like, it's just, it's such a ******* wonky shape. It doesn't, you don't know what kind of machine
+PHIL (Tordrug): Yeah. Okay. Yeah.
+DM: Would would that gear would be from? This is that gear.
+PHIL (Tordrug): Okay, yeah, I think that's good.
+DM: It's like an MC Escher drawing.
+PHIL (Tordrug): I think it might be pulley time. Copy.
+STEVE (PQNine): You guys want to make some police?
+JEFF (Baron): Or... I was wondering about breaking the floor.
+JAKE (Fic): I want to go downstairs and see Shadow Strider.
+JEFF (Baron): Like, because all we have to do is break that symbol that's on the floor, right? So maybe if we break up the floor, we can take apart or like even just like wash away the symbol somehow or whatever.
+PHIL (Tordrug): So I've seen the symbol, I got taken over by the symbol. Do I recognize, like, I think the first time I asked, you're like, no, this isn't magical, it's like mechanical.
+JEFF (Baron): Mechanical, oh it looks like math, yeah.
+DM: But you didn't have time, like, that's sort of the thing I was looking back, I'm like, you did like, I don't know, like 6 things during that turn, like, so.
+PHIL (Tordrug): Yeah, yeah.
+DM: I mean, I read it later and then there you go. There's Shadow Strider right there, Jake. Can you see that?
+JAKE (Fic): Oh, hey, buddy. How you doing?
+PHIL (Tordrug): Yeah. I think that was the thing you were just like, it's math, not magic.
+JAKE (Fic): Mm. What did Shadow Strider say?
+JEFF (Baron): That.
+DM: Um... Meh.
+JAKE (Fic): Oh, Shadow Strider, I'm so glad you're back.
+STEVE (PQNine): And I'm physically like I have the whiskey gear. I'm the one holding it.
+JAKE (Fic): Put Shadow Strider back in my inventory. Best episode ever.
+DM: All right, I think we'll leave it there for the day.
+STEVE (PQNine): I guess that's it for this week. This is like a, is like a cliffhanger.
+JAKE (Fic): I'm going to stop the transcript here. Hold on. Stop transcription, done. **Jacob Featherstone **stopped transcription

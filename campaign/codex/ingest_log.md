@@ -2,6 +2,12 @@
 
 One entry per ingest: what changed in the codex. Newest first.
 
+## 2026-10-01 — Adapted to the gab-mcp repo layout
+- Added a normalized `.txt` next to every transcript `.docx` (the server only indexes `.txt`). Transcripts are now searchable via `search_campaign(include_transcripts=True)` and `get_transcript_excerpt`.
+- Added `codex/glossary.md`: spelling groups for speech-to-text mishearings (PQNine/Kwapnee/Quapny…, Krokilmar/Crocilmar…, Halda/Holda…).
+- Skill v3: paths under `campaign/`, the MCP tool names, the read-only connector vs. local clone, the glossary step, and `.txt` output in ingest. Keeps Steve's "always spell it PQNine" rule.
+- `CLAUDE.md` layout section updated to match the real file names; `.gitignore` now ignores `.obsidian/` and `campaign.db`.
+
 ## 2026-09-28 — Skill v2
 - The skill no longer bundles its own copy of the normalizer. `tools/normalize_transcript.py` in this repo is the single source of truth for speaker aliases.
 - Added a "Applying corrections" procedure to the skill (log format with a Source field; DM rulings win).

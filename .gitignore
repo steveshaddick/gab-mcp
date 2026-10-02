@@ -220,3 +220,8 @@ __marimo__/
 # Project specific
 campaign.db
 campaign.tmp
+
+# Campaign brain
+.obsidian/
+campaign.db
+*.db-journal

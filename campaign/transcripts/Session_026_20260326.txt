@@ -1,0 +1,1428 @@
+SAMEASLASTTIME (Hairy): That's your job, Jake.
+DM: Oh wait, no, we did do one that you did miss.
+JAKE (Fic): Who got the transcripts? I need them. I need the data.
+DM: You said you were going to set them up, and then you never showed up.
+JEFF (Baron): We didn't do the transcripts. Yeah, we did a live recording instead because we couldn't do the transcripts. Nobody had like a business teams version or whatever you needed to do the transcripts of, oh, maybe copilot or I don't know, yeah, whatever you needed. So we recorded, I think Phil, maybe we recorded it.
+JAKE (Fic): Ohh.
+PHIL (Tordrug): I recorded it.
+JEFF (Baron): Baby, somebody recorded, it wasn't me.
+DM: Yeah, the words kept showing up at the bottom of the screen and they were often wrong.
+PHIL (Tordrug): Yeah, but that wasn't recording it. That was just...
+JEFF (Baron): You did, I thought you did a live recording though, because you were like, oh, we can't, we can't do the transcribe. So I just did a live record, I just started a live recording of it. I'm not sure if you actually did it or if you just said it, but.
+STEVE (PQNine): The wrong. Go.
+PHIL (Tordrug): Okay. Well, I am now me now. Chats. Meeting with Jake Featherstone? No, that's today. Oh yeah, oh yeah, it's an hour and 40 minutes, yeah, an hour and 40 minute recording. Can I just, can I?
+JAKE (Fic): Got it? Nice.
+JEFF (Baron): So is that video on the cloud or on your hard drive?
+JAKE (Fic): Could appeal the text out of it.
+PHIL (Tordrug): No, it's in Teams, so I guess it's in the cloud.
+JEFF (Baron): In the cloud, yeah.
+PHIL (Tordrug): But it should be on all of your chat histories as well, because it's just in my chat history. The Get Around Boys from March 5th.
+STEVE (PQNine): Feels like a long time ago.
+DM: Was a long time ago. Alright, so...
+PHIL (Tordrug): Not.
+DM: Session 25 recap: The party got off the boat, made camp, then headed toward Little Lockford. Along the way, they ran into Nick's Riddlestone, who was a deep gnome. He led them to the town leaders, Mayor Braid Broadfoot and Sergeant Cragknuckle. Those 2 explain that some time ago, the town hired a gnome, whose name none of them could quite remember, as the town's security overseer. That gnome built a number of mechanical constructs to protect the settlement. At first, they worked as intended, but eventually the machines began turning on the townspeople. The local militia tried to shut the overseer down, but the automatons defeated them with no other option. folk abandoned the town and sealed the gates behind them, and since then, they've been living on the edge of the community. They've now hired the party to infiltrate Little Lockford and recover a device that can permanently shut down the automatons. As for the overseer himself, what happens to him is up to the party. Before they left,
+SAMEASLASTTIME (Hairy): Ohh.
+DM: Nix told the party there were a few potions. Actually, that wasn't Nix. That was Mayor Broadfoot. There were a few potions hidden under her desk. Sergeant Cragknuckle added that more healing potions could be found in the infirmary in Turbine Heights. He also told you to move quickly. and quietly to avoid the Cave Mouth District if at all possible. Little Ockford itself is built across a series of islands suspended above a lake of fire. The islands are connected by a mechanical bucket system that once was used to transport ore throughout the community, since many of the bridges have been withdrawn. At the gate, the sergeant had the town's magic users unseal the doors. They creeped open, releasing a wave of heat as a scene of destruction laid out before them. Knock on the gate 7 times when you want back out, Crag Knuckle told you. And with that, the doors close behind you and before you. is an empty town.
+SAMEASLASTTIME (Hairy): What was your plan? We were going to go to Turbine Heights first, right? And then close.
+DM: Do you guys want a recap of some of the things that Broadfoot told you?
+JAKE (Fic): Yes, please.
+DM: So... She told you there's two kinds of clockwork observers, or sorry, clockwork observers and defenders. These are the automatons. The observers monitor the streets to ensure that nothing penetrates the city defenses. And the defenders, they'll arrive like maybe 2 minutes later. And actually, no, they'll come in, sorry, two rounds. So that's. 12 seconds, isn't it? Yeah. So they come not long after. And yeah, they're tasked with defending the place against the monsters. And that's the thing, is there are monsters wandering around because these automatons aren't doing what they're supposed to.
+SAMEASLASTTIME (Hairy): Twelve seconds. But.
+DM: There was a town militia. They don't know if there's any surviving members because they had to take on these automatons and they did lose. So there could be survivors, there might not. The slag line, so they're basically Little Lockford, if you guys can remember the map.
+STEVE (PQNine): Sort of.
+DM: Ohh. Yeah, it's in here somewhere. Broadfoot's map. All right, so can you see that? So it's a series of islands. And you guys are in Old Lockford right now. You just come through the gate. And most of these districts, like so each one is a district, right? And it's inside this cavern that's tinged red by the magma that flows through the channels that separate these districts. And The town's pretty well maintained, you know, like not anymore. There's nobody in it, but it was until they left. Most of the buildings are gray stone. There's bridges that are made of wood and metal, and they span the magma. But there's a security center. That Broadfoot told you about, and it's in the... Where is it? It's in the center. So that centre island there, the overlook, is where the security centre is. And that controls the bridges that can be raised or lowered. And that's, I mean, that's how they control the flow of traffic through town. The other way that she suggested you might do is the slag line. And so this is suspended above the Magma Lake as a carousel-like chain of dangling steel buckets called the slag line. They're spaced about 15 feet apart. Roughly half of them contain ore and uncut gems from the mines. The rest are empty and big enough to carry five small creatures or two medium creatures each. This is automated. The buckets move counterclockwise around the town. So, you know, from where, well, you can see it on the map. It's written down there. You can see the arrows. Normally, those orange gems, they move from the cave mouth and they go to the foundry in Smolder Town for smelting and refining. And those processed materials are then transported past Turbine Heights to Old Lockford, where they're sold. Where you are is where most visitors see this town. This is the place that sort of receives guests. So it's got town hall, it's got a guard tower, like a sort of like a customs house. that you're actually standing right beside. And you guys can climb into the buckets in one of four loading stations, so each district has one. What else? I think that's really it. They said that they're...
+SAMEASLASTTIME (Hairy): Are there? Sorry, are there backup bridge controls in turbine heights, right? So we'd have to, because the, is the map accurate as far as how the bridges are right now, like all the bridges to overlook are raised?
+DM: So, is that you that was something you didn't ask anybody before you guys left?
+SAMEASLASTTIME (Hairy): Okay, I wasn't sure if we had talked to them about it.
+STEVE (PQNine): I thought that we did. I thought that we did ask about the bridges being upper.
+SAMEASLASTTIME (Hairy): Hi.
+DM: You asked if they were up or down, but you asked broadfoot.
+STEVE (PQNine): Oh, what did he say?
+DM: And then she gave you the map to show you.
+STEVE (PQNine): That they're all up.
+SAMEASLASTTIME (Hairy): Well, not the ones to the Abbey and to Turbine Heights, like those two. And so we can go to Turbine Heights and use the backup bridge controls to lower the bridges. Yeah.
+STEVE (PQNine): Yeah, yeah.
+DM: Here, let me see what she said.
+STEVE (PQNine): Oh, that's right. I thought that we had a plan to load them.
+DM: So you can see on the map the ones that are up. So they're all up except for the bridge between Cave Mouth and Smolder Town.
+STEVE (PQNine): And that's what we were going to do, right? We were going to go...
+SAMEASLASTTIME (Hairy): Well, what the bridge from Old Lockford to Turbine Heights, like there's two bridges there, those are both down, right?
+DM: Yeah, they're both down. So you can go, so that middle spot, what's that called? That's called halfway aisle.
+SAMEASLASTTIME (Hairy): But. Yeah. The Abbey. A few monks barricaded themselves in here and may still be alive. Like we could go to Turbine Heights, lower the bridges, and get across to Smolder Town that way.
+STEVE (PQNine): Yeah. We should do.
+PHIL (Tordrug): But there was a, wasn't there, there was a downside to that, wasn't there?
+JAKE (Fic): And down with that.
+SAMEASLASTTIME (Hairy): I feel like there was, but I can't remember. Because then I thought, I think we might have said like, go to Termine Heights, lower the bridges, but then take the chain thing around, but skip cave or we'd have to be really careful if we stopped at those two spots at cave mouth because there's monsters.
+STEVE (PQNine): Yeah, we didn't, yeah, yeah, we didn't want to take the chain thing. It's dangerous.
+PHIL (Tordrug): Yeah, because it stops twice for a minute.
+SAMEASLASTTIME (Hairy): Yeah. I mean, we should be able to, if we can lower all the bridges except the ones to Cave Mouth, we, because those, that's where the monsters are. So if we can raise the bridge between Cave Mouth and Smolder Town so the monsters can't get by and just lower the bridges between Turbine Heights and Smolder Town or even Turbine Heights to the Overlook to Smolder Town. If there's something wrong with the bridges from Turbine Heights to Smolder Town. I can't read what it says on Smolder Town. That's too small. I need my reading glasses.
+DM: Smolder Town Foundry and the Mother Lode are the two things that are written in there. And then in blue it says, a bit divey, but home to the best whiskey in town. Such a waste.
+PHIL (Tordrug): A bit divey. Ten.
+SAMEASLASTTIME (Hairy): But there's a, yeah. Hmm.
+PHIL (Tordrug): Oh, oh.
+SAMEASLASTTIME (Hairy): That's whiskey in town.
+PHIL (Tordrug): Anyone like whiskey?
+SAMEASLASTTIME (Hairy): Ha ha. So I suggest we go to get the emergency health potions under her desk 1st and then make our way to Turbine Heights.
+STEVE (PQNine): Scares me a little bit on how many health potions are now available. So yeah, I think we should get them.
+PHIL (Tordrug): Um... Yeah, and Turbine Heights, don't forget, says in brackets, at your own risk.
+JEFF (Baron): Yeah, and with this observer thing, I don't know if like five of us just walking over the bridge is the best route to go. Like maybe we have two people or three people go that way and two people hide in a cart and go the opposite way. And maybe like those two people would stop at, because the destination we want is at the failsafe. And so maybe like one group would be tasked with a failsafe, the other group would be restoring the bridges. And then once the bridges are restored, we can meet up in the middle to take the big guy in the middle, assuming that he's in the middle, which is probably the case. The boss is going to be in the middle.
+PHIL (Tordrug): Yeah, Talkworth is using the security centre as her base. You can access it.
+STEVE (PQNine): But we don't need a, we don't need a...
+JEFF (Baron): To confront them, even, yeah.
+STEVE (PQNine): Yeah, who's Talkworth?
+JEFF (Baron): They're they're the gnome that you want to talk about talk to because the gnome is made the all these automatons go bad and you keep being quizzical about that.
+DM: Well, no one can remember the name, so that's just that's the name that comes on the map, but...
+PHIL (Tordrug): Oh, oh, oh, yeah, we don't, oh yeah, that's right, we, yeah, that's right.
+JEFF (Baron): Oh, okay.
+DM: The name of the... I actually changed the character, so it's not Talkworth.
+PHIL (Tordrug): Okay, and that's right, everybody kept saying they couldn't remember her name all the time, or their name. His name.
+SAMEASLASTTIME (Hairy): Jane Doe.
+DM: His name?
+SAMEASLASTTIME (Hairy): John Doe.
+PHIL (Tordrug): Yeah, like a woman could build automatons.
+DM: And there was even at one point, at one point, the crag knuckle.
+STEVE (PQNine): Maybe that's why they went bad.
+PHIL (Tordrug): Maybe just that time on one, sorry.
+DM: At one point, Cragknuckle had a trickle of blood come down his nose when he really tried to remember.
+SAMEASLASTTIME (Hairy): But. But...
+STEVE (PQNine): Yeah, yeah, yeah. That happened to me once.
+SAMEASLASTTIME (Hairy): Okay, so yeah, if yeah, okay, that's why we didn't want to necessarily sneak across to Turbine Heights because the automatons would see us, so we have to be very sneaky. I am sneaky.
+JAKE (Fic): I'm sneaky.
+SAMEASLASTTIME (Hairy): I, yeah, I think.
+PHIL (Tordrug): Yeah, so am I.
+SAMEASLASTTIME (Hairy): Who's not sneaky?
+STEVE (PQNine): I'm... I'm okay.
+SAMEASLASTTIME (Hairy): You're a. I mean, you should be relatively sneaky, right?
+STEVE (PQNine): I mean, I'm okay. You guys have high, like, everything.
+PHIL (Tordrug): That's not possible.
+SAMEASLASTTIME (Hairy): I mean, yeah, it's not possible.
+PHIL (Tordrug): Stop.
+STEVE (PQNine): Well, I have high nothing that is possible, so the opposite must also be possible.
+DM: Well... in front of you. is the gatehouse. So this is basically, well, it's like a customs house. It's where the guards are. They control the flow of traffic in and out of town.
+SAMEASLASTTIME (Hairy): Let's go check it out. I'm going to climb in through this window.
+JEFF (Baron): But is that where her office is as well? Is that where her office is?
+DM: What's? No, her office is at the town hall, which is further in.
+JEFF (Baron): Oh, okay. Further up.
+SAMEASLASTTIME (Hairy): I'm already climbing through the window.
+JEFF (Baron): Isn't there a door?
+SAMEASLASTTIME (Hairy): Open, climb. Window. I already went through a window. What are you gonna do?
+JEFF (Baron): Wait for you to open the door.
+SAMEASLASTTIME (Hairy): Oh, okay. I will open the door. Oh, no, that goes out to the basement. I don't see a door.
+PHIL (Tordrug): Where's the dare? Just dirt over here.
+DM: Well, that doesn't go down to the base. Well, so you can't go through that window because that's on the 2nd floor.
+SAMEASLASTTIME (Hairy): It goes upstairs. Oh, never mind then. I'm going to go over to this door. I'm going to open this door, go up, and go through this door, and then look out the window and say, hey, guys, hey, Quapny.
+DM: So it's up on stilts. You gotta go through the door.
+PHIL (Tordrug): Yeah. And.
+STEVE (PQNine): Hey.
+DM: So, there's a crank there that opens and closes the gate. And yeah, it looks like whoever was here left in a hurry. Things are sort of...
+SAMEASLASTTIME (Hairy): Yeah. Ohh. Man, I think...
+STEVE (PQNine): And they're playing cards.
+DM: Strewn about.
+SAMEASLASTTIME (Hairy): That thing is cranky. What's this room? It's tiny.
+DM: It's sleeping quarters for gnomes.
+SAMEASLASTTIME (Hairy): and dark. Ohh, that's why it's... Two feet wide. Is there any, I don't know, let's look around. Is there any like... It doesn't look like there's anything that would be worth anything out in the open, but can I look around for any sort of... secret hatches or anything.
+DM: Sure, yeah, make an investigation check.
+SAMEASLASTTIME (Hairy): Damn right, investigation. really bad at investigation.
+PHIL (Tordrug): Uh, is everybody inside? Okay, coming in.
+SAMEASLASTTIME (Hairy): I got a four.
+PHIL (Tordrug): I feel like I can help you better with that. That's my investigation.
+SAMEASLASTTIME (Hairy): Oh man, your investigation is huge. There's a...
+STEVE (PQNine): Yeah, see, this is what I'm talking about, an 8.
+SAMEASLASTTIME (Hairy): Well, look at my investigation, mine is one.
+DM: All right, so looking around, I mean...
+SAMEASLASTTIME (Hairy): He's got, it's a nine-point swing between us.
+PHIL (Tordrug): Mine, everything in his mind is high.
+DM: There's odds and ends. There's not really anything of value in here.
+SAMEASLASTTIME (Hairy): And the crank opens the gate that just closed, right?
+DM: Well, no, it opens the inner gate. So there's an outer gate which they sealed, they've magically sealed, but there is an inner gate to the town that that crank opens up.
+SAMEASLASTTIME (Hairy): And when they open the gate to let us in, obviously no automatons or whatever were attracted to that noise or to us.
+DM: You don't know.
+SAMEASLASTTIME (Hairy): I don't see anything.
+DM: No? Well, I mean, you can, you can make a... What's that?
+PHIL (Tordrug): Don't hear anything.
+SAMEASLASTTIME (Hairy): Don't hear any automatons. I don't hear any automatons approaching.
+DM: Well, you make a perception check.
+STEVE (PQNine): I'll take a listen. I'm out, I'm outside too. I'll take a listen.
+SAMEASLASTTIME (Hairy): Good, I'm pretty bad at perception too. Yeah.
+DM: You don't hear anything.
+JAKE (Fic): I'm gonna do a little quick listen. Oh, somebody already did.
+STEVE (PQNine): But. How about me?
+DM: Quadney, you. Well, roll, roll the D6.
+STEVE (PQNine): I will. Yeah,
+SAMEASLASTTIME (Hairy): Lucky 3.
+DM: Yeah, you hear nothing.
+STEVE (PQNine): I hear nothing.
+SAMEASLASTTIME (Hairy): I guess there's no problem then. What's this thing I'm standing next to?
+JAKE (Fic): All is well.
+DM: Sorry.
+SAMEASLASTTIME (Hairy): What's this thing I'm standing? I'm walking around.
+DM: It's a house. So all of these buildings are like different things. So like they're houses, they're like there's workshops, bakeries, bath houses, breweries, different like restaurants, gem cutters, workshops, haberdasheries. Stores, scribes, workshops, smiths, taverns.
+SAMEASLASTTIME (Hairy): OK, so according to the map.
+DM: Tinkerers workshops, wizards houses.
+SAMEASLASTTIME (Hairy): The. What are we looking for there? The town hall should be straight ahead.
+PHIL (Tordrug): Town Hall.
+DM: So what you, in order to figure out what you've gone into, in order to figure out what you've, you can go in, I'll let you go into any house that's in here. We won't necessarily show a map, but I mean you get, you'll roll a D100 to determine what it is.
+SAMEASLASTTIME (Hairy): I see some dead people.
+DM: So, right here, you're at the town hall, and...
+JEFF (Baron): Well, so I also wondered about if we should be going like house to house and like looking for people that might be
+PHIL (Tordrug): Oh, ****.
+JEFF (Baron): like left behind because it did say there would be people potentially left behind. Like not searching the houses in detail, which is like opening every single door and being like, hey, anybody there?
+SAMEASLASTTIME (Hairy): Yeah, right, that's a good idea.
+PHIL (Tordrug): Okay, so...
+JAKE (Fic): Started the year, should go back.
+DM: So, outside the town hall, there's the bodies of three dead gnomes.
+JAKE (Fic): Where are the doors? Oh.
+PHIL (Tordrug): Hold on.
+DM: and they're lying dead on the steps of the town hall and the doors are wide open.
+JEFF (Baron): I might as well start here.
+STEVE (PQNine): Mm-hmm.
+SAMEASLASTTIME (Hairy): We'll backtrack.
+PHIL (Tordrug): Alright, dude, is there any tracks or anything inside?
+SAMEASLASTTIME (Hairy): Traps.
+DM: No, but I mean, there's things lying, like there's signs of combat. Like there's blood, there's like little bits of metal that have probably come off an automaton. And again, I mean, town hall, like there's papers strewn about. It looks like everybody left in a hurry.
+SAMEASLASTTIME (Hairy): I guess sit down to this chair.
+JAKE (Fic): Do these guys have any cool weapons?
+DM: They just have standard militia weapons.
+PHIL (Tordrug): Can you call out in Gnomish?
+SAMEASLASTTIME (Hairy): I can sit down in his chair, pretend that I'm A counselor. Does anyone have a hammer?
+JAKE (Fic): I think I might.
+STEVE (PQNine): Uhh.
+SAMEASLASTTIME (Hairy): Can I borrow your hammer for a sec?
+STEVE (PQNine): I don't.
+JAKE (Fic): Bit like a crowbar.
+SAMEASLASTTIME (Hairy): That's not a hit, that's not close to a hammer.
+JAKE (Fic): I got a hammer, yeah, here's my, here's my hammer.
+STEVE (PQNine): Let's close.
+SAMEASLASTTIME (Hairy): I'm gonna pretend it's a caval and just hit it and be like, I'm important. I'll give it back.
+JAKE (Fic): The. Oh, hear ya, hear ya.
+STEVE (PQNine): Uhh.
+SAMEASLASTTIME (Hairy): No, Harry, Harry.
+STEVE (PQNine): Can I pick up, um, can I look at, I'm gonna pick up some of the, some of the broken metal?
+JAKE (Fic): Yes. Boo.
+STEVE (PQNine): And I'm going to... Investigate it and see like what type of metal is it iron? Is it steel? Is it?
+DM: It's an alloy. You're not sure, but whoever made it knows what they're doing.
+JAKE (Fic): Uhh...
+DM: Like, it's definitely the work, like, it's definitely gnomish craft.
+STEVE (PQNine): Not female gnomish though.
+DM: And it seems strangely familiar. Like you, you can't put your finger on it, but like you recognize the style.
+STEVE (PQNine): I can.
+SAMEASLASTTIME (Hairy): He's holding it.
+JAKE (Fic): It's in his finger. It's literally in his finger.
+STEVE (PQNine): Yeah. Like, so I like the type of alloy, it seems familiar.
+DM: No, no, just the workmanship.
+JAKE (Fic): You should taste it, probably.
+DM: Like A workmanship you've known either from a long time ago or you've known for a long time.
+SAMEASLASTTIME (Hairy): Cryptic. I'm gonna open this door, see what's inside.
+JAKE (Fic): Oh, let's turn back.
+SAMEASLASTTIME (Hairy): Good office. I'm going to check under the desk. Are there any healing potions?
+DM: Let's see.
+SAMEASLASTTIME (Hairy): It's a small office, so I doubt it's hers, but...
+JAKE (Fic): This is letter on the desk.
+SAMEASLASTTIME (Hairy): And I'll just go through the drawers, see if there's anything that could be helpful.
+PHIL (Tordrug): Don't forget, it's a gnome, so it could be a big office.
+DM: So this is the mayor's office and just like she told you, there are four potions of healing. Two flasks of alchemist fire.
+JAKE (Fic): What, what?
+DM: and a little pouch of dust of disappearance in a small packet.
+JAKE (Fic): Ooh.
+STEVE (PQNine): It's fun.
+SAMEASLASTTIME (Hairy): Okay, who is the least? Sneaky. It's got crappy stealth.
+PHIL (Tordrug): I've... I for self. I'm pretty, I'm pretty stealthy, I think.
+SAMEASLASTTIME (Hairy): I got a six, so I'm pretty good.
+JEFF (Baron): I have four as well.
+JAKE (Fic): I'm 3.
+STEVE (PQNine): I'm A32, see, that's like my one of my best things. Yeah.
+JAKE (Fic): Yeah, that's also one of my, my, my highest number is like a three. Maybe I'm as bad as you, Klopny, that stuff.
+SAMEASLASTTIME (Hairy): Hi. But... I'll give. I give that.
+JAKE (Fic): Come on, I'm a thief. I could use that dust of disappearance. Come on, man.
+SAMEASLASTTIME (Hairy): Okay, yeah, that's true. I'll give you the disappearance.
+PHIL (Tordrug): Where all these?
+SAMEASLASTTIME (Hairy): Yeah, that's true. We are all these. Anyways, I already did it.
+JAKE (Fic): I said it first.
+SAMEASLASTTIME (Hairy): I'll give everyone else a healing potion. Including myself.
+DM: The one thing she didn't tell you about that's sitting on the desk.
+STEVE (PQNine): Will take.
+SAMEASLASTTIME (Hairy): Oh, I already have a bag of dust with the spirits. Sorry.
+DM: is a calligraphy set.
+SAMEASLASTTIME (Hairy): Oh, I will give that to my wizard friend. Here you go, wizard friend.
+PHIL (Tordrug): Thank you.
+SAMEASLASTTIME (Hairy): Tor drug calligraphy.
+PHIL (Tordrug): Appreciate that.
+DM: Paper and pens and ink.
+SAMEASLASTTIME (Hairy): And then I do have a dust of disappearance. I will give that to Quapni.
+STEVE (PQNine): Great, how did?
+DM: Tell you already gave it to.
+SAMEASLASTTIME (Hairy): I know I had one already in my inventory, so I will give that to QAPNI because I felt a little bad. And then I will, what was the other thing, the flask of?
+DM: Oh, I see. Two flasks of alchemist's fire.
+PHIL (Tordrug): Alchemist Fire.
+SAMEASLASTTIME (Hairy): Alchemist, Alchemy, does anybody know what this stuff does?
+PHIL (Tordrug): I believe Quapney said I had one, I gave it to him because he said he might be able to use it for his contraption.
+STEVE (PQNine): I can.
+SAMEASLASTTIME (Hairy): I'll give him to, I'll give him to, too.
+STEVE (PQNine): I think we can also just use it in general for stuff, too.
+SAMEASLASTTIME (Hairy): What does it do?
+PHIL (Tordrug): Is it like a fire bomb essentially like a Molotov?
+STEVE (PQNine): Yeah, something like that.
+SAMEASLASTTIME (Hairy): You're the expert, aren't you, Quapni?
+STEVE (PQNine): I'm looking into it.
+DM: So it's a it's like napalm. It's like a it's an adhesive fluid that it ignites when it's exposed to air. and you can throw it up to 20 feet, it shatters, and it does fire damage.
+STEVE (PQNine): You can throw it.
+SAMEASLASTTIME (Hairy): I'll give my two the two flats to go up me.
+STEVE (PQNine): Sweet. Bunch of stuff now.
+SAMEASLASTTIME (Hairy): Are there any good books on the shelves here?
+DM: Um, nothing you recognize, it's all in gnomish.
+SAMEASLASTTIME (Hairy): Are they all this stupid gnome stuff?
+JAKE (Fic): Yeah, hold on.
+SAMEASLASTTIME (Hairy): I was gonna light on fire.
+STEVE (PQNine): As I walk around, as I walk around, I'm going to be looking at my eye stone that identifies magic.
+PHIL (Tordrug): Oh, I forgot about that.
+STEVE (PQNine): It, I'm just going to see if it ever glows as I walk around.
+DM: Alright. No, not so far.
+SAMEASLASTTIME (Hairy): I'm going to go in this room here.
+STEVE (PQNine): Not even, how about like when I with near the metal that is familiar to me?
+PHIL (Tordrug): His name?
+STEVE (PQNine): Yeah. Eight.
+SAMEASLASTTIME (Hairy): Do I see anything in this room?
+DM: No, it's all sort of papers and forms and it's all in languages you don't understand.
+SAMEASLASTTIME (Hairy): Boring gnome stuff. How about this one? Any more calligraphy sets?
+DM: Same thing, it's papers and stuff like that. Things you don't understand. It's not as nice as the mayor's office.
+SAMEASLASTTIME (Hairy): I'm just going to kick the table over.
+PHIL (Tordrug): Just gonna hang out. I'm just gonna be up front. I'm gonna be listening, but while this is all happening, just listening for clock.
+DM: All right, roll a D6.
+PHIL (Tordrug): A D6. That's not good.
+SAMEASLASTTIME (Hairy): You hear a crash as I kick over the table.
+DM: I hear nothing.
+PHIL (Tordrug): Find a nugget.
+DM: You can do, I mean you can do a perception check too if you want.
+PHIL (Tordrug): I will.
+DM: Yeah, nothing, nothing really going on.
+PHIL (Tordrug): Damn it.
+DM: All you can really hear is the sound of the pulley system as it moves or around and around in a circle around the town.
+PHIL (Tordrug): Oh yeah, yeah.
+JAKE (Fic): It's always just going. Mmm, creepy.
+PHIL (Tordrug): I, I do hear that.
+SAMEASLASTTIME (Hairy): How do we want to check these houses? See if there's anybody around.
+JAKE (Fic): Do, do, do. Yeah, let's go back. Let's get him. I can see that guy's ****.
+DM: You sure can. Yeah, one guy is not wearing any kind of pants underneath.
+SAMEASLASTTIME (Hairy): If.
+DM: It's, I mean, it's remarkable, but not in a good way.
+JAKE (Fic): Mm.
+SAMEASLASTTIME (Hairy): A
+PHIL (Tordrug): And I'll be like, hey, is that...
+DM: He seems a little too free and easy with himself, so to speak.
+JAKE (Fic): Hey, hey everybody, don't look at that guy's pants.
+PHIL (Tordrug): Is that like a gnome thing? Do they all just like, they don't have pants on normally? What is that?
+DM: No, he's he's the only one.
+PHIL (Tordrug): Ga.
+STEVE (PQNine): We wear pants normally.
+PHIL (Tordrug): You wear, you do wear pants, okay. More like shorts.
+STEVE (PQNine): You.
+SAMEASLASTTIME (Hairy): And would it be logs? Because he likes the session.
+DM: All right, so walking amongst these buildings, I mean, all of them look like places that were left in a hurry, right? Like, it's kind of creepy because the town looks like people were here not too long ago, but everything's sort of left behind. Like,
+PHIL (Tordrug): Hot, excuse me.
+SAMEASLASTTIME (Hairy): Good.
+DM: You know, there's table settings with food still sitting out. There's, you know, like...
+JAKE (Fic): You know, like, I can't even see the doors that always, you know, we get into one of these places.
+DM: Well, I told you, you don't. I already said this. So you can't get into them. I've made it so you can't. But if you do want to go into one or two of them, you roll a D100 to decide what the building is. And then you can look around if you want.
+SAMEASLASTTIME (Hairy): Well, I think we want to go in all of them.
+DM: Because it would just, it would make no sense to make a map for each one.
+JAKE (Fic): Hear him.
+SAMEASLASTTIME (Hairy): Yeah, we just want to go through and check to make sure that there's nobody actually in them. Just a quick peek in.
+DM: All right. You, okay, well, um, let's do one or two rolls. A couple of you roll a D100.
+SAMEASLASTTIME (Hairy): 75.
+DM: Somebody else?
+SAMEASLASTTIME (Hairy): 82
+JEFF (Baron): 82.
+DM: All right, so 75 first you enter it looks like a gem cutters workshop.
+SAMEASLASTTIME (Hairy): Is there any gems around?
+DM: No. So that's the neat thing is whoever left, left in a hurry, but they took anything really of value.
+SAMEASLASTTIME (Hairy): Ohh.
+DM: So there's like fragments of things. You can see where, you know, there's the edges of like an ore where there's like bits of gem on the end of it where maybe the gem started, but it's been cut off.
+SAMEASLASTTIME (Hairy): Yes. Or what?
+PHIL (Tordrug): No, no.
+DM: But I didn't hear what you said.
+STEVE (PQNine): I miss that.
+SAMEASLASTTIME (Hairy): I said, or what?
+DM: Ohh.
+SAMEASLASTTIME (Hairy): Ha ha ha! Sorry.
+STEVE (PQNine): I, I appreciate, I do appreciate that.
+SAMEASLASTTIME (Hairy): Sorry if I interrupted you. Keep going.
+STEVE (PQNine): Continue.
+DM: No, that's good. That's good. So there's nothing of value in there is basically what I'm trying to tell you.
+SAMEASLASTTIME (Hairy): Alright, it's gonna light on fire.
+DM: And then the other one was 82. You come into a scribes workshop. Again, like papers, parchment, ink, quills. Uh, books being bound. But again, anything of value, you can't find anything. Nobody, there doesn't seem to be a soul in the streets.
+SAMEASLASTTIME (Hairy): I assume in front of me there's like the bridge going across to the abbey.
+DM: So is that what you guys are going to do? You're going to cross the bridge?
+SAMEASLASTTIME (Hairy): Well, I'm just looking. Do I see the bridge? Is it down?
+DM: Yeah, I mean, there's a there's a bridge that crosses over to halfway aisle.
+SAMEASLASTTIME (Hairy): And it's down.
+STEVE (PQNine): Do you see any movement beyond the bridge?
+DM: Make a perception check.
+STEVE (PQNine): Another solid 15.
+DM: Roll a D6.
+STEVE (PQNine): There we go. Yeah.
+SAMEASLASTTIME (Hairy): Lucky sex, lucky sex.
+DM: Yeah, you don't, you don't see anything.
+STEVE (PQNine): Good thing I'm rolling this D6.
+DM: It is.
+STEVE (PQNine): Yeah. There.
+SAMEASLASTTIME (Hairy): So do we want to like just try sneaking across the bridge?
+STEVE (PQNine): Definitely sneak.
+DM: Alright, you guys gonna do stealth checks?
+SAMEASLASTTIME (Hairy): How long does a dust of disappearance last?
+PHIL (Tordrug): Hey, where's the ***** up?
+STEVE (PQNine): Me. Hello.
+DM: Uh, 10th, what is it? You...
+SAMEASLASTTIME (Hairy): That's the disappearance.
+DM: You throw it in the air and you can become invisible for 2D4 minutes.
+SAMEASLASTTIME (Hairy): It's not very long.
+DM: In combat, that's a long time.
+SAMEASLASTTIME (Hairy): Yeah, that's fair enough, but not when you're sneaking around the city. What do we want?
+JAKE (Fic): I'm gonna put my cloak up. Cloak is going on.
+SAMEASLASTTIME (Hairy): Do we want to just... Try this first bridge 1st and see what happens, and then...
+JAKE (Fic): Stuart, I'll go first.
+PHIL (Tordrug): Hey.
+SAMEASLASTTIME (Hairy): Do you want us to make stealth checks since we're being sneaky?
+DM: Yeah, oh yeah.
+SAMEASLASTTIME (Hairy): I assume we all get advantage because, but then did somebody have... What's that thing that gives plus 10 to stealth? Didn't somebody get that?
+JAKE (Fic): Yeah, I got a cloak in Elton kind.
+SAMEASLASTTIME (Hairy): No, no, not that. There's...
+PHIL (Tordrug): Oh, but it was, it was a, it was a spell.
+DM: That doesn't give 10 plus 10 to Stell. It gives you advantage when you have the hood up.
+SAMEASLASTTIME (Hairy): Anything within. No, but anything, anybody within 30 feet of somebody gets... Plus 10 to stealth. Somebody got it. Pass without a trace. That's what it is.
+PHIL (Tordrug): I've seen it, I did not get it.
+JAKE (Fic): Never mind.
+JEFF (Baron): I do have it.
+STEVE (PQNine): I don't know. Oh, there we go. Why did she just say that?
+SAMEASLASTTIME (Hairy): Yeah, so are you going to... Yeah.
+DM: Well, he was being sneaky.
+SAMEASLASTTIME (Hairy): Are you going to? Are you gonna cast it?
+JEFF (Baron): I suppose I could.
+SAMEASLASTTIME (Hairy): I feel like that'd be a pretty good idea.
+JEFF (Baron): I know, I was just reading it first to see if we needed to like touch hands or something, or like if it was only one person, but yeah, it's everybody within 30 feet of me that I choose, basically.
+PHIL (Tordrug): Haha. I.
+SAMEASLASTTIME (Hairy): Yeah, we we just need to stay with, like, close to you.
+DM: Yeah, I like how you're really far away from them right now too.
+JEFF (Baron): Well, I'm next to Quapni.
+SAMEASLASTTIME (Hairy): Where are you guys? Come over to the bridge.
+PHIL (Tordrug): At work.
+STEVE (PQNine): My dad or...
+JEFF (Baron): I guess we need to go up there to the, yeah, to the north.
+STEVE (PQNine): Uh, I thought that we were near the bridge.
+PHIL (Tordrug): I'm stuck now, there we go.
+JAKE (Fic): That was fun, you guys. I thought you guys knew you were gone.
+STEVE (PQNine): We did.
+SAMEASLASTTIME (Hairy): You're going to the bridge to the overlook. We're going to the bridge to the abbey.
+JEFF (Baron): Plus 10 bonus, that's huge.
+SAMEASLASTTIME (Hairy): Yeah, man, that's awesome.
+DM: So you guys are rolling stealth checks or what?
+STEVE (PQNine): It says to. Says to dexterity though, like...
+SAMEASLASTTIME (Hairy): Delta. Dexterity stealth checks.
+DM: Yeah, stealth.
+STEVE (PQNine): Yeah, so just stealth. Why don't they just say stealth?
+SAMEASLASTTIME (Hairy): Stealth is a dexterity check, yeah. I don't know, they're weird.
+STEVE (PQNine): But like, yeah, because it's not all their dexterity. It's only stealth.
+PHIL (Tordrug): Kudos.
+SAMEASLASTTIME (Hairy): I don't have heavy armor on. That's weird.
+DM: You did though, remember? You just never took it off.
+SAMEASLASTTIME (Hairy): When did I have?
+PHIL (Tordrug): At the prison.
+DM: when you were the guard in the jail.
+SAMEASLASTTIME (Hairy): Oh, okay. Okay, let me take that off. I obviously don't have that. So I'm going to keep that 24, which is a 34.
+JEFF (Baron): Oh, I didn't mean to hit that.
+PHIL (Tordrug): 15 for me, yeah.
+DM: So you got a 15.
+STEVE (PQNine): Yeah, also 15.
+DM: Ha ha.
+JEFF (Baron): I, I didn't have guard armor on, so I...
+PHIL (Tordrug): Ha ha.
+SAMEASLASTTIME (Hairy): Oh, it's because I have Sister Halda's shield and armor.
+JEFF (Baron): Oh, I do have a scale armor though, I think. Yeah, so I might have heavy. But still, that's a 27. It's pretty good.
+SAMEASLASTTIME (Hairy): Picked, is that why?
+DM: It is.
+PHIL (Tordrug): It's not 15.
+SAMEASLASTTIME (Hairy): Stop, does that fix it? No. Why? Why is it? How do we get rid of this? Bag of holding, fancy leather vest, fancy leather boots, fancy leather hat. Bottom half of the chewed up owl bear.
+JEFF (Baron): What is your actual armor?
+SAMEASLASTTIME (Hairy): That's what I'm looking for. Common clothes, backpack, robar torches, hammer.
+JEFF (Baron): Yeah. It should be the very top thing in your inventory.
+SAMEASLASTTIME (Hairy): I mean, as my wand of magic missiles, I don't have any armor.
+DM: Yeah, I don't see it either.
+SAMEASLASTTIME (Hairy): The only armor I had was Sister Halda's shield and armor, which I did not. Oh, splint armor. Oh, okay, it's down below.
+JEFF (Baron): As.
+SAMEASLASTTIME (Hairy): Let me take that off. And does anybody want, oh no, I'll keep the heavy crossbow. Actually, I don't know. I don't think I can use, yeah, I can't use it. Does anybody want a heavy crossbow? Okay, I will just... Oh wow, that really lowered my armor class. I must have, I don't, I have leather armor, right?
+JEFF (Baron): I was like, that's why I was wondering, do you have farmer?
+SAMEASLASTTIME (Hairy): That's what I had.
+DM: You tell me.
+SAMEASLASTTIME (Hairy): Yeah, I started with leather armor.
+PHIL (Tordrug): So, you've been cheating, you've been cheating.
+JEFF (Baron): Ha ha ha.
+DM: Well, no, because, well... Yeah, we only had one bit of combat, but that was with those gnolls and then, oh wait, then with the harpies.
+SAMEASLASTTIME (Hairy): Then with the heart bees, yeah. So I have been cheating.
+DM: Well, but you were wearing the armor, so you would have also had all the disadvantages as well as the advantages.
+SAMEASLASTTIME (Hairy): That's true.
+PHIL (Tordrug): Yeah, true.
+SAMEASLASTTIME (Hairy): So I will, yeah, but no, but I don't have proficiency with heavy armor, so I would have had like disadvantage on attacks.
+DM: So you weren't cheating. Okay, so you were cheating a little bit, but you looked like a guard. I mean, you were really into the role. It took you a while to get out of it.
+SAMEASLASTTIME (Hairy): I was. Yeah.
+PHIL (Tordrug): Your method acting.
+SAMEASLASTTIME (Hairy): For sure.
+DM: Alright, so back to the back to the roles as a as a group, you're pretty stealthy.
+SAMEASLASTTIME (Hairy): Armor, none. I don't have no proficiency in armor.
+DM: And you make your way across the bridge to halfway aisle.
+SAMEASLASTTIME (Hairy): Okay, that works now.
+DM: And then if you guys don't mind, you can put yourselves. On the map, please, where the, or do you want me to do it? I figured out how to change everything.
+STEVE (PQNine): We don't know where to go on the map because it's all black.
+SAMEASLASTTIME (Hairy): Right here.
+DM: Oh, and you guys somehow put yourselves right in the spot where you're not supposed to be.
+STEVE (PQNine): No, I say, but you should just put us on.
+DM: Yeah, alright, that's fair.
+JEFF (Baron): I, I can't get out now either.
+SAMEASLASTTIME (Hairy): Yellow mark.
+DM: What's that? Why, why are you doing that?
+JEFF (Baron): I can't get out of the house now. I'm stuck in the walls, but I was going to just delete my character.
+DM: I already did.
+JEFF (Baron): There you go, K.
+PHIL (Tordrug): Is that yellow beacon actually where we're supposed to be?
+SAMEASLASTTIME (Hairy): Yeah. That's on the bridge.
+PHIL (Tordrug): I don't know if that actually worked.
+SAMEASLASTTIME (Hairy): Well, I'd say like, I see two of you.
+JEFF (Baron): Ohh, you put me on.
+DM: Alright, stop it. Stop it.
+PHIL (Tordrug): Is it working when I'm doing it?
+DM: It's so hard to remember everybody's name.
+PHIL (Tordrug): I don't know.
+STEVE (PQNine): I'm Steve.
+DM: No, I know that one.
+SAMEASLASTTIME (Hairy): That was the same as last time.
+DM: Same as last time. Uhh... And then you spell it so ******* weird.
+PHIL (Tordrug): Oh yeah, oh yeah, I got me, I put me on.
+DM: Alright, there you go.
+STEVE (PQNine): Ohh, let him let him lava there.
+PHIL (Tordrug): The floor is lava.
+DM: Alright, so where are we? We are at halfway aisle. So, you guys are on the road, and next to the road is this sort of squat stone building capped with a stone dome. And the building's entrance is a double door, and it's carved to resemble interlocking hands, and centred above that doorway is a golden pick with a short handle.
+PHIL (Tordrug): And this is, ohh, this is a church, or there's...
+SAMEASLASTTIME (Hairy): The Abbey.
+DM: Yeah, if anybody wants to do a religion check, they can they can see if they recognize it. I'll let Quapney have advantage because he is gnomish.
+JAKE (Fic): All right, here.
+STEVE (PQNine): Yeah, Shablom.
+PHIL (Tordrug): Shablam, help out maybe? No, it's the exact same.
+JAKE (Fic): Ohh.
+STEVE (PQNine): Ohh, that was...
+DM: You guys really aren't sure what it is.
+SAMEASLASTTIME (Hairy): Well, Jake got a twenty-three, Vic got a twenty-three.
+JAKE (Fic): Yeah. Yeah.
+DM: Oh wait, sorry, I just saw the nines.
+PHIL (Tordrug): Hell yeah.
+SAMEASLASTTIME (Hairy): Dine.
+DM: Okay, yeah, you guys don't know what it is, but Vic, you recognize it right away. It is the symbol of the deep brother, Kaladrin Smooth Hands, who is a god worshipped by Snir Veflin. Those are those are the what the deep gnomes, that's the name they call themselves, and particularly the miners and stone carvers worship.
+SAMEASLASTTIME (Hairy): Deep domes.
+DM: Aladur and smooth hands.
+JAKE (Fic): Mm.
+SAMEASLASTTIME (Hairy): Smooth hands. Like the cut of that guy's jib.
+JAKE (Fic): Um... Can I check the door for trap booby traps? Was that perception? Shabow!
+STEVE (PQNine): Are these the doors here?
+DM: Yeah, those are the doors there. So. Actually, I think it would be an investigation check for that, but I think it's pretty much the same. Is that intelligence or?
+JAKE (Fic): Investigations.
+DM: Anyway, whatever. There is no traps. But since you are looking at it, like perception, one thing you do notice is there is a light coming from inside, like it's bright. And it's sort of peeking through the door, and you can see it through the cracks, and it's sort of dancing, like there's something moving in the light.
+STEVE (PQNine): S.
+JAKE (Fic): Okay. Mm.
+DM: And you can actually hear what sounds like, well, it sounds like people fighting.
+JAKE (Fic): Oh wow, I think there's some guys fighting in here, guys. Should we open the doors or let it finish out?
+SAMEASLASTTIME (Hairy): No, man, let's do it. Get in there.
+JAKE (Fic): All right, you guys ready? I'll open it on three. I'm gonna check really quietly, I'm gonna see if it's unlocked. Super sneaky like.
+DM: Yeah, it's unlocked. It's open.
+JAKE (Fic): Alright guys, this door's unlocked. I'm gonna throw it open. You ready? One, two, three, hazob!
+DM: All right, so it opens and you can see a goblin and a bugbear. And they, they're wearing manacles on their wrists and they're fighting what looks like a robotic dog with glowing eyes. And I'll have you guys all roll initiative.
+SAMEASLASTTIME (Hairy): I will shoot. Oh, I was gonna shoot already.
+JAKE (Fic): Doo doo doo. Spam.
+SAMEASLASTTIME (Hairy): Yeah. Oh.
+PHIL (Tordrug): Slam? No.
+STEVE (PQNine): Yeah, who's the bad guy in this situation?
+SAMEASLASTTIME (Hairy): Not the bugbearing goblin.
+PHIL (Tordrug): Ha. Probably us.
+SAMEASLASTTIME (Hairy): The dog with the glowing eyes.
+DM: Well, the dog with the glowing eyes, I'm not going to make it roll for it, but you, it based on its metallic appearance.
+PHIL (Tordrug): Set.
+DM: I, I would think that it is. One of the one of the clockwork defenders.
+STEVE (PQNine): How would we know that?
+DM: Well, you would know right away that it's an automaton.
+STEVE (PQNine): I recognize that right, guys, this is the bad guy.
+DM: And you, again, again, I would say too, you recognize the work. Like, you know who built this, but you can't put your finger on it.
+STEVE (PQNine): This is the way. Seems so familiar.
+SAMEASLASTTIME (Hairy): Log, it's a great name.
+DM: Uh, sorry, I gotta get the last guy. This list is getting so excessively long.
+SAMEASLASTTIME (Hairy): You know your own name, just generic bugbear.
+JAKE (Fic): That's a good sense.
+DM: Huh? Shows up for me as music.
+SAMEASLASTTIME (Hairy): I mean... Uh, not for me. Slonk at the name.
+DM: Weird.
+JAKE (Fic): There's a bunch of pews in there, pew, pew, pew, pew.
+DM: Alright, so. Uh, we'll have Slonk go first. And you see him move up, and again, there's this. this thing with glowing eyes and it's metallic. And he sort of leaps forward and he has a sword. It looks like he got it from one of the, it looks a little small for him.
+JAKE (Fic): Uhh.
+DM: See, where is he got? And then again. But I'll have him roll again because he's got disadvantage. Okay, so he does.
+PHIL (Tordrug): Oh, he's attacking, okay.
+DM: It is sorry.
+PHIL (Tordrug): He's attacking the bug bear, is that what's?
+DM: No, no. So the bugbear and the goblin are both wearing manacles. They are both fighting this metallic dog.
+PHIL (Tordrug): Sorry. K. Who's swinging the centre?
+DM: Slunk.
+SAMEASLASTTIME (Hairy): The Goblin. Slunk the Goblin.
+DM: All right, so.
+STEVE (PQNine): Ah, I can't quite reach it. Oh, sorry, hold on.
+SAMEASLASTTIME (Hairy): But you have 40 movement.
+STEVE (PQNine): No, I only have thirty-five. Because I can't. Can't, I don't think I've got a key point that I can use to run.
+DM: How do you let everybody see these things again, Pete? Shift Z, right? So that's the goblin. He looks like he's a boss goblin.
+SAMEASLASTTIME (Hairy): Yeah. It's got a crown.
+DM: And then that's the bugbear. They both look like rough customers. They don't look like they're particularly wealthy or well-educated. And the manacles suggest that they're prisoners. And then this is the Clockwork Defender. Definitely A metallic looking dog.
+STEVE (PQNine): Um... I guess I'll just run forward and get to...
+JAKE (Fic): Cool looking dog.
+STEVE (PQNine): I'm going to get to behind one of these pews. Like this one. And I'm going to ready a dodge action.
+SAMEASLASTTIME (Hairy): No, you just take the dodge action.
+STEVE (PQNine): I knew I was saying something wrong. I knew you would correct me.
+SAMEASLASTTIME (Hairy): If.
+STEVE (PQNine): I'll take the Dodge action. And that is my turd.
+PHIL (Tordrug): But you're not, you're not ready, you're not ready for that.
+STEVE (PQNine): It seems like I should be ready for it, doesn't it?
+PHIL (Tordrug): Nope.
+STEVE (PQNine): Because you just stand there like you're gonna be ready.
+DM: All right. Baron.
+JEFF (Baron): Okay, I'm gonna come into here. I still don't see anything else going on, so I'm gonna take two shots at... The dog there. Oh, why did it? Why is it plus 2 on the top? What? Yeah, why is it doing the plus 2 manually here? What's going on there?
+DM: I don't know.
+JEFF (Baron): Did they change Roll20 in the last two weeks, probably, right?
+JAKE (Fic): Is.
+STEVE (PQNine): Probably.
+PHIL (Tordrug): It looks like your fighting style is archery.
+JEFF (Baron): Oh, so it adds plus 2, yeah, okay, but why isn't it doing automatically?
+PHIL (Tordrug): Yeah, yeah. Well, yeah, because if you hover over there it says fighting style archery 2.
+JEFF (Baron): Yeah. So, 13 and a 10, I guess. Do either of those hit?
+DM: Let's see.
+PHIL (Tordrug): Yeah. There's probably an option buried steep.
+DM: No, they actually they ping off the metal.
+PHIL (Tordrug): Ohh.
+DM: So they connect, but they don't do any damage. Alright, that's it. Jordan.
+PHIL (Tordrug): Um, okay, I'm just gonna... Just gonna fire bolt it, fire bolt the automaton. Hold on, hold on, let me check range on that actually. I think it's far, yeah, 120 feet. So I'll fire bolt. 17 to hit. And then, 10 damage. Seems tired. Oh, yeah. I'm just going to step to the side a bit so nobody can shoot at me.
+DM: All right, so yeah, you connect. It, I mean, it sort of shutters. And it definitely notices you and looks... a little scorched.
+PHIL (Tordrug): Hey, that's ending my turn.
+DM: Alright, Harry Styles.
+SAMEASLASTTIME (Hairy): I'm going to cast chill touch at the automaton. 19 to hit.
+PHIL (Tordrug): Time.
+SAMEASLASTTIME (Hairy): For 4 points of necrotic damage.
+DM: Alright, yeah, it. It gets a little bit of corrosion and
+PHIL (Tordrug): To me.
+DM: You notice it's sort of lurching a little bit, malfunctioning, like it's shuddering even more.
+SAMEASLASTTIME (Hairy): Okay, I'm going to move over by the statue here. What does the statue look like?
+DM: Uh, this statue. It's 4 feet tall. You're assuming it's Kaliduran. And his face and figure are sort of hidden behind his cloak. And he's in a little alcove and his right hand is held out displaying stone carved rings. on every one of his stubby fingers.
+SAMEASLASTTIME (Hairy): Mm. Okay, I'll just give him a nod.
+DM: All right, he sits motionless.
+SAMEASLASTTIME (Hairy): Hunk it out.
+DM: All right, so the bugbear moves forward and he attacks the automaton.
+SAMEASLASTTIME (Hairy): F.
+DM: And he, you notice he has one of the spears from the... The militia. And he connects, but...
+PHIL (Tordrug): Uh-oh.
+SAMEASLASTTIME (Hairy): You can ask, but what?
+JAKE (Fic): Hello.
+DM: Five.
+STEVE (PQNine): Mm.
+DM: Do any damage, just.
+PHIL (Tordrug): Ohh.
+JAKE (Fic): He didn't do, whoa.
+SAMEASLASTTIME (Hairy): You're back.
+PHIL (Tordrug): See.
+JAKE (Fic): Can't hear me now.
+SAMEASLASTTIME (Hairy): Your lagging.
+JAKE (Fic): I saw him drink some beer though. And then deja vu moment of engine. Oh, there he is. He's back. You're back.
+DM: Oh, I'm lagging? Yeah.
+PHIL (Tordrug): Oh, you're back, you're back. Yeah.
+STEVE (PQNine): Oh, that's better. You're better now. I don't think it.
+DM: So where did I cut off, get cut off?
+JAKE (Fic): I think you said, yeah, you didn't land a spear throw or something.
+PHIL (Tordrug): It didn't land.
+SAMEASLASTTIME (Hairy): He, yeah, it didn't land.
+DM: Oh yeah, so the javelin connects, but it just pinged off the metal and now it's Vic's turn.
+JAKE (Fic): All right, I'm going to come in to this door. Oh, I see the laser dog there. Ah, so I'm gonna shoot off Firebolt! Shaboom!
+DM: Alright, you fire off a fire bolt. It connects with the dog, and it... Lies into pieces.
+JAKE (Fic): Whoa. Like.
+STEVE (PQNine): It's pretty easy.
+JAKE (Fic): Yeah, hey guys, that's how you do it.
+SAMEASLASTTIME (Hairy): It was all the chronic damage.
+JAKE (Fic): I don't think so.
+SAMEASLASTTIME (Hairy): I'm going to go up and I'm going to in Goblin in Goblin. I will talk to these two and I will just say. Hey, you guys alright?
+DM: All right, the goblin speaks first. He says, oh, we're fine now. Thank you, friend. Oh, I can't believe we've run into another goblinoid down here. It's just these gnomes. They have these These machines, they're going crazy. What is going on? And he looks over at the bugbear, who looks over at the goblin, and the bugbear says to you, I hope you're a friend of a friend.
+SAMEASLASTTIME (Hairy): Oh yeah, that was the secret code. Do we know what... Yes, I'm a friend of a friend. I don't know. Was there a response? I had a...
+JAKE (Fic): Just.
+STEVE (PQNine): You.
+PHIL (Tordrug): Alan, hold hands. Yeah, something.
+JAKE (Fic): Are we out of combat?
+STEVE (PQNine): I, I don't have it, I don't have that.
+DM: Yeah, you're out of combat.
+PHIL (Tordrug): Actually, because I speak Goblin, so I'll speak, I'll say, actually, I'm a friend with friends.
+DM: They look at you. And then they look back at Harry. And then they ask him, how did you end up down here, brother?
+SAMEASLASTTIME (Hairy): Yeah. Oh, we took a job. We got to clear out these automatons. They've gone crazy, as you quite rightly know.
+DM: Who are these?
+SAMEASLASTTIME (Hairy): So... These guys? All right. There's the.
+JAKE (Fic): I'm gonna turn around and show my jacket.
+STEVE (PQNine): We can't understand with them, though.
+SAMEASLASTTIME (Hairy): Yeah, we're part of a...
+PHIL (Tordrug): I can, so I'll be like, we're the getaround boys.
+SAMEASLASTTIME (Hairy): Yeah, just tore drug. Yeah, we're part of a gang.
+PHIL (Tordrug): 10.
+SAMEASLASTTIME (Hairy): It's pretty ******.
+JAKE (Fic): I'm gonna do a little moonwalk.
+DM: Why do you, and then music says, why do you? Are they humans?
+SAMEASLASTTIME (Hairy): No. **** that.
+DM: They look like humans, except for the gnome.
+SAMEASLASTTIME (Hairy): None of them are humans. I kill humans. I set them on fire.
+PHIL (Tordrug): I'm gonna be like, I'm gonna be like pointing at my ears, being like, hello. What's going on?
+SAMEASLASTTIME (Hairy): My family was murdered by humans. My whole tribe was murdered by humans.
+PHIL (Tordrug): Elf.
+JAKE (Fic): I've sworn to avenge his family.
+DM: Yeah, Usik says mine too. And then Slunk spits and he says, I don't have much use for humans either.
+SAMEASLASTTIME (Hairy): Bye, bye. Yeah, I mean, nobody does. They're vermin. They deserve to be put down. Anyways, but no, no humans here, so we're just taking out these, uh, me and the boys. Get around boys. We're taking out these automatize.
+PHIL (Tordrug): Get around, boys.
+SAMEASLASTTIME (Hairy): Hmm. But the way back to, if you want to go, I mean, you can come with us if you want to help out, or if you want to go back, there's the guardhouse right by the front gate. You can just hang out there until we're done and then we can all leave.
+DM: Mm. You gotta get us outta here. This place is nuts.
+JAKE (Fic): Are you sure you want to help us, like, clear out the automatons?
+DM: Can you do you guys know a way out?
+SAMEASLASTTIME (Hairy): Well, when we're done, we'll be...
+JAKE (Fic): You want help? You want help?
+SAMEASLASTTIME (Hairy): You can't understand what this guy's saying.
+JAKE (Fic): We could use some hand like we're bigger. What?
+DM: What is he saying?
+PHIL (Tordrug): Ha ha ha.
+SAMEASLASTTIME (Hairy): Don't worry about that guy, he just talks. I mean... Whatever you guys want, you can go back near the front gate and there's a guardhouse there. You can just wait for us there. I mean, we can't get out until we're done. So we'll just clean this up and then once we're done, we'll pick you up and we'll leave. Or you can come with us. It's your choice. It'll be dangerous though. I mean, we're gonna...
+DM: No, no, we, like the bugbear looks at the goblin and the goblin looks back at the bugbear and the goblin says, no, we gotta get out of here right now.
+PHIL (Tordrug): Why are you wearing... Are they chained down?
+SAMEASLASTTIME (Hairy): Or we can't.
+DM: They have manacles. So they have manacles, so they're chained, their hands are chained together. They both manage to find a weapon.
+PHIL (Tordrug): Or not.
+DM: like their weapons that are probably taken from some of the militia, you think, just based on their size. So they're chained together at the wrists, but they're also chained together at the ankles.
+PHIL (Tordrug): Oh, wow.
+SAMEASLASTTIME (Hairy): I could turn to Baron and just say, hey, Baron, can you pick these locks, like get these manacles off these guys?
+PHIL (Tordrug): I can maybe give it a shot. I have a lock fix.
+SAMEASLASTTIME (Hairy): Okay, well can you do that then? Like, let's...
+PHIL (Tordrug): Yeah. Yeah, so let me, let me just... Lulu. I have a thieves toolkit.
+SAMEASLASTTIME (Hairy): Does that do anything?
+PHIL (Tordrug): Do I?
+DM: Don't you have to do like a slight of hand check?
+PHIL (Tordrug): Is that do I?
+STEVE (PQNine): Mm.
+PHIL (Tordrug): A... No, no, I don't. It just opens up.
+SAMEASLASTTIME (Hairy): It just, it just works, just.
+PHIL (Tordrug): Ohh, sleight of hand, is that right? Yeah, damn.
+DM: Yeah, you gotta get, is that like a DC 15?
+PHIL (Tordrug): Uh, no. I'll try the other one though. Or do I do it with an advantage because I have the tools?
+SAMEASLASTTIME (Hairy): The tools allow you to do it.
+DM: No, I mean the tools let you do it.
+PHIL (Tordrug): Okay, alright, it didn't work, so I guess I'll try the other guy.
+JAKE (Fic): And here, let me try one. Let me try the other guy here. Let me get in there because I've got...
+DM: You sure? So, so which one did you try first?
+PHIL (Tordrug): But. I tried the goblin. I tried the goblin first.
+DM: Yeah, he looks over here and goes, you sure he's not a human?
+JAKE (Fic): Can I? Can I try? Can I try one?
+PHIL (Tordrug): Yeah, yeah, yeah, you go it. I thought I could do it. I'm usually pretty good at it.
+SAMEASLASTTIME (Hairy): Yeah, man, go for it.
+JAKE (Fic): Okay. Yeah, I've got the.
+SAMEASLASTTIME (Hairy): Like, why don't we take a short break? We'll hang out here. You guys can fiddle with these chains. I'll just say, while they're... You're doing that, I'll just say, like, we can't get out until we clear the threat. That's it. So you guys can hang out here, and we'll come back for you, or you can come with us.
+DM: No, no. We're not, we're not staying here.
+SAMEASLASTTIME (Hairy): Okay, I mean, okay, then then don't you can go hang out by the by the gate when we're done
+DM: How do we get out? How do, how did you get in?
+SAMEASLASTTIME (Hairy): There's a gate. It's a front gate. I mean, did you not come in here?
+DM: But I mean, they, we, does it open? I mean, how do you open the gate?
+SAMEASLASTTIME (Hairy): When we're done with the automatons, they're gonna, they'll open the gate and we'll get out.
+DM: All right, the goblin seems kind of mad.
+SAMEASLASTTIME (Hairy): I mean, we're freeing you, Chief, like...
+DM: And the bugbear kind of looks stuck between you guys, like he's just...
+SAMEASLASTTIME (Hairy): Just take a take a deep breath, buddy. I mean, we just we just saved you. Now we're freeing you. OK, all you got to do is hang out. Here's some food. I'll give him some food. And I don't know if I have any wine or ale or anything like that. Just be like, just, you know, eat, drink, be quiet. Just stay here. When we're done, we'll pick you up and we'll leave. Or you can go hang out by the front gate so that we're not going to slip past. Ask or anything, and...
+DM: Okay, the goblin smells it. He takes the food and the like the drink and he's like, oh my god, okay. It's like, thank you. Something that doesn't taste like mushrooms.
+SAMEASLASTTIME (Hairy): Yeah, mushrooms are the worst.
+DM: These things, that's all they eat. They eat mushrooms.
+SAMEASLASTTIME (Hairy): Gnomes are weird, man.
+STEVE (PQNine): The automatons eat mushrooms.
+JAKE (Fic): Here's.
+DM: No, then. As you, what is he saying?
+PHIL (Tordrug): The automatons eat mushrooms.
+STEVE (PQNine): There's.
+SAMEASLASTTIME (Hairy): He's talking about whiskey. He talks about whiskey A lot. He's just...
+DM: Why do they all keep talking? What are they saying? Uh, don't worry about it.
+PHIL (Tordrug): Ha ha ha.
+JAKE (Fic): Harry, does anybody want me to try to get these manacles off or what? No? Why was you talking to the guy incessantly? I don't know what's going on.
+PHIL (Tordrug): No, you can... I speak Goblin.
+SAMEASLASTTIME (Hairy): Yeah, I thought you were doing that. Do it, man.
+PHIL (Tordrug): Edit.
+SAMEASLASTTIME (Hairy): I, yeah, I told you to do it, so don't just say it there.
+PHIL (Tordrug): Okay. While he's doing that, I'm going to ask him like, how long have you guys, like when did the automatons attack? Like how long ago was all this?
+JAKE (Fic): OK, alright, I need to know.
+DM: It wasn't too long ago. I mean, they just kind of got nuts. What are you doing? Start at third level, you can use the bonus action, grab your cunning action to make this very slight hand check. Use your thieves tools to disarm a trap over the lock, then take a use an object action.
+PHIL (Tordrug): Like, like a week ago.
+DM: Ha ha ha!
+STEVE (PQNine): You've got like half the bonus that Tor Drug has.
+SAMEASLASTTIME (Hairy): Yeah, aren't you? You're supposed to be super dexterous.
+PHIL (Tordrug): Yeah, I'm a I'm a wizard with.
+JAKE (Fic): I'm supposed to be good at this.
+PHIL (Tordrug): Yeah, what the, what's your dexterity?
+JAKE (Fic): My dexterity? 17 with a 3 over it.
+SAMEASLASTTIME (Hairy): Like, what's your highest stat? Is that your highest stat? You're not, you gotta be proficient. You have to be proficient slight of hand. You're a rogue, right?
+PHIL (Tordrug): So, you must have a...
+JAKE (Fic): A 17, yes.
+DM: Let's see.
+JAKE (Fic): You'd think so, but I don't have a little blue check mark beside mine.
+SAMEASLASTTIME (Hairy): I feel like you should.
+DM: Yeah, you should.
+STEVE (PQNine): Do you have any? Are you? Are you proficient at anything?
+SAMEASLASTTIME (Hairy): I mean, that will add.
+JAKE (Fic): How many blue check boxes? How many blue check boxes are you supposed to have?
+JEFF (Baron): Did.
+DM: You have, you're supposed to have three, but you have it beside perception, religion, and insight.
+SAMEASLASTTIME (Hairy): I mean, it's different depending.
+PHIL (Tordrug): You just have three?
+DM: That's what you have.
+JEFF (Baron): I'll have fun.
+JAKE (Fic): I don't think I'm supposed to have religion. I don't know why I would have religion. Maybe I don't poison it.
+JEFF (Baron): I only have one.
+SAMEASLASTTIME (Hairy): Okay, skills, rogue skills, change 4 from acrobatics, athletics, deception, insight, imitation, intimidation, investigation, perception, performance, persuasion, sleight of hand, and stealth. I mean, if he didn't pick sleight of hand, yeah, it says choose four.
+JAKE (Fic): Change 4.
+DM: So I want to change it from religion to sleight of hand. Now you got a plus 6.
+JAKE (Fic): Ohh. Well then I should have another one because I'm missing one.
+DM: You still want insight?
+SAMEASLASTTIME (Hairy): You should, yeah, I mean you should take stealth. Do you not have stealth? You should have stealth. You're a rogue.
+JAKE (Fic): No, take stealth. There you go.
+SAMEASLASTTIME (Hairy): What did you have proficiency in?
+JAKE (Fic): Well, it's only letting me have three at a time.
+SAMEASLASTTIME (Hairy): Override it.
+JAKE (Fic): How do I do that?
+SAMEASLASTTIME (Hairy): The hell?
+STEVE (PQNine): No, it doesn't, that's it. Nobody knows how to do that.
+JAKE (Fic): Oh, there it goes. Oh.
+DM: Which one do you want? I can give it to you. What do you want?
+SAMEASLASTTIME (Hairy): Yeah, you should be able to, I have. I have 5. What are you talking about? You only have, you can't, you can only have three.
+DM: Jake.
+JAKE (Fic): When I click another one, one disappears. Oh, no, there it goes. Okay, that's weird.
+DM: No, there it goes.
+SAMEASLASTTIME (Hairy): No. You're a filthy liar.
+JAKE (Fic): Vistication.
+STEVE (PQNine): Maybe it's... Maybe it's a thing with his class or something.
+JAKE (Fic): persuasion.
+PHIL (Tordrug): You can also get them from your background, like if you have a criminal background.
+DM: I don't know.
+JAKE (Fic): And then, hold on, how many on the saving throws are you only supposed to have two checks there?
+SAMEASLASTTIME (Hairy): Yeah, two checks on saving throws. You should have five on your skills. Four from your class and then one from your background.
+JAKE (Fic): One, two, three, 4. I only have 4.
+DM: Pick another one then.
+SAMEASLASTTIME (Hairy): Unless, unless your background completely overlaps with your...
+JAKE (Fic): Then.
+SAMEASLASTTIME (Hairy): Class.
+JAKE (Fic): And I guess...
+SAMEASLASTTIME (Hairy): But you should be able to like then you could just choose that as your back the background one and then choose a different one from from your class. You should have 5.
+JEFF (Baron): Yeah, I definitely didn't choose my Ranger glass ones either. It's 3 from, and I only have one, and I think it's...
+SAMEASLASTTIME (Hairy): Do you like?
+JAKE (Fic): Medicine, performance, persuasion, I guess.
+SAMEASLASTTIME (Hairy): You turn off at 10:00, right? Okay, 15 minutes.
+PHIL (Tordrug): So I shouldn't have acrobatics, I should have stealth.
+JAKE (Fic): Well, maybe I should have acrobatics. Yeah, there we go.
+SAMEASLASTTIME (Hairy): Did you guys not QA or uh? The class is here.
+JAKE (Fic): I don't know. I thought the thing did it for me. I used the whatever.
+PHIL (Tordrug): Apparently not.
+JEFF (Baron): But... Yeah.
+JAKE (Fic): What's the thing called the?
+PHIL (Tordrug): character answer.
+JAKE (Fic): Yeah, and it's always broken, so. And the rest of it is so confusing.
+DM: I don't know. You guys have to figure it out. I don't. I'm not gonna track all your ****.
+SAMEASLASTTIME (Hairy): That's what we're doing. We're figuring it out.
+JAKE (Fic): Well, you guys just figured it out for me. So, well, can I do a slight of handshake again?
+SAMEASLASTTIME (Hairy): What's your? What's your background?
+JAKE (Fic): Me. Uh, acolyte.
+SAMEASLASTTIME (Hairy): So you're religious. That's why you had proficiency or religion, because you're an acrolite. You can have either in, you have insight and religion are your skill proficiencies.
+JEFF (Baron): Religion.
+JAKE (Fic): Okay, so I should put that one back on then.
+DM: Which is what he had.
+JAKE (Fic): Okay, so I'll turn off deception and put on insight.
+PHIL (Tordrug): Yeah. Oh, I know why, because accolade was the only thing I could choose, and it was the only one that was available in...
+SAMEASLASTTIME (Hairy): Yeah, character Mancer only has the one. You have to make your you have to manually do it otherwise.
+PHIL (Tordrug): Yeah, yeah. Yeah, that's why. Because I have accolade too, but I was like, I'm a criminal.
+JAKE (Fic): Okay, well now I have acrobatics, insight, perception, sleight of hand, and stealth.
+DM: That is much more useful.
+SAMEASLASTTIME (Hairy): And, and you should also have religion.
+JAKE (Fic): One, two, three, 4, 5. Okay, well then I got to get, because I'm only supposed to have 5.
+SAMEASLASTTIME (Hairy): No, you can have six. It's 4 from your class, 2 from your background. Just depends on the background. Some are one, some are two.
+JAKE (Fic): Yeah, OK. There you go.
+PHIL (Tordrug): Yeah, I probably shouldn't have perception either.
+JAKE (Fic): I do know the slight of hand, Jack. Boom. Oh.
+DM: Man, Pete, you're really good at systems. You should be like an engineer or something.
+PHIL (Tordrug): History.
+JAKE (Fic): Yes, they should actually read through making character ones.
+SAMEASLASTTIME (Hairy): Might help.
+PHIL (Tordrug): I wouldn't bother.
+DM: We'll fudge it. It'll be fine.
+JAKE (Fic): Man.
+STEVE (PQNine): You got this far.
+JAKE (Fic): The thing was supposed to do before me.
+DM: Ohh. Well, fudge it, it's fine.
+PHIL (Tordrug): I mean... I have two stats at -1 and it's working out just fine because the other ones are really high.
+DM: All right, so Sorry, back to... Slonk and music. Do you get the sense they don't like the idea of sticking around?
+PHIL (Tordrug): Okay, but he didn't actually answer my question. Like, has it been a week? Like a month? When did this all go down?
+DM: What did the mayor tell you?
+PHIL (Tordrug): The mayor didn't know what was going on. He couldn't even remember the name of the guy who did all this.
+STEVE (PQNine): Everyone, everyone is very, doesn't seem to know much.
+DM: I don't think you guys actually asked her.
+STEVE (PQNine): We asked so many times, so many times we tried to find out.
+DM: What? Yeah. What did you ask?
+STEVE (PQNine): I think we literally asked, how long has it been? How many days? Oh, I don't know. It's been terrible. How many are there? I don't know. There's been lots. How many are dead? Oh, there's so many.
+SAMEASLASTTIME (Hairy): Oh. No, was that? Deep nub, maybe it says deep nubs, although Quapni is. Pretty absent-minded.
+STEVE (PQNine): What's that? Speaking of absent-minded, while all of this is going on, I want to be tinkering with the automaton.
+DM: All right, like you want to go through its parts or...
+STEVE (PQNine): Yeah, I want to be see, see what makes it tick, especially if I, if it seems familiar to me. I want to, you know, I want to investigate it more, see how it's put together, see if I can figure out maybe why they're going bad.
+DM: Um... Alright, you can do an investigation check.
+STEVE (PQNine): Yeah, big three.
+DM: So based on this one, like, it's so damaged, you can't really tell. But, you know, again, like it was made by somebody who knows what they're doing. And the style of their work and the designs is strangely familiar.
+STEVE (PQNine): Can I see like, is there like, is it like the crusty doll? Was there just a switch that's switched to evil? When it should be on, when it should be on good?
+DM: You can't tell.
+STEVE (PQNine): Can I tell like... Because I feel like I should be able to determine if it's a mistake on how it's been built or if it's been purposely built to be like this.
+DM: This one is so damaged by fire, it's hard to tell. Like, you just can't tell by these remains.
+STEVE (PQNine): Are there any? I guess there's no like heart that would be worth saving.
+DM: Like there's gears and sprockets and things like that. I mean, you could take them, but like, I don't know, they're kind of bent and like the heat of the two blasts that hit it have, I mean, they probably warped it.
+JEFF (Baron): About like...
+DM: And you get a sense that even what you could salvage from this one probably wouldn't. It might actually screw something up more than actually do the trick.
+STEVE (PQNine): Cut. Then the other thing is...
+DM: Like the automaton when you came in was looking pretty battered. Like you get the sense that this was an easy fight because this thing was very, very damaged.
+STEVE (PQNine): Yeah. I guess they were already fighting him.
+SAMEASLASTTIME (Hairy): Ohh.
+STEVE (PQNine): Uhh... Hey, do you guys, to the goblin, do you guys speak common? Most people speak common, right?
+JEFF (Baron): I think there's an undercommon.
+DM: Make an insight check.
+STEVE (PQNine): Yeah, that's one of my high ones. Ha ha. It's A5.
+DM: He doesn't seem to, he doesn't seem to know what you're talking about.
+STEVE (PQNine): Okay, I'll ask Harry. Hey, Harry, ask him if there's anyone else alive in here.
+SAMEASLASTTIME (Hairy): Is there anyone else alive in here? Or it's just you two?
+DM: I don't know. There's nobody in here. I mean, we came in here because we figured maybe this would be a good place, you know, religious house, these priests, they're all rich, right? And then they always keep all the stuff to themselves. So we figured maybe this is a way to get some money. If we ran into the gate guards, maybe we could bribe our way out. Uh, you know, but then we ran into this thing, and then you guys found us.
+SAMEASLASTTIME (Hairy): All right, well, does it?
+DM: And to answer your question... Flappy ear boy, flappy ear human. It's just been, it's been about a week.
+PHIL (Tordrug): Week, and did you see any?
+SAMEASLASTTIME (Hairy): So is he, did he say that in common or is he talking in?
+DM: He's talking to Tor drug and he's speaking in Goblin.
+PHIL (Tordrug): I speak. I speak up.
+SAMEASLASTTIME (Hairy): Oh, you asked, okay.
+PHIL (Tordrug): Yeah. Okay, a week. Okay, I appreciate that. Is that, have you seen any other people alive? Like, did you kill the gnomes or, and we don't care really, or did the automatons kill the gnomes?
+DM: No, no, automatons did it. I mean, we... We we tried to stop them, but...
+PHIL (Tordrug): So you haven't seen anybody else alive?
+SAMEASLASTTIME (Hairy): Do we have their? Manacles off yet?
+DM: Did anybody roll for it?
+JAKE (Fic): I did one, didn't I? I rolled pretty good there.
+DM: Oh, 22? Yeah. So you got one off. Which one did you take off, Slonk or Music?
+JAKE (Fic): Yeah. And go again. Slonk.
+DM: Alright, so Slonk is free, he's rubbing his wrists. He says, "Thank you." But you have no idea what he's saying.
+SAMEASLASTTIME (Hairy): I gotta translate. He said, thanks.
+JAKE (Fic): Gathered.
+STEVE (PQNine): What did he? What did he say about other people?
+SAMEASLASTTIME (Hairy): Yeah, there's nobody. It's been about a week since it started, but they haven't seen anybody in a while.
+DM: They came, and then they came here for the booze and maybe treasure.
+STEVE (PQNine): As the mayor said, she thought that there might be monks in here.
+SAMEASLASTTIME (Hairy): A path. Let's go look around. I'm going to open this door over here.
+DM: So, hey, hey, hey.
+STEVE (PQNine): Ohh.
+DM: You guys, like, we gotta get outta here.
+SAMEASLASTTIME (Hairy): I mean, we talked about this five times, very slunk. I love you, man, but we talked about this.
+DM: Yeah, but but you must know a way out. How did you get in?
+SAMEASLASTTIME (Hairy): Yeah, they let us, it's a magic gate. They let us in. When we're done with the automatons, they will let us out. So as soon as we're done with the automatons, we'll get you out. You'll be part of our, we'll say that you're with us. We'll get you out. But we got to clear up this mess first. Like, I don't know what to tell you. That's what we got to do.
+DM: All right, so Slonk looks pretty ******. Music is, you can tell like music, actually make a perception check.
+SAMEASLASTTIME (Hairy): Perception. Fourteen.
+DM: Yeah, user definitely seems like he's taking cues from Slonk.
+PHIL (Tordrug): Am I am I sensing?
+DM: Like he's always looking to him.
+PHIL (Tordrug): Hostility from Slunk then?
+SAMEASLASTTIME (Hairy): I mean he's a goblin, he's angry at everything.
+PHIL (Tordrug): Yeah, but is he gonna like, is he gonna like backstab us?
+DM: Do an insight check.
+STEVE (PQNine): I'm going to speak to her. I'm going to say, are these friends of yours?
+SAMEASLASTTIME (Hairy): I like to see him try. No, no. I mean the bugbear's alright. Goblins are just... Yeah, I mean...
+PHIL (Tordrug): I got.
+STEVE (PQNine): You look like this other guy.
+PHIL (Tordrug): I got 16, 6.
+DM: So, Slunk definitely doesn't like you, Tor drug.
+PHIL (Tordrug): Me.
+DM: He doesn't seem to like any of you. The only one he really seems interested in or... can respect on any level is hairy. And then music, I mean, you get the sense that music marches to the beat of Slonk's drum.
+PHIL (Tordrug): Okay, do I sense like violent hostility or does he doesn't like it?
+DM: You, you sense that if there, if, if push came to shove, he would stab you.
+PHIL (Tordrug): Okay, so in common, I'm going to be like, this guy is giving us some serious guff for someone.
+SAMEASLASTTIME (Hairy): Yeah, let's just leave them here. We'll go do our thing and we'll pick them up on the way back and get them out of here. Like, that's fine.
+PHIL (Tordrug): Why do we want to throw them in the lava? **** him.
+SAMEASLASTTIME (Hairy): I'm not just gonna, I'm not gonna be like the humans. I'm just gonna kill some goblins for no reason, alright?
+JAKE (Fic): You literally killed like a whole ******* city for no reason.
+SAMEASLASTTIME (Hairy): Yeah, they were humans.
+JAKE (Fic): They were all humans, dude.
+SAMEASLASTTIME (Hairy): They're mostly humans. Enough humans to counteract the others.
+JAKE (Fic): Yeah. Is that how it works?
+SAMEASLASTTIME (Hairy): Yeah, pretty sure that's how it works. Alright, I'm gonna, I'm just gonna...
+PHIL (Tordrug): Alright, yeah, let's just leave him. Be like, yeah, just do your own thing, man. We're out of here.
+STEVE (PQNine): I'm gonna...
+SAMEASLASTTIME (Hairy): I'm just going to say this long, like, do you want to wait here or do you want to go wait in the guardhouse by the front gate? Because we'll pick you up.
+STEVE (PQNine): I gotta look in those doors.
+SAMEASLASTTIME (Hairy): On the way through, on our way back.
+DM: Ahh. You guys are actually coming back, right? This is music saying this.
+SAMEASLASTTIME (Hairy): Yeah, yeah, man. Music, my man.
+DM: He looks at slunk.
+SAMEASLASTTIME (Hairy): Bugbear to bugbear. I'll be back for you.
+DM: He looks as long as long as crossing his arms and he's just shaking his head. He's ******. And then music says, well, I don't know, goes, well, we'll figure something out. We'll either be here or there.
+SAMEASLASTTIME (Hairy): I mean, I... All right, well, I'll stop by here on the way out. Let's go look at these rooms. I mean, they got beds here. You guys might as well just chill out, lock the door. Get some sleep.
+DM: All right, so Quapney. As soon as you walk into that room, Harry, you're not in there yet. The door closes. Hang on. And then against the wall. A gnome sort of materializes out of the stone.
+STEVE (PQNine): Whoa.
+DM: And he's in religious, he's in religious garb. And, uh, yeah, he looks... He looks kind of scared and um... He's like, can you get me out of here?
+STEVE (PQNine): I don't know how you got in here.
+DM: I'm the avid.
+STEVE (PQNine): Are you, are you alone here? How many are there? How many others are there?
+DM: Two.
+STEVE (PQNine): Where did you just come from?
+DM: I have ways of hiding in the stone. It's. Well... You wouldn't understand, you're a rock gnome, but it's the teachings of Calarder and Smooth Hands. If you follow his way. You can meld with the stone.
+STEVE (PQNine): Really cool, does it hurt?
+DM: No, no, it's peace. You feel peace. You feel it one with the earth and its ancient foundation.
+STEVE (PQNine): Is it cold? But do you want to leave? Can you just hide here?
+DM: I have been hiding here. I don't want to be here anymore. I haven't eaten in days. It's been a week. And look, I don't know if you're mercenaries. I don't know if you're looters. I just need to get out of here. I can give you my... I have a... Scroll of magic weapon. I have a potion of giant strength. They're yours. You just need to get me to the gates so I can get out.
+STEVE (PQNine): Well...
+DM: The people need me right now.
+STEVE (PQNine): Where, I'm here with some, with some good folks. We're gonna take care of this whole automaton situation. And then, and then we can go.
+DM: Alright, but what I'm asking is can you escort me to the gates?
+STEVE (PQNine): I can do that. Just not right now. I think in a couple hours, maybe. But first, we're going to tell me about these automatons. They seem to have.
+DM: What do you need to know? I mean, you're a rock gnome. I mean, you build these things, don't you?
+STEVE (PQNine): Well, but I build ones that wouldn't do this, and I don't quite understand why anyone would build them to be bad.
+DM: Do you think I understand that? No, I mean, we, we this security overseer, um...
+SAMEASLASTTIME (Hairy): But it's.
+DM: Forgive me. I, I can't remember his name. But... They weren't supposed to do this. They were supposed to protect the town from the monsters that come out of the cave mouth. But then one day, about a week ago, they just malfunctioned. They started turning on the townspeople.
+STEVE (PQNine): Do we think it was like a spell that was cast on them, or do you think that the person who did this built him like this on purpose?
+DM: I don't know enough about these things. I really don't. I know about stone. I don't know how it is turned into metal.
+STEVE (PQNine): It. And when I try, I've looked at the machinery and I can almost, it almost looks familiar. And everyone seems to mention a name or try to, but they can't remember as well. Is that strange? Do you remember what he looks like?
+DM: It's strange, and by... Collardoran's will, I. I try to remember, but I don't know it. There is a blank spot in my mind where that name should be.
+STEVE (PQNine): Did you remember meeting this rock gnome?
+DM: Yes, yes.
+STEVE (PQNine): Do you think, can you describe him?
+DM: He. He's like any other rock gnome, interested in machines, intelligent, a bit whimsical. Always, always tinkering, always working at something.
+STEVE (PQNine): Was he alone?
+DM: He was alone. He.
+JAKE (Fic): S.
+DM: He did. As time went on, he seemed to be replacing pieces of himself with almost as if he wanted to be a machine himself.
+STEVE (PQNine): Oh, that's creepy. Like a cyborg.
+DM: Is that a word you use to describe when gnomes meld with metal?
+STEVE (PQNine): Yeah, I just made it up right now. I'm gonna say that, cyborg. That's what we would call it. That's what I would call it.
+DM: I, I, I'm not a fighter, I'm a man of faith, and... I need to get to my flock. If you can get me back to the gates, I know how to get out. I just need an escort.
+STEVE (PQNine): I can get you back to the gates. You and you can say you got a couple other people in the walls here and I'm going to look at the walls.
+DM: They're no, they're not in the walls. They're prisoners. They're criminals.
+STEVE (PQNine): Prisoners, how so?
+DM: Well, they're criminals. I mean, one's a goblin, the other one's a bugbear. They've been, they've been ambushing traders on the way into town, killing people and taking their money.
+STEVE (PQNine): Ohh.
+DM: And they came in here and I melded with the stones so they wouldn't see me. I'm not a fighter.
+STEVE (PQNine): I was gonna ask you. I was gonna ask you if you knew that you got this goblin and bugbear running around.
+DM: Do I know them?
+STEVE (PQNine): Yeah, I was wondering if you knew them.
+DM: Why would I associate with criminals?
+STEVE (PQNine): Well, that's why I wasn't sure. So it's, you don't have any other monks? There's no one else from the, from the church that's left?
+DM: At this point, so Harry, were you about to walk into this room?
+SAMEASLASTTIME (Hairy): Yeah, well, I was, I'm gonna try the door like I'm, he went in there and...
+DM: Alright, so you open the door. In Quapney, as you look over to the door. To see it open, the monk just sort of blinks out of existence.
+SAMEASLASTTIME (Hairy): Hey, Quap, what's going on? Anything good in here?
+STEVE (PQNine): Did you just see that?
+SAMEASLASTTIME (Hairy): See what? I don't see anything.
+STEVE (PQNine): There is that the Abbot, he was just, he was just right there.
+SAMEASLASTTIME (Hairy): Oh yeah? I think he's a ghost. I mean, can't be real, right? Be real people don't just disappear.
+STEVE (PQNine): No, he was real. I've heard of this. They can do this.
+SAMEASLASTTIME (Hairy): That's weird. Is he gonna hang out with? Slonk and your drug and... Look, we can. Get about when we leave.
+STEVE (PQNine): This looks like something to you.
+SAMEASLASTTIME (Hairy): What? What am I looking at?
+STEVE (PQNine): A wall. I'm going to point to the wall.
+SAMEASLASTTIME (Hairy): At. Just looks like a wall. I'm gonna, I'm gonna closely look at the wall.
+STEVE (PQNine): Yeah. He was right there.
+SAMEASLASTTIME (Hairy): Do I see anything? Is there a foot hanging out? I'm going to take a real hard look at it.
+STEVE (PQNine): Who is there, Abbott? I bet this guy is cool.
+DM: All right, so the door... Closes all by itself. And. Again, the monk sort of materializes from the wall.
+STEVE (PQNine): They told ya.
+SAMEASLASTTIME (Hairy): Ohh wow, yeah, you were lying, you were ******** me. Hey.
+STEVE (PQNine): Told you. His name is Abbott.
+SAMEASLASTTIME (Hairy): What's your name? Your name is Abbott?
+DM: No, I am an abbot. My name is... My name is Kavoda.
+STEVE (PQNine): He is an Abbot.
+SAMEASLASTTIME (Hairy): Okay. Okay, I, I thought you, I thought you were a gnome. Are you?
+DM: I am a gnome. Look at me, I'm short. Look how small I am.
+SAMEASLASTTIME (Hairy): You just said you're an Abbott. I don't.
+DM: Well, I'm tall for a gnome, but...
+SAMEASLASTTIME (Hairy): What did you say your name was?
+DM: Kavoda.
+STEVE (PQNine): Kubota.
+SAMEASLASTTIME (Hairy): Kubota?
+STEVE (PQNine): To voted the the Abbott.
+DM: Avoda.
+SAMEASLASTTIME (Hairy): Kabota the Abbott.
+STEVE (PQNine): He's my friend.
+SAMEASLASTTIME (Hairy): who's also a gnome. Oh, okay. Well, hey, nice to meet you. I'm, you know, Kopne's my friend, so if you're his friend, then we're friends. Well, you're saying I'm your friend, I'm your friend, or he's your friend.
+STEVE (PQNine): We're getting. We're, well, I think we're all friends.
+DM: I am a friend to all who wish me no harm, but I am family to all those who follow the teachings of Calardaran.
+SAMEASLASTTIME (Hairy): Right, right. Do you got any more family around here?
+DM: Unfortunately, no.
+SAMEASLASTTIME (Hairy): Do they all live? Leave or were they killed or just?
+DM: I don't know. I need to get to my flock. And I was just telling Quapney here how important it is you get me to the gates. I need an escort. I can't do it alone. I'm not a fighter. I'm a man of faith. You need to help me, please.
+SAMEASLASTTIME (Hairy): Hey, you're in luck. As soon as we're done cleaning up these things, we'll take you to the gate.
+DM: But. No, I can't wait that long. I need to get back. You need to get me back. I need to get past those criminals in the other room who are going to murder me and take whatever they can from this temple. I have all the magic items. I have anything of value from this temple on my possession. I have to get out of here.
+STEVE (PQNine): That's why I said I said that.
+SAMEASLASTTIME (Hairy): See, Quapne's right. Wow. I mean, I don't think you should have told me that.
+STEVE (PQNine): Where? We're going to, we're going to get you out of it. We're going to do that, but we're going to take, we're going to take care of this automaton problem first. That's why we're here and we want to make this city safe for everybody.
+JAKE (Fic): Would that, would that guy just say? I want to know more about the magic items. Yes.
+STEVE (PQNine): You're not there.
+DM: Clutter.
+JAKE (Fic): Just a I mean on there.
+SAMEASLASTTIME (Hairy): Bye.
+DM: Calardar and protect me.
+SAMEASLASTTIME (Hairy): Like they won't open, they won't, they won't open the gate for us until we take care of the automatons. So you just hang out here in your wall. I mean, it's fine, right? Can you hang out in your wall for longer?
+DM: So Quadney, he looks at you and he says in Gnomish, is he lying to me?
+STEVE (PQNine): He's not lying. We're gonna...
+DM: I know for a fact if you knock 7 times on that gate, they will open it.
+STEVE (PQNine): Not if we haven't taken care of the automaton, they'll just close it up again without letting us through. That's why we came here. We're gonna take care of it.
+DM: All right, he he rolls his eyes at that. He says, you don't, either of you don't seem to be much help at all. Are you?
+STEVE (PQNine): Yeah, that did.
+SAMEASLASTTIME (Hairy): **** you then. I mean, just say here, whatever. If you don't want our help, you don't want our help, that's fine. When we're done, we'll pick you up and we'll take you out of here. It's no problem.
+STEVE (PQNine): We will do that.
+SAMEASLASTTIME (Hairy): If you can, if you want to do it on your own, then hey, knock have at her, man. It's just one bridge cross.
+STEVE (PQNine): I don't think you should try and do it on your own, but... We are going to take care of these automatons. We're going to figure out why this happened. We're going to and we're going to make the city safe. But on the way back. Well, you can come with us. It'll be good times.
+DM: I told you if you take me there, I will give you... a spell scroll of magic weapon, and a potion of giant strength. That is my fee if you take me to the gate.
+STEVE (PQNine): That's.
+PHIL (Tordrug): It's 5 minutes away.
+STEVE (PQNine): I will, I will happily collect that fee right after we, right after we finish the automatons.
+PHIL (Tordrug): Yeah, just. But we can just bring him to the gate. It's like 5 minutes away.
+DM: All right, he disappears.
+PHIL (Tordrug): Oh, I'm not there.
+SAMEASLASTTIME (Hairy): You're not there.
+JEFF (Baron): I also only have one, I only have two second level spell slots, so I can only do that spell one more time. So that's to get the next part of the way, like the destination, we're going that way. If we go back again with that spell, it...
+PHIL (Tordrug): I think it, it lasts, I think it lasts an hour, yeah, yeah.
+SAMEASLASTTIME (Hairy): It lasts for like an hour, right?
+JEFF (Baron): Even if we're like talking to people or whatever.
+SAMEASLASTTIME (Hairy): I mean, it's been 10 minutes.
+DM: So, yeah, he he takes a step back as soon as you say that, and he disappears into the stone again.
+PHIL (Tordrug): And. ****.
+SAMEASLASTTIME (Hairy): I mean, hey, I'll knock on the wall. Like, we can take you now, but you'll just be stuck at the gate. I mean, that's fine. We can take you. And you can give us that stuff. You'll just see stuck there though. It's probably better for you to hide out here and then once we're done, we'll take you and then they'll let us leave. Like they're not going to let us leave if we have to take care of this problem. But whatever floats your boat, man, like we'll take you if you want us to right now for the...
+STEVE (PQNine): Hey, Abbott, that is so cool!
+DM: All right. He steps out of the wall and he says, so you will take me.
+SAMEASLASTTIME (Hairy): Yeah, I got no problem with taking it. They're just not gonna let you out.
+STEVE (PQNine): You just...
+DM: Right now, I know how to get out.
+SAMEASLASTTIME (Hairy): Alright, well let's go then.
+DM: I just need you to take me.
+STEVE (PQNine): Okay, I guess.
+SAMEASLASTTIME (Hairy): Yeah, no problem.
+DM: Now...
+SAMEASLASTTIME (Hairy): I mean, it's literally 30 seconds away.
+DM: Now. About the prisoners. What are you gonna do about them?
+SAMEASLASTTIME (Hairy): Nothing.
+DM: Nothing.
+STEVE (PQNine): I think they were gonna just stay here.
+DM: They're prisoners.
+SAMEASLASTTIME (Hairy): Yeah, they're not our prisoners. I'm not gonna...
+DM: They committed crimes against this community.
+SAMEASLASTTIME (Hairy): Yeah, and apparently they've been punished for it.
+DM: Well, they broke out of, they broke out of prison.
+SAMEASLASTTIME (Hairy): Okay, take it up with them. You want to go talk to them? I mean, they're right outside.
+DM: No, no, I don't. I don't want to go talk to them.
+SAMEASLASTTIME (Hairy): Okay, okay, then don't, then don't.
+DM: I want you to take me back to the gate.
+SAMEASLASTTIME (Hairy): That's, yeah, we just said we would.
+STEVE (PQNine): We can do that.
+DM: All right, well, let's do that.
+STEVE (PQNine): How, how is that gonna do you just do you like morph into the walls and then meet us outside, or do you wanna just walk with us?
+DM: I, I will walk with you.
+SAMEASLASTTIME (Hairy): If I carry some stone, can you just morph into that, and then I can just like throw you over to the gate?
+DM: This, this is not, I, I, this is not a joke.
+SAMEASLASTTIME (Hairy): No, I'm just asking. Like, can you do it with any stone? Is it just this stone?
+STEVE (PQNine): I'm very interested.
+SAMEASLASTTIME (Hairy): Because it have to be big, like as big as you, can it be like a small piece that you could just kind of fit yourself in? I mean...
+STEVE (PQNine): Honestly, I'm just wondering for you, for your say, if you feel safer.
+SAMEASLASTTIME (Hairy): This sounds pretty cool. There's lots of opportunity here.
+STEVE (PQNine): Like if you want to just walk with us or if you feel safer being in stone somehow. Which is, which do you prefer?
+DM: I need to get back.
+STEVE (PQNine): So, so no, no stone it is, so we'll just, we'll just.
+DM: Just will, will you take me back? Yes or no, and please let's do it.
+SAMEASLASTTIME (Hairy): I, I...
+PHIL (Tordrug): We'll take you to the gate. We'll take, God, I'm listening at the door now. I'm listening at the, please just take him to the gate.
+STEVE (PQNine): We will, we will, we will take you to the day.
+SAMEASLASTTIME (Hairy): Yeah, we, we, we already said we would. We already said we would, but we're going to do it. And you're going to give us those two things, right? Like, deal's the deal, man. Let's, yeah, let's go. Let's do it. Open up this door so we can go.
+STEVE (PQNine): There you go.
+PHIL (Tordrug): But, yeah, let's...
+DM: Once you get me there, yes.
+PHIL (Tordrug): Ha ha ha.
+DM: All right, he opens the door and you guys walk out. So, you guys gonna go back? You guys gonna go all the way back?
+SAMEASLASTTIME (Hairy): Yeah, we still got passed with a trace on, right?
+STEVE (PQNine): Yeah, I guess so.
+DM: What's that?
+SAMEASLASTTIME (Hairy): We still have pass without a trace.
+DM: How long does it last again?
+SAMEASLASTTIME (Hairy): An hour.
+PHIL (Tordrug): An hour.
+STEVE (PQNine): An hour.
+DM: Yeah, well, actually.
+SAMEASLASTTIME (Hairy): Why not like the?
+DM: Even actually one thing I do want you to do though when you come out is roll a D6. Just one of you.
+STEVE (PQNine): I got a three again.
+SAMEASLASTTIME (Hairy): Well, we need Baron to come too. Hey Baron, you want to come with us? We're taking this guy back to the gate.
+DM: Alright, so as you go by, Slonk and Music in Goblin say, hey, where you guys going?
+SAMEASLASTTIME (Hairy): This guy wants to go across the bridge and hang out over there, so we're just going to take him over.
+DM: We gotta get outta here.
+SAMEASLASTTIME (Hairy): All right, you want to come with? I mean, we can all walk over there. All right, whatever floats your boat, man. I mean, there's lots of guys out there. If you come with us after we're done, we can probably just get you out, you know? But if you...
+DM: We're coming, too.
+STEVE (PQNine): Hey.
+DM: Anyway, the the Abbot says no, no, they're criminals, they're not.
+SAMEASLASTTIME (Hairy): If you, I'm not listening to you, but if you, but if you come with us later, we can probably just get you out of the out of it, but there's a lot of those guys, if you're prisoners, they're just gonna capture you again. So, I mean, it's up to you. You can come with us later. We can try to get you out.
+DM: Is there another way out of here? Slonk says.
+SAMEASLASTTIME (Hairy): No, that's it. I mean, there's a hole the monsters come through. You can try to go that way.
+STEVE (PQNine): I mean.
+JAKE (Fic): Mean. Can't understand them. What are these guys saying, man?
+STEVE (PQNine): I don't know, they're talking.
+SAMEASLASTTIME (Hairy): He's looking, asking if there's another way out.
+PHIL (Tordrug): I'm just being, they're just being a bunch of idiots.
+JAKE (Fic): Like, why don't they come?
+STEVE (PQNine): They're just talking, they're just talking gibberish.
+JAKE (Fic): Like. What if they helped us? Maybe they could get out of here without being prisoners. I'm just saying. I'm just saying.
+PHIL (Tordrug): They don't want to help us. They don't want to help us.
+STEVE (PQNine): To the habit, I'll be like, don't worry about those guys. They were doing this before. I don't know what they're talking about.
+SAMEASLASTTIME (Hairy): I mean, I don't mind hanging out here and talking to them if they just want to hang out and talk. We don't all need to go.
+DM: I know, they actually, they, they're like, you make a good point.
+SAMEASLASTTIME (Hairy): Yeah, exactly. Why don't you guys gotta be? I'm just gonna walk away. Shake my head, the goblins.
+DM: Alright, so you guys go back to... Old Lockford.
+SAMEASLASTTIME (Hairy): Back to the gate.
+DM: With Kubota, I want you to roll a D6.
+SAMEASLASTTIME (Hairy): Roll A3. Let's go clap me.
+PHIL (Tordrug): Exit.
+STEVE (PQNine): Shaglam! Yeah, 5, even better. It's 2 better.
+JAKE (Fic): It's pretty good. It's pretty good.
+PHIL (Tordrug): All odds, all the time.
+DM: Alright, you're good. Hey, he walks up to the gate. He knocked 7 times. And it opens. And behind it, you can see.
+SAMEASLASTTIME (Hairy): I'm gonna ask it for the goods. But yeah, he owe us a potion and stuff.
+DM: All right. Yeah, and he says, and you did his promise, so here you are. And he hands over a spell, Scroll of Magic weapon, and a potion of giant strength. It's Hill Giant, by the way.
+PHIL (Tordrug): That's a big one.
+STEVE (PQNine): Ocean of... Giant strength.
+DM: Hill Giant Strength. Only one of you can have it.
+SAMEASLASTTIME (Hairy): Give it to Kwabney, he's the one who found him. Maybe give the spell scroll to the wizard.
+DM: And then the scroll of spell scroll of magic weapon as well.
+STEVE (PQNine): A magic weapon, that's what it is. School magic weapon, potion, strength.
+DM: So he thanks you and he says, may. Caller Duran be with you. And then as the gate opens, Sergeant Craig Knuckle recognizes him right away. And there's like a few townspeople that like run over and grab his hand and they say, oh, have it. Oh, we're so glad to see you. And Craig Knuckle says, he looks at you guys and he says, thank you. We, I, I thought, I thought the Abbot was well. I thought the worst. Thank you.
+STEVE (PQNine): He was stuck between a rock and a hard place.
+SAMEASLASTTIME (Hairy): You're welcome.
+JAKE (Fic): Hey, all!
+PHIL (Tordrug): Get around that joke.
+JAKE (Fic): Move.
+SAMEASLASTTIME (Hairy): Just don't forget.
+PHIL (Tordrug): Ah.
+SAMEASLASTTIME (Hairy): Ethan, it's the get-around boys. I'll just show my best.
+JAKE (Fic): I give him my jacket.
+PHIL (Tordrug): Also.
+DM: All right, so you watch the Abbott go to the other side of the gate.
+JAKE (Fic): Humor.
+JEFF (Baron): Pretty sure why we changed to GAB because we were trying to not use the get around points anymore.
+SAMEASLASTTIME (Hairy): Okay. That's right. I think we're watching criminals.
+PHIL (Tordrug): Sure, that's true.
+SAMEASLASTTIME (Hairy): But whatever, it's fine. I'm sure it'll be. Yeah. We're far enough away.
+DM: Well, I hear you're not.
+STEVE (PQNine): So, we, yeah, we're changing our day, we're making it better, yeah.
+DM: Anyway, the the they close, they use, they use that, they use their magic again and close the door behind you, so you're...
+SAMEASLASTTIME (Hairy): Not those get-around boys.
+STEVE (PQNine): And as it's closing, we'll be like, yeah, we'll just, uh, we'll just get back at it, I guess.
+PHIL (Tordrug): Did the did the other two stay behind? Is that what happened?
+DM: Sorry?
+PHIL (Tordrug): The goblin and the bugbear stayed behind, right?
+DM: Yeah, they stayed in the temple.
+PHIL (Tordrug): Okay. Also, while it's closing, we'll be like, there was no other survivors in the temple.
+DM: Harry talked them into it.
+SAMEASLASTTIME (Hairy): Yeah. All right, well, I guess let's go back to the temple. There's some more, yeah, there's some more places. Maybe we should search them.
+DM: Alright, what do you guys do? Go back to the temple.
+SAMEASLASTTIME (Hairy): I want to see what you're saying, like, let's ransack the Abbott's. Oh, I guess he said he took all the good stuff.
+PHIL (Tordrug): Yeah, and those other criminals are probably ransacking right now.
+SAMEASLASTTIME (Hairy): Yeah, fair enough. Dirty goblins. So I'll just say, okay, well, we're going to keep going. We'll swing by when we're done. Get you guys out of here.
+DM: All right, Slonk says, we'll be right here.
+SAMEASLASTTIME (Hairy): You might want to close the door, so.
+DM: All right, they closed the doors.
+STEVE (PQNine): Alright, there is one more door.
+SAMEASLASTTIME (Hairy): Wanna check it out while we're here?
+DM: You know, look through all the all the monk stuff.
+SAMEASLASTTIME (Hairy): Might as well, while we're here.
+DM: All right, do an investigation check.
+STEVE (PQNine): That I didn't look in. Yeah. Uhh... All right, whatever. I guess I was there.
+DM: Alright, you don't really find anything of value. It's just mostly religious texts written in gnomish, maybe a little bit of Terran. Nothing you can really recognize. There is one thing does catch your eye though, Quapny.
+STEVE (PQNine): I have.
+DM: With that role, uh, you do, you do, there is a letter half written on the the Avid's desk, complementing um the management. At the, what is it? The... The Mother Lode Tavern. About the how excellent their whiskey is. But it's half written, so it doesn't really get into specifics.
+STEVE (PQNine): So it makes me think of something, is there, is there like correspondence at all, maybe like letters where he might have been writing about this mysterious gnome?
+DM: So, like, going through the letters? Not really, no. You, I mean, you go through it, but you can't find anything.
+SAMEASLASTTIME (Hairy): Does the mayor have a wife? There is a male woman, I can remember.
+DM: Mary's a woman, yeah.
+SAMEASLASTTIME (Hairy): Does the mayor have a husband?
+STEVE (PQNine): Still have a wife, could still have a wife.
+SAMEASLASTTIME (Hairy): Fair enough.
+PHIL (Tordrug): close my name.
+DM: You don't know.
+SAMEASLASTTIME (Hairy): Odds are less, but it's true. You should use, you should use the note as a thing and then forge a letter from the abbot to the mayor's husband.
+DM: You a partner? You don't know. or wife.
+SAMEASLASTTIME (Hairy): Or to the to the mayor saying, "I'm glad you cheated on your significant other with me, just 'cause yeah, it was a **** ******
+PHIL (Tordrug): Ha. Right.
+STEVE (PQNine): I'm not gonna do that.
+SAMEASLASTTIME (Hairy): frame up or something.
+STEVE (PQNine): I'm not gonna do that; I don't need to do that.
+PHIL (Tordrug): Was he a **** ****? He just kind of asked to get escorted, then we escorted him.
+SAMEASLASTTIME (Hairy): You're no fun.
+DM: And then he paid you like he said.
+SAMEASLASTTIME (Hairy): I guess he gave us stuff for it. He looked down on us. Come on, that guy. I don't like that guy.
+STEVE (PQNine): It could have been a, it could have been a little nicer about it.
+SAMEASLASTTIME (Hairy): He could, adult, but a lot nicer.
+STEVE (PQNine): Could have been nicer, so, but that's alright.
+SAMEASLASTTIME (Hairy): Is this a lever here to raise and lower the bridge? Is that what that is?
+DM: No, it's a lantern.
+SAMEASLASTTIME (Hairy): Oh, it's a lantern. Never mind. All right, are we crossing over this bridge here? Let's head over to Turbine Heights.
+DM: You guys stealthing it up?
+SAMEASLASTTIME (Hairy): Is it actually on a height or is it just a funny name?
+PHIL (Tordrug): They're way over.
+STEVE (PQNine): Yeah, we're going to stealth it up. Oh, do a perception too. And we're going to look over the bridge, see if we see anything.
+SAMEASLASTTIME (Hairy): Oh, yeah.
+PHIL (Tordrug): Yeah, yeah, how does the bridge look? Does the bridge look sturdy? Like any broken boards? Yeah, on top.
+DM: Oh yeah, it looks dirty.
+STEVE (PQNine): They just build a wooden bridge over top of this lava thing.
+SAMEASLASTTIME (Hairy): Who's good at perceiving?
+PHIL (Tordrug): Goodwood.
+DM: Yeah, no, I don't know. They didn't really think of that.
+SAMEASLASTTIME (Hairy): It's like, ohh, wait a second.
+STEVE (PQNine): Yeah. This is never, never even crossed her by.
+DM: Alright, hang on, just let me put everybody on the board. Let's see, Fick, who's next? In alphabetical order, Harry Styles. And then... EQ 910. And then, Torah drug. Alright, so you guys are in Turbine Heights. Ohh. Oh. The streets of this district.
+SAMEASLASTTIME (Hairy): Oh. So, good.
+DM: Sorry?
+SAMEASLASTTIME (Hairy): Sub.
+DM: The streets of this district are filled with steam. And, and through the haze, you can see the street lamps and abandoned buildings, and... Like about an interval, maybe 15 seconds, you can see a bolt of electricity arc from a metal tower. That's right in front of you.
+SAMEASLASTTIME (Hairy): Does that look like it's the power station?
+DM: Yeah, well, I mean, judging from the electricity that's arcing out of it, I mean, I would say... That is a good guess.
+SAMEASLASTTIME (Hairy): I'm gonna open a door to go into the power station. Is it open?
+DM: Yeah, you can open it.
+SAMEASLASTTIME (Hairy): I'm going to shoot at that dog thing with my magic missile.
+DM: Well, hang on, hang on, hang on. So, um... This thing, so this tower is about 30 feet tall and it extends from the rooftop. It's like a blocky one-story stone building. And the tower is just ********* with electricity every 15 seconds and it's spewing out clouds of steam. And The lightning sort of leaps out into the air, like toward another district. And in the interior. It's just sort of this one big room and there's these billowing clouds of steam and four turbines. Like they're just moving, like they're howling. And they take up most of the floor space. And there's a set of iron steps. You can see them there on the north wall. Through this, through the the the haze. And. They climb up to an iron like an iron balcony. and a ladder that leads to the roof, like a trap door. And you can also see on top of that, that balcony with the ladder on it, there is a metal console. And then in the turbine. You can see there's one of those robotic dogs. And. It's restrained, like it's stuck in the turbine.
+STEVE (PQNine): Like it. Like it's trapped by, like it can't move.
+DM: Yeah, like there's, so there's pieces of it strewn around where like part of its body is stuck inside the turbine and it's trying to get out. And yeah, I mean, like if you go within a certain distance of it, like an... probably attack you, but it can't seem to move outside of the turbine. Because I mean, you open the door, it sees you, right? Like it does have... Oh, that setting's not on. Where is that? Bright light. Can you guys see that light coming out of it?
+SAMEASLASTTIME (Hairy): Nope.
+DM: That's funny. But I figured that out.
+JEFF (Baron): I think there is a new light on there when you turned it on.
+DM: Well, I turned it like this.
+SAMEASLASTTIME (Hairy): Sorry.
+JAKE (Fic): Yeah, it seems sideways now.
+JEFF (Baron): Oh, okay, no, then it's not.
+DM: Because there should be... Yeah, see, I played with this for so long to figure it out.
+SAMEASLASTTIME (Hairy): Like, you're trying to make him admit late.
+DM: Yeah, and I even... It's funny, you can't do. Oh yeah, no, he doesn't make one. All right. All right, well, never mind. Anywhere where his light is, his eyes go, there's a light. Because they're lit up, right?
+JEFF (Baron): At.
+DM: And so, as you guys open the door, this thing looks at you, but you notice that it can't free itself from the turbine.
+JAKE (Fic): I might just give it a old fire bolt there, gentlemen.
+DM: Alright, well, uh...
+SAMEASLASTTIME (Hairy): I'll send a chill touch at it.
+DM: I guess. I guess we should probably roll initiative.
+JAKE (Fic): Can we do we get like a sneak attack since we kind of found it in there?
+DM: Sure, yeah. Well, it sees you.
+JAKE (Fic): Mm.
+DM: It can't move. Do you really need one?
+JAKE (Fic): Retired. Fine.
+DM: Alright, I'll just have you roll attack because you're not going to get anywhere near it.
+JAKE (Fic): S.
+DM: Why don't you just do that? Alright, yeah, you hit it pretty hard. Still kicking.
+STEVE (PQNine): Okay, I'm going to say, hold on, hold on, hold on, guys, just hold on.
+DM: All right, well, with the last fire bolt, it blows apart.
+STEVE (PQNine): Uhh.
+JAKE (Fic): Yeah, sorry, Copy, were you gonna make it your pet? What was your plan?
+STEVE (PQNine): I was just gonna check it out.
+JAKE (Fic): Yeah, you get close to him, I get you, yeah.
+STEVE (PQNine): And take a look.
+SAMEASLASTTIME (Hairy): Well, you can check it out now, as well.
+STEVE (PQNine): Mad.
+DM: Yeah, it blows apart and parts are strewn all over the room now.
+JAKE (Fic): Do you think you can reprogram it? We could have a bunch of like automaton dog friends.
+STEVE (PQNine): Uh, well, I'm going to...
+JAKE (Fic): Maybe you look, maybe you look through the debris, you'll find like...
+DM: There's still, so there's still part of it that's stuck in the turbine.
+STEVE (PQNine): So, I'm going to do the same thing. I'm going to investigate it and see if I can... piece it back together or figure out about its mechanical workings that might give any clues as to why it's misbehaving or if it was purposely built like this.
+DM: So you, it's pretty heavily damaged. Again, it's scorched. There's necrotic damage to it, so it's corroded. It's really hard to tell based on what happened. But, I mean, from your investigation... You do understand that? Basically, the Defender's mangled parts are stuck in the turbine's machinery. And this is what's causing the turbine to spew steam, not only in this room, but all over the district. Actually, what I should have done actually is had you guys do it at a disadvantage. Actually, you know that second one. You only got an 11. I gave it to you anyway. ****, oh well, too late to go back.
+JAKE (Fic): The. is the opposite of disadvantage.
+DM: Anyway, it so the fact that it's caught in the machinery is what's causing all this steam.
+STEVE (PQNine): Uhh... Ah. I'll remove it from the machinery.
+DM: Alright, do a strength check.
+JAKE (Fic): Careful, Gavini.
+SAMEASLASTTIME (Hairy): Can I assist him?
+STEVE (PQNine): Rank check.
+SAMEASLASTTIME (Hairy): Let's like hold him up. He's pretty small. I'll help that.
+STEVE (PQNine): Is that like athletics?
+DM: You are not strong enough.
+STEVE (PQNine): Ohh. Okay, well...
+SAMEASLASTTIME (Hairy): Can I come up and I'll try? Like, let me give you a hand there a little bit. Google.
+DM: You are also not strong enough.
+STEVE (PQNine): Well, I just...
+SAMEASLASTTIME (Hairy): But I'm stronger than him, though.
+JAKE (Fic): Can I, can I pick it, can I pick it like a lock?
+DM: Nope.
+JAKE (Fic): No, it's just strength.
+SAMEASLASTTIME (Hairy): Can I get out my pry bar and try it?
+DM: Like, it's it is jammed in there.
+STEVE (PQNine): And... Okay, well then I'm gonna drink my potion of giant strength.
+SAMEASLASTTIME (Hairy): Ohh, that's a great, let's do it.
+JAKE (Fic): Whoa!
+PHIL (Tordrug): Yeah. Worth it.
+STEVE (PQNine): Okay, that gives me...
+PHIL (Tordrug): 21 strength.
+STEVE (PQNine): So, what does that, what does that mean?
+PHIL (Tordrug): So, you should have a + 6.
+SAMEASLASTTIME (Hairy): You have a plus.
+DM: Well, you can temporarily modify your... Strength, right? So it's...
+STEVE (PQNine): Oh, from 10 to 16, or from 10 to 21.
+DM: Yeah, for one hour.
+PHIL (Tordrug): Yeah, that's such a huge. No, it's until a long rest. I think. Oh, is it?
+STEVE (PQNine): Yeah. No, it's one hour. I think it says, yeah, one hour. At.
+PHIL (Tordrug): That's different than Baldur's Gay.
+STEVE (PQNine): Um... Okay.
+SAMEASLASTTIME (Hairy): If strength is 10 and just going to twenty-one, that's pretty good.
+STEVE (PQNine): Uh... OK, and then I'll try it again.
+DM: Yeah, you pull it free. And the turbines go back to the way they were, and they're running properly again.
+SAMEASLASTTIME (Hairy): Yeah, I'm happy I was able to loosen that up for you. That's great teamwork, huh? Teamwork makes a dream work.
+STEVE (PQNine): They gonna give him a fist pump.
+SAMEASLASTTIME (Hairy): Get around, boys.
+STEVE (PQNine): Let's have a drink.
+JAKE (Fic): If you don't break his, if you don't break his fist with your extra strength.
+STEVE (PQNine): Yeah. I get a breath. I'm gonna have a, I'm gonna have a sip of whiskey. You want some whiskey?
+SAMEASLASTTIME (Hairy): Yeah, I love some whiskey.
+STEVE (PQNine): And gives, I'm gonna give Harry some whiskey too.
+JAKE (Fic): Okay, can I, can I have some whiskey?
+STEVE (PQNine): Hey, you want some? Sure. Okay.
+JAKE (Fic): Yeah, yeah, yeah. What's this ladder over here?
+STEVE (PQNine): Fix going to get some, too.
+SAMEASLASTTIME (Hairy): It goes up to the roof, I think. I wondering what's this control panel?
+JEFF (Baron): That's what we came here to get. It was the control panel, right?
+SAMEASLASTTIME (Hairy): That. Yeah, yeah, I assume it controls the bridges.
+DM: So the control console overlooking the turbines, it's got a map of the town on it. And next to that map are several switches. And there seems to be a switch that corresponds with every bridge and district. So there's like, there's one for the slag line, right? And there's one for the power station. There's also Well, like, so, okay. Each of the nine bridges has its own switch, and they can be raised by turning the switch left or lowered by turning it to the right. There's a switch for each district, and so that's six of them, right? Cave Mouth, Halfway Aisle. It's written You'll need, do you read Gnomish?
+SAMEASLASTTIME (Hairy): No, I don't.
+STEVE (PQNine): I do. But is it, but is it Gnomish or is it that Terran language?
+DM: It's written in Gnomish.
+STEVE (PQNine): I can read novish.
+SAMEASLASTTIME (Hairy): I'll be like, this is gobbledygook.
+DM: So there's one switch for each of the six districts, Cave Mouth, Halfway Aisle, Old Lockford, the Overlook, Smolder Town, Turbine Heights. And it seems to, it basically says it can shut off the street lamps. by turning this switch left or right. There's a switch for the slag line.
+SAMEASLASTTIME (Hairy): Oh, that would make us more sneaky.
+DM: Turning it to the left shuts off the bucket chain, and then turning it to the right switches it back on. And then there's the station shutdown switch, and turning this switch to the left shuts the turbines and the power station down, causing all of the street lamps to turn off throughout the town, shuts down the slag line, and it prevents the town's bridges from being raised or lowered. and then turning it to the right switches it back on.
+STEVE (PQNine): So, we want to lower the bridge to get to the next place.
+SAMEASLASTTIME (Hairy): Yeah, I mean, there's two bridges going to Smolder Town, and we should maybe raise the bridge between Cave Mouth and Smolder Town so that in case there's lots of monsters in Cave Mouth, they won't go across the Smolder Town.
+STEVE (PQNine): Yeah, that's right. That's what we want to do.
+SAMEASLASTTIME (Hairy): So if we lower the two bridges near us and then raise that bridge.
+STEVE (PQNine): Maybe we'll raise the bridge first. Raise the bridge 1st and then lower the other. Do we need to lower both bridges? Why not just lower one?
+DM: So, raise the bridge.
+SAMEASLASTTIME (Hairy): Yeah. No. Do the bridges have names?
+DM: Yeah, it's all labeled. Like it's all pretty straightforward. Like this is definitely...
+SAMEASLASTTIME (Hairy): Yeah, but are they is like one of them named Jeff?
+DM: No, it just says, it just has the district name Bridge.
+SAMEASLASTTIME (Hairy): Oh. Jeff Bridges.
+DM: PayPal and then.
+SAMEASLASTTIME (Hairy): But... Do we want to go to the overlook?
+PHIL (Tordrug): At last, that's where, yeah, yeah.
+SAMEASLASTTIME (Hairy): All right, we're gonna have to last. Yeah, yeah, okay.
+STEVE (PQNine): But why do why do we need to? Oh, because we have to deal with the guy.
+SAMEASLASTTIME (Hairy): That's where the sick, yeah, because we got to get rid of the automatons, right? That's where the security centre is.
+STEVE (PQNine): But. I thought it was, I thought it's in a smaller town, that's what we're doing.
+SAMEASLASTTIME (Hairy): That's the fail-safe, yeah, yeah, yeah, yeah, but we might have to, but we might have to deal with that guy anyways.
+STEVE (PQNine): Yeah, that takes care of the automatons.
+PHIL (Tordrug): Yeah, the...
+SAMEASLASTTIME (Hairy): Alright, we'll see. We'll play player. Let's go to fail-safe first, do the fail-safe thing first.
+PHIL (Tordrug): Yeah, like the person is probably hanging out at Overlook. so we can go get some answers.
+SAMEASLASTTIME (Hairy): I guess, because Coop is probably pretty interested in this guy, right?
+STEVE (PQNine): I'm intrigued.
+DM: So I think what we're going to do, it's like what, 1040?
+STEVE (PQNine): Exactly.
+DM: We'll probably end it here.
+STEVE (PQNine): Fair enough.
+SAMEASLASTTIME (Hairy): Uh, we're good for next week, right before Easter.
+DM: Right before Easter, what day is that? That is... **Jacob Featherstone **stopped transcription

@@ -7,7 +7,7 @@
 - A well-known academic in Waterdeep for years, with an honest reputation; sits on boards and works in politics [S8].
 
 ## Notable moments
-- Memorized Verity's casino map [S5]. Disguised as tiefling security with Hairy to spring the jailed crew; hit the vault with PQNine and Fontaine [S6–S7].
+- Memorized Verity's casino map [S5]. Disguised as tiefling security with Hairy to spring the jailed crew; hit the vault with Kwapnee and Fontaine [S6–S7].
 - Noticed Hairy blank out during his egg vision and shook him awake [S7].
 - Wore a red cultist robe as a joke; it went over badly with Sister Halda. Mid-fight he disguised himself as Halda for a "shell game" [S7].
 - Gave Donnell the Merckmire tome from the church [S4–S5].

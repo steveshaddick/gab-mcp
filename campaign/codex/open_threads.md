@@ -13,8 +13,8 @@ She ambushed the party in the Underdark and was stripped a second time [S32]. Sh
 ### 🍖 The escaped cannibals of Little Lockford
 The party freed two men jailed for murdering and eating gnome children; the abbot had warned them [S27–S28]. The murderers are at large ("Slong and Music"? sp). Little Lockford hates the party, and a grieving father in particular [S31–S32].
 
-### ⚙️ Fizzlewidget Tinklebottom — *PQNine personal*
-PQNine's erased old partner, now half construct. He finished the Wishkey Gear after PQNine left [S29], then turned and helped destroy it [S31]. The party subdued him; what happened to him next is ⚠️. Does PQNine remember him now? PQNine holds a **perfect sketch of the gear** that he doesn't remember finishing [S30]. Could the gear be rebuilt?
+### ⚙️ Fizzlewidget Tinklebottom — *Kwapnee personal*
+Kwapnee's erased old partner, now half construct. He finished the Wishkey Gear after Kwapnee left [S29], then turned and helped destroy it [S31]. The party subdued him; what happened to him next is ⚠️. Does Kwapnee remember him now? Kwapnee holds a **perfect sketch of the gear** that he doesn't remember finishing [S30]. Could the gear be rebuilt?
 
 ### 🌋 The Wishkey Gear
 Thrown into the lava [S31]. Is it really gone? It "forces reality to align with intent by breaking something else." Before it went in, **Hairy heard his dead mother's voice** [S31].
@@ -71,5 +71,5 @@ Museum basement gems and cooked books [S1–S2]; the Marvin the Magnificent leve
 - **Verity's 5000 gp** — presumably settled in S13; she sold them a bag in S14 ⚠️.
 - **Silver ingot run** — delivered to Long Saddle [S22].
 - **Little Lockford automatons** — the gear was destroyed and Fizzlewidget subdued. The party was paid, grudgingly, and driven out of town [S29–S32].
-- **PQNine's missing memory** — it was Fizzlewidget, his old partner [S29].
+- **Kwapnee's missing memory** — it was Fizzlewidget, his old partner [S29].
 - **Prisoner 13 job** — vault-key tattoo copied and delivered to Varen [S19–S20].

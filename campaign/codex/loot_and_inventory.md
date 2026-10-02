@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Bag of Holding (password-protected) | ⚠️ | Bought from Verity Kai for 350 gp [S14] | Can't be accessed without the password [S15]. Holds the party's main stash. |
 | Bag of Holding #1 (Donnell's) | **Destroyed?** ⚠️ | Dr. Donnell [S1] | The egg hatched inside a Bag of Holding, which burst on the road [S11–S12]. Confirm which bag it was. |
-| Eye Stone of Subtle Sight | PQNine (attuned) | Dr. Donnell [S4] | 1/day, action: cast *detect magic*, no slot/components, 5 min, concentration. |
+| Eye Stone of Subtle Sight | Kwapnee (attuned) | Dr. Donnell [S4] | 1/day, action: cast *detect magic*, no slot/components, 5 min, concentration. |
 | Gem of Brightness | Tordrug | Varen Axebreaker [S20] | One of the 3 items picked as payment. |
 | Varen item pick #2 and #3 | ⚠️ | Varen Axebreaker [S20] | The choices were Cap of Water Breathing, Dust of Disappearance, Mithral Armor and Potion of Resistance. Dust of Disappearance was discussed; confirm. |
 | Wand of Magic Missiles | Hairy | Delphi storage crate [S10] | Shared with Tordrug. |
@@ -33,7 +33,7 @@
 
 | Item | What happened |
 |---|---|
-| **The Wishkey Gear** | Found in Fizzlewidget's onyx box [S29]. **Hurled into the lava** of Little Lockford [S31]. PQNine has a perfect sketch of it, which he doesn't remember finishing [S30]. |
+| **The Wishkey Gear** | Found in Fizzlewidget's onyx box [S29]. **Hurled into the lava** of Little Lockford [S31]. Kwapnee has a perfect sketch of it, which he doesn't remember finishing [S30]. |
 | Onyx box treasure | Other contents ⚠️ [S29]. |
 | **Ledger of Uncollected Debts** | **Stolen by Marlo Drift** and replaced with a velvet pouch holding orphan token #4397 (her own) and a note [S11, S14]. |
 | **Merckmire egg** | **Hatched** into the Merckmire Hatchling, which was killed [S12]. |
@@ -51,7 +51,7 @@
 | Jade rabbit figurine | 75 gp | Recovered [S12]; sold? ⚠️ |
 | Gold-plated cups & plates | 200 gp | ⚠️ |
 | Owlbear rug | ? | ⚠️ |
-| Orphan token #4397 + Marlo's note | — | PQNine |
+| Orphan token #4397 + Marlo's note | — | Kwapnee |
 
 ## Consumables
 
