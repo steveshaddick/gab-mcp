@@ -8,7 +8,7 @@ Shared memory for our D&D 5e campaign.
 - `campaign/summaries/` — one page per session.
 - `campaign/codex/` — living reference files. **Start with `codex/00_campaign_overview.md`.**
 - `skill/` - holds the Claude Skill.
-- `skill/getaround-cronicler/tools/normalize_transcript.py` — strips a Teams transcript down to `SPEAKER (Character): text`.
+- `skill/getaround-chronicler/tools/normalize_transcript.py` — strips a Teams transcript down to `SPEAKER (Character): text`.
 - `mcp/` - holds the mcp server
 - `SETUP_FOR_STEVE.md` — hosting / MCP notes.
 
