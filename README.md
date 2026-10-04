@@ -7,7 +7,7 @@ Shared memory for our D&D 5e campaign.
 - `campaign/transcripts/` — raw session transcripts, **archive only**. Don't load these into Claude wholesale.
 - `campaign/summaries/` — one page per session.
 - `campaign/codex/` — living reference files. **Start with `codex/00_campaign_overview.md`.**
-- `campaign/tools/normalize_transcript.py` — strips a Teams transcript down to `SPEAKER (Character): text`.
+- `tools/normalize_transcript.py` — strips a Teams transcript down to `SPEAKER (Character): text`.
 - `skill/` - holds the Claude Skill.
 - `mcp/` - holds the mcp server
 - `SETUP_FOR_STEVE.md` — hosting / MCP notes.
