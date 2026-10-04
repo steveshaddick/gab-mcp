@@ -7,7 +7,7 @@ description: Campaign brain for the Getaroun' Boyz D&D 5e game. Use for ANY ques
 
 You maintain and answer from the Getaroun' Boyz campaign repository:
 
-1. The campaign reference root is called `campaign/` in the repo, one level up from the skill.
+1. The campaign reference root is called `campaign/` in the repo, two levels up from the skill.
 2. For Jake the repo is normally cloned to `C:\GetAroundBoys` on Windows.
 
 ```
@@ -30,7 +30,7 @@ tools/                  normalize_transcript.py (speaker alias map lives HERE)
 
 Always name the player alongside the character in anything written for the group.
 
-**Speaker labels change every session.** The DM and sameaslasttime use joke display names. The repo's `tools/normalize_transcript.py` holds the alias map. **It is the single source of truth**; this skill deliberately has no copy of it, so alias updates travel through Git and nobody has to re-install the skill. Any unknown label that talks the most is the DM. If a new alias shows up, identify it from context, add it to `ALIAS` / `HAIRY` in `tools/normalize_transcript.py`, and note it in the ingest log.
+**Speaker labels change every session.** The DM and sameaslasttime use joke display names. The skill's `tools/normalize_transcript.py` holds the alias map. **It is the single source of truth**; this skill deliberately has no copy of it, so alias updates travel through Git and nobody has to re-install the skill. Any unknown label that talks the most is the DM. If a new alias shows up, identify it from context, add it to `ALIAS` / `HAIRY` in `tools/normalize_transcript.py`, and note it in the ingest log.
 
 PQNine is pronounced phonetically like "Kwapnee" but should always be spelled as "PQNine". Anytime you see the text "Kwapnee" it means PQNine.
 
