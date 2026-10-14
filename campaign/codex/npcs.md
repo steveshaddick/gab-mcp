@@ -1,6 +1,6 @@
 # NPCs
 
-> Living file. Updated through **Session 32** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
+> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
 > Spellings follow the DM where known; transcript mishearings noted with *(sp?)*.
 > Status: 🟢 alive / friendly · 🟡 neutral or unknown · 🔴 hostile · ⚫ dead
 
@@ -74,11 +74,52 @@
 
 **Borum Feldhand** 🟢 — See above (Hammer and Hitch, Mirabar) [S21].
 
-**Constantori** — Long-dead? courtier, rumored the most beautiful man alive. His **portrait** reportedly has occult properties [S32].
+**Constantori** — Long-dead? courtier, rumored the most beautiful man alive. His **portrait** turns out to be a **sentient painting** commissioned by the late **Dayani Gristhorne** of the criminal underworld as a planted eavesdropping tool: it talks, is vain, remembers everything said in its presence, and is subservient to its holder. Painted by **Deski Kwan** ⚠️ (sp?) [S34].
 
-**Haravin?** — Name written beside Westbridge on Halda's map [S32].
+## Westbridge & the Constantori portrait job (added S33–S35)
 
-**Cognoscenti Esoterica** 🔴? — Group seeking Constantori's portrait "not to destroy corruption, but to possess it" (per Halda's order) [S32].
+**Haravin Dar Dragon** 🟡 — Halfling innkeeper and self-styled "Dealer in Fine Arts" at the Harvest Inn in Westbridge; inherited the place from his father. Introduced the party to Idrissa Caramorte and stabled the horse free. Keeps a back-room collection of five bawdy paintings (The Miller's Wife 40 gp, The Ambassador's Visit 150 gp, The Halflings' Second Breakfast 35 gp, The Harvest 250 gp — with himself in it, A Proper Elven Courtship 60 gp) and will fence rarer pieces through unnamed contacts. Serves hot-sauce "Dar Dragon Deluxe" burritos and watches people eat them with an unsettling intensity ⚠️. Visibly flinched at the Sisters of the Vale symbol around Hairy's neck and warned they are hated in most communities [S34]. Resolves the "Haravin?" question mark on Halda's map — he was the party's contact to Idrissa, not the portrait's owner.
+
+**Idrissa Caramorte** 🟢 — Agent of the **Cognoscenti Esoterica**. Well-dressed human woman, dresses like a mage/sorceress/wizard. Operates out of an abandoned barn in a dead cornfield south of Westbridge, reached by a dirt road off the Long Road beside a giant 300–400-year-old oak. Hired the party for **2,000 gp** to recover **Constantori's Portrait** from the Agile Hand thieves' guild (who stole it from a Cognoscenti vault and killed three guards doing it) [S34]. Already has her own backup plan if the party refuses; already independently verified the Agile Hand HQ location. Knows the party by reputation (the "Meyerstone incident", the Afterlife Casino, the Delphi mansion, "a certain entity that tried to enter into our plane of existence"). Her preferred courier was Jimmy Two Pouch; she now knows the Sisters of the Vale intercepted her message to the party.
+
+**Cognoscenti Esoterica** 🟡 — Occult organization that preserves and studies cursed artifacts; owned Constantori's Portrait before the Agile Hand stole it from one of their vaults. Had planned a forum on male beauty around the portrait, per Tordrug's history check. The Sisters of the Vale watch them. (Earlier framing — "they want to possess corruption rather than destroy it" — came from Halda's biased sealed orders [S32].)
+
+**Jimmy Two Pouch** 🟡 — A gnome courier who "pops in and out of existence" and "runs like the wind"; Idrissa has used him before. His message to the Get Around Boys ended up with the Sisters of the Vale (Sister Halda) instead; ⚠️ unclear whether he betrayed Idrissa or was intercepted/coerced [S34].
+
+**Grink "Grinky" Brithwort** 🟡 — Scrawny, patchy-bearded, sweating human; junior Agile Hand thief; 10 years with the guild and still bottom of the ladder. Caught during the Cognoscenti vault theft after his crew shoved him into the pursuing guards. **Charmed by Tordrug** (Charm Person, DC 16 Wis save — failed) and ratted out two inked maps: a route to the Agile Hand HQ, and a floor-plan of it [S34]. Kept bound at Idrissa's barn under her guard; she will release him alive after the job is done.
+
+**Guildmaster Dusk** 🔴 — Leader of the Agile Hand thieves' guild; an assassin with a side career in extortion and blackmail. Lives in the tower (2nd floor) of the Agile Hand headquarters and holds a master key. The only member who knows which room Constantori's Portrait is actually stashed in; also acts as the guild's fence [S34–S35]. Not yet seen.
+
+**Elix the Saint** 🔴 — Human; one of Guildmaster Dusk's lieutenants in the Agile Hand. Picks onions out of his supper, carries the guild master key on a leather cord. Walked nightly from the HQ to the Tipsy Tankard to flirt with the younger bartender [S34]. **Captured** by the party on a dark country road outside the Tipsy Tankard after he spooked and bolted; dropped by Baron's arrow, grappled by PQNine, hit with Shocking Grasps and a sneak attack rapier blow, knocked out and tied up. Currently charmed by Tordrug and feeding the party intel on the HQ [S35].
+
+**Jaymont the Sinner** 🔴 — Agile Hand spy and Dusk's other named lieutenant; master-key holder; "blends in" on scouting missions [S34]. Not yet seen.
+
+**Wish** 🔴 ⚠️ — A "big guy" in the Agile Hand, possibly also a master-key holder; role beyond that is unclear [S34]. Not yet seen.
+
+**Deski Kwan** ⚫? ⚠️ — Artist who painted Constantori's Portrait on commission from Dayani Gristhorne. Only the "Kwan" ending was confirmed by the DM; full spelling unverified [S34]. Status (deceased, retired, etc.) unclear.
+
+**Dayani Gristhorne** ⚫ — Late grand dame of the criminal underworld who commissioned Constantori's Portrait specifically as a sentient eavesdropping tool to plant in a rival's parlor [S34].
+
+## Tribor (added S33–S34)
+
+**Full Hammer** 🟢 — Dwarf smith at Full Hammer's Forge in Tribor. Bought Halda's chainmail (minus insignia) for 10 gp + a chain-link necklace he fashioned from the removed Sisters-of-the-Vale insignia pieces. Bought Hairy's plain shortsword for 4 gp and Tordrug's Lord's Alliance longsword (6 gp) and splint armor (95 gp). Warned repeatedly that the Sisters of the Vale are terrifying zealots. Said Tribor is too small to train Shadow Strider — needs a bigger city [S33].
+
+**Narth Tezran** 🟡 — Friendly shopkeep running The Lion's Share in Tribor for its new franchise owners (Lion Shield Coster of Yartar). Tries to upsell [S33].
+
+**Alestra Algar** 🟡 — Co-owner on The Lion's Share's business cards; "Alaskan-sounding" per the DM. Not met in person [S33].
+
+**Erlam Stock Spool** 🟡 — Named by the Tribor Travelers clerk as the actual manager/contact at the caravan yard. Not met before the brawl [S34].
+
+**Tribor Travelers clerk** 🔴 — Rude human clerk at Tribor Travelers; pocketed Hairy's 5 gp "bribe," pretended ignorance, called the bailiff. Dropped unconscious by Hairy's Chill Touch at ~90 ft [S34].
+
+**Jordan Hale** 🟢 — Returning one-eyed cattle-barge captain; now hauling cattle to Underdark buyers. Carried the party downriver from Miller's Reach to Tribor for 1 gp (vs. 5 sp before), plus a 2 gp tip and a face compliment from Hairy; he vows to tell everyone about "Harry the Bugbear" [S33]. (See S24 for first appearance.)
+
+## River / road one-offs (added S33)
+
+- **Peasant woman on a skiff** 🟡 — Toothless, dirty; asked the party to retrieve a corked bottle from the reeds. Note inside: *"I know what you did."* Mage-Handed into the river by Hairy. ⚠️ Who sent her and the note is unresolved [S33].
+- **Piano man / piano woman** 🟡 — Well-dressed strangers on opposite banks of the river arguing over a half-submerged floating white piano. Party set the piano on fire and moved on [S33].
+- **Westbridge beggar** 🟡 — Leopard-print-rag-wrapped beggar outside Westbridge; blessed PQNine with Chauntea after a 10 gp handout [S34].
+- **Tipsy Tankard bartenders** 🟡 — Two human women: a short stout older one with a gentle voice, and a younger one genuinely sweet on Elix [S35].
 
 ## Authorities
 

@@ -31,3 +31,12 @@
 
 ## Personal threads
 - ⚠️ PQNine still has the **sketch** of the gear. Does he remember Fizzlewidget now?
+
+
+## Sessions 33–35
+- Finished his last shot of whiskey while waiting at Miller's Reach for the barge; now dry [S33].
+- At the Lion's Share in Tribor, asked after potions of giant strength (none), "water from a river that flows backwards" (sold out), and the local post office — Narth pointed him to Tribor Travelers [S33].
+- Joined Hairy at the Tribor Travelers caravan yard trying to send some of his money toward Waterdeep; when the brawl kicked off, PQNine was grappled, dropped the grappler with a flurry of nonlethal unarmed strikes, and Drunken-Technique-disengaged clear [S34].
+- Dropped 10 gp on a leopard-print-rag-clad beggar outside Westbridge; the beggar blessed him with Chauntea [S34]. Offered to repay Hairy the 5 gp he lost to the Tribor Travelers clerk ⚠️ (unclear whether coin was actually handed over).
+- Fixated on the Tipsy Tankard's unusually well-cast hat-and-apple-stamped pewter mugs; bought one on exit for 1 gp [S35]. Still carrying his Carl-of-Tribor handbill portrait after Haravin passed on it.
+- Grappled/pinned Elix during the dark-road takedown; took ~23 damage over two rounds from Elix's scimitar and dagger. **+4 gp 1 sp** from the loot split [S35].

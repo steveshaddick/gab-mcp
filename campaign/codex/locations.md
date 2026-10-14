@@ -1,6 +1,6 @@
 # Locations
 
-> Living file. Updated through **Session 32**.
+> Living file. Updated through **Session 35**.
 
 ## Waterdeep & surroundings
 
@@ -50,9 +50,9 @@ Decaying family estate with alabaster walls and three floors joined by a great s
 
 - **Brindlewick and Sons Pressure and Motion Works** — Mirabar gnome-engineering shop [S22].
 - **Long Saddle** — Hamlet whose town hall received the silver [S22].
-- **Tribor** — Frontier cattle town full of deep gnomes; no magic shop (try the caravans). **The Talking Troll** pub serves beef and onion pie [S23].
+- **Tribor** — Frontier cattle town. Known taverns include **The Talking Troll** (rough, famous for fights, beef and onion pie [S23]), **The Pleasing Ladder** (upscale inn where business deals happen), and **The Tribor Arms** (locals' gossip tavern). **Full Hammer's Forge** (dwarf smith, cagey about Sisters-of-the-Vale gear) and **The Lion's Share** (general store, newly franchised by the Lion Shield Coster of Yartar; owners Alestra Algar and Narth Tezran) are on the main square. **Tribor Travelers** (caravan yard) hires out teamsters, wagons and guards to Waterdeep and Everland. No magic shop — try the caravans. **The party is now wanted / unwelcome in Tribor after the S34 Tribor Travelers brawl** [S23, S33–S34].
 - **Timber Wharf → Miller's Reach** — The canal and river route toward Little Lockford; river wedding; something in the water charms people [S24].
-- **Westbridge** — Farming village south of Tribor where the Long Road meets the Stone Trail. Circled on Halda's map with "Haravin?" [S32]. **Next destination?**
+- **Westbridge** — Small, muddy farming village on the Long Road between Tribor and Red Larch; under 100 villagers plus outlying farms. One smith, one wheelwright, one provision shop, livestock yard, a shrine to Chauntea. **The Harvest Inn** (west side of the road, sheaf-of-wheat sign) is Haravin Dar Dragon's place and the main gathering spot [S34]. The "Haravin?" on Halda's map was him.
 
 ## Little Lockford (deep-gnome town)
 
@@ -68,3 +68,17 @@ Islands **suspended over a lake of fire**, linked by retractable bridges and a m
 ## Far places
 
 - **The Merckmire** — Remote, cursed, sunken swamp; source of the egg and of children's scare stories. Its muck kept the entity dormant [S1–S2, S7]. Hairy saw it in a vision [S6–S7].
+
+
+## Westbridge area & the Constantori portrait job (added S34–S35)
+
+- **The Harvest Inn** — Haravin Dar Dragon's halfling-run inn in Westbridge; sheaf-of-wheat sign, stone bridge nearby. Has a back room behind a purple curtain with five bawdy paintings for sale; Haravin will also fence rarer pieces [S34].
+- **Shrine of Chauntea (Westbridge)** — Maintained by a local farmer; farmers come to bless crops [S34].
+- **Idrissa's barn** — An abandoned farmstead with a dead cornfield off a dirt road running east from the Long Road, marked by a giant 300–400-year-old oak. Current Cognoscenti Esoterica safe-house; the holding spot for the captive Grinky Brithwort [S34].
+- **The Agile Hand headquarters** — Thieves' guild stronghold roughly a day's ride (8–12 hr) from Idrissa's barn. Four stories across a main building, east and west wings, and a tower. East building is 2–3 floors. Guildmaster Dusk's quarters are in the tower, 2nd floor. Basement is recruit training + stores + has a **secret outside door** nobody but Dusk's inner circle gets through. All windows boarded; doors usually locked. Daytime is active; late evening is quiet [S34]. Not yet entered.
+- **The Tipsy Tankard** — Busy roadside tavern in a small hamlet about 45 min walk from the Agile Hand HQ; "medieval truck stop" feel, big hearth, two bartenders, wagon drivers out front, dark country roads behind. Elix the Saint's regular evening haunt before S35 [S35].
+
+## Referenced but not visited
+
+- **Yartar** — Home city of the Lion Shield Coster, the trading company franchising into Tribor shops [S33].
+- **Red Larch** — The next town south of Westbridge on the Long Road [S34].

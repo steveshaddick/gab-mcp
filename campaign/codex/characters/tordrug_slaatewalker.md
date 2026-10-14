@@ -29,3 +29,13 @@ Fire Bolt, disguise/illusion magic. Shares the Wand of Magic Missiles with Hairy
 - Stepped on a Crown of Madness circle in Fizzlewidget's workshop [S29].
 - **Disguised himself as the grieving father** to mock Little Lockford's crowd, which set off the stoning that drove the party out [S32 recap].
 - Has heard of Constantori, the courtier rumored to be the most beautiful man alive, and knows what lead-lined artifact bags are [S32].
+
+
+## Sessions 33–35
+- At the river, Mage-Handed a corked bottle aboard the barge for the party; the note inside read *"I know what you did."* **Still carries the bottle and note** [S33].
+- Sold a Lord's Alliance longsword (+6 gp) and splint armor (+95 gp) at Full Hammer's in Tribor; **net +101 gp** [S33].
+- Paid 3 gp for a whole six-bed shared room at the Harvest Inn so no strangers would join them, then blew an insight check on Haravin Dar Dragon and currently rates him very highly ⚠️ [S34].
+- Cast **Charm Person** on captured Agile Hand thief **Grink Brithwort** (DC 16 Wis save — failed; 1-hour duration, non-concentration); posed as a fellow thief and got Grinky to draw a two-sided map (route + floor-plan of the Agile Hand HQ) [S34]. **Carries the map.**
+- At the Tipsy Tankard, confirmed Elix's identity by paying his 1 gp tab to the younger bartender; triggered Elix's spook [S35].
+- Hit Elix with **Shocking Grasp** during the chase takedown [S35]. Took one of Elix's daggers.
+- Cast **Charm Person** on the unconscious Elix (DC 16 Wis — failed) and posed as his rescuer. **Elix is now his charmed captive**, feeding them intel on the Agile Hand HQ. **+4 gp 1 sp** from the loot split [S35].

@@ -1,6 +1,6 @@
 # Loot & Inventory
 
-> Living file. Updated through **Session 32** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
+> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
 > ⚠️ = holder or status uncertain; confirm at the table.
 
 ## Magic & significant items
@@ -15,10 +15,10 @@
 | Wand of Magic Missiles | Hairy | Delphi storage crate [S10] | Shared with Tordrug. |
 | Hairy's lightning-bolt hat | Hairy | Maurice the haberdasher, Luskan [S16] | 30 gp + 5 tip. Much admired. |
 | Sister Halda's armour & shield — set 1 (splint) | Hairy (wearing) | Taken from Halda [S13] | **Evidence.** Named on the Sisters of the Vale posters [S15]. Worn in Little Lockford [S26]. |
-| Sister Halda's armour & shield — set 2 (plate) | Hairy | Taken from Halda [S32] | Second stripping. |
-| Sister Halda's order-forged sword | ⚠️ | [S32] | Embossed with the order symbol. No magic noted. (Where did the first sword go?) |
+| Sister Halda's armour & shield — set 2 (plate) | Hairy | Taken from Halda [S32] | Second stripping. Chainmail portion sold to Full Hammer in Tribor for 10 gp + a chain-link necklace; plate kept [S33]. |
+| Sister Halda's order-forged sword | Hairy | Halda [S32] | Longsword; embossed with the Sisters-of-the-Vale symbol. Kept by Hairy, not sold [S33]. (Where the first [S13] sword went is still ⚠️.) |
 | Halda's notebook of cursed objects | ⚠️ Tordrug? | [S32] | Sketches and descriptions of cursed artifacts. |
-| Sealed order + Westbridge map | Party | [S32] | Constantori's portrait lead; "Haravin?" |
+| Sealed order + Westbridge map | Party | [S32] | Constantori's portrait lead. "Haravin?" resolved — he was the party's Westbridge contact to Idrissa Caramorte [S34]. |
 | Mysterious key | ⚠️ | Halda [S32] | Unknown lock. |
 | Lead-lined artifact bags | Party | Halda's trackers [S32] | Mute or cancel cursed-object effects. |
 | Prison master record book | ⚠️ party | Warden's cabinets [S18] | History of every prisoner. The Warden is searching for it. Also taken: transfer orders and death certificates (⚠️ confirm). |
@@ -28,6 +28,17 @@
 | Amethyst eye cloak pin | ⚠️ | Marcos's lockbox [S10] | Cult-linked. |
 | Silk cult robes | Party | Delphi [S10] | Recovered after the bag burst [S12]. |
 | Crystal box (shards) | Party (optional) | [S12] | Destroyed when the egg hatched. |
+
+| Chain-link necklace with Sisters-of-the-Vale insignia | Hairy | Full Hammer, Tribor [S33] | Fashioned from the removed insignia pieces of Halda's chainmail. Haravin flinched at it on sight; the symbol is widely feared in these parts. |
+| Corked bottle + "I know what you did" note | Tordrug | Peasant woman on the river [S33] | Anonymous. Sender and target unknown ⚠️. |
+| Grinky's two-sided map (route + Agile Hand floor-plan) | Tordrug | Grinky, under Charm Person [S34] | Route from Idrissa's barn to the Agile Hand HQ on one side; floor-plan of the HQ on the other (four stories: main floor, east and west buildings, tower; basement with a secret outside door). |
+| Heavy brass master key (3-tooth, on leather cord) | Fic (worn around neck) | Elix the Saint [S35] | Master key to the Agile Hand headquarters. Opens most doors; which rooms it does not reach is ⚠️. |
+| Dagger | Fic | Elix the Saint [S35] | Plain. |
+| Dagger | Tordrug | Elix the Saint [S35] | Plain. |
+| Scimitar | Unclaimed | Elix the Saint [S35] | PQNine suggested dumping it. |
+| Cheap brass wedding ring | Unclaimed | Elix's purse [S35] | — |
+| Worn wooden Saint figurine | Unclaimed | Elix the Saint [S35] | Smooth from handling. Possible personal/sentimental item. |
+| Tipsy Tankard pewter mug (hat-and-apple stamp) | PQNine | Tipsy Tankard, Tribor-area hamlet [S35] | Bought for 1 gp on exit. Unusually well-cast. |
 
 ## Gone / no longer ours
 
@@ -78,3 +89,7 @@
 | S23 | +4 gp, 17 sp, 9 cp | More bandit loot |
 | S31/32 | + ⚠️ | Mayor Broadfoot's payment for Little Lockford |
 | S32 | +74 gp, +36 gp | Halda (36 + 38); trackers (12 each) |
+| S33 | Hairy +10 gp +necklace (chainmail), +4 gp (shortsword), −1 gp (barge), −2 gp (Jordan tip); Tordrug +6 gp (sword) +95 gp (splint); PQNine finished whiskey | Tribor pawn and barge |
+| S34 | Hairy −5 gp (Tribor Travelers clerk, lost); Tordrug −3 gp (room) −1 gp (breakfast tip); PQNine −10 gp (beggar); Fic −~1 gp 10 sp (burritos + drinks + tip) | Westbridge inn + Idrissa's barn |
+| S34 | Pending **+2,000 gp** | Cognoscenti commission — on recovery of Constantori's Portrait |
+| S35 | Each party member **+4 gp 1 sp** | Elix loot split (18 gp 24 sp purse ÷ 5) |

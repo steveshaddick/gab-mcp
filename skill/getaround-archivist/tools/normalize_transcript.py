@@ -1,8 +1,10 @@
 """Normalize a Teams meeting transcript to lines of `SPEAKER (Character): text`.
 Usage: python3 normalize_transcript.py <transcript> [<transcript> ...] [-o OUTDIR]
 Without -o, prints to stdout. Add new joke display-names to ALIAS / HAIRY below.
+Accepts: VTT, Teams markdown export (plain text with .docx extension), and
+real Word .docx (requires python-docx).
 """
-import re,sys,glob,os
+import re,sys,os
 ALIAS={
  'Phil':'PHIL (Tordrug)','Phil Smith':'PHIL (Tordrug)',
  'Jacob Featherstone':'JAKE (Fic)',
@@ -16,14 +18,19 @@ def canon(n):
     if n in ALIAS: return ALIAS[n]
     if n in HAIRY: return 'SAMEASLASTTIME (Hairy)'
     return 'DM'
+def extract(path):
+    with open(path,'rb') as f: head=f.read(2)
+    if head==b'PK':
+        import docx
+        return '\n'.join(p.text for p in docx.Document(path).paragraphs)
+    return open(path,encoding='utf-8',errors='ignore').read()
 def parse(path):
-    t=open(path,encoding='utf-8',errors='ignore').read()
-    turns=[]
+    t=extract(path); turns=[]
     if '-->' in t[:500]:
         for blk in re.split(r'\n\s*\n',t):
             ls=[l for l in blk.strip().split('\n') if l.strip()]
             if len(ls)>=3 and '-->' in ls[0]: turns.append((ls[1],' '.join(ls[2:])))
-    else:
+    elif re.search(r'^\*\*.+?\*\*\s*\d+:\d+',t,re.M):
         cur=None;buf=[]
         for l in t.split('\n'):
             m=re.match(r'^\*\*(.+?)\s*\*\*\s*\d+:\d+',l)
@@ -32,7 +39,18 @@ def parse(path):
                 cur=m.group(1);buf=[]
             elif cur and l.strip(): buf.append(l.strip())
         if cur: turns.append((cur,' '.join(buf)))
-    out=[];
+    else:
+        cur=None;buf=[]; HDR=re.compile(r'^(.+?)\s{2,}\d+:\d+\s*$')
+        for l in t.split('\n'):
+            s=l.strip()
+            if not s: continue
+            m=HDR.match(l) or HDR.match(s)
+            if m:
+                if cur: turns.append((cur,' '.join(buf)))
+                cur=m.group(1).strip();buf=[]
+            elif cur: buf.append(s)
+        if cur: turns.append((cur,' '.join(buf)))
+    out=[]
     for sp,tx in turns:
         sp=canon(sp); tx=tx.strip()
         if not tx or FILLER.match(tx): continue

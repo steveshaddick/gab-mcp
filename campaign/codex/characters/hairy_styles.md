@@ -35,3 +35,14 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - Nearly dragged overboard by the river charm [S24]. Planned the bridge isolation of Cave Mouth [S27].
 - Offered to Mage Hand the Wishkey Gear into the fail-safe; PQNine refused [S30]. **Attacked Fizzlewidget on sight** [S31].
 - **Felt the Wishkey Gear's pull and heard his dead mother's voice** before it went into the lava [S31].
+
+
+## Sessions 33–35
+- At Full Hammer's in Tribor, had the insignia pieces removed from Sister Halda's chainmail and worked by Full Hammer into a **chain-link necklace** he now wears. Sold the stripped chainmail for 10 gp + the necklace; sold a plain shortsword for 4 gp. Kept Halda's plate mail and her longsword [S33].
+- Pushed the toothless peasant woman into the river with Mage Hand after she handed off the *"I know what you did"* bottle [S33].
+- Started a brawl at Tribor Travelers after the clerk pocketed his 5 gp "bribe"; **Misty Step** past the guards, **Chill Touch at ~90 ft** dropped the clerk unconscious (6 necrotic), then **Message** to the party to flee town [S34]. **Party now wanted in Tribor.**
+- Haravin Dar Dragon noticed the Sisters-of-the-Vale symbol around his neck and visibly flinched; Haravin warned the Sisters are not welcome in most communities [S34]. Hairy claims he wears it as a "don't be like them" reminder.
+- Hit Elix with **Shocking Grasp** during the chase takedown; **+4 gp 1 sp** from the loot split [S35].
+
+## Personal threads (added)
+- ⚠️ **The Sisters-of-the-Vale necklace is a liability.** Haravin's reaction confirms the insignia is widely recognized and feared — anyone else who sees it will remember.
