@@ -10,11 +10,17 @@ Hired by **Idrissa Caramorte** of the Cognoscenti Esoterica — the group that o
 ### ⚔️ Sister Halda Thorne — round 3?
 She ambushed the party in the Underdark and was stripped a second time [S32]. She's sworn to stop them from taking cursed artifacts and wants revenge on Hairy. Left alive and humiliated, she will be back. The Sisters of the Vale are also still hunting the party [S15].
 
-### 🗝️ Agile Hand headquarters — the break-in
-Four-story stronghold roughly a day's ride from Idrissa's barn; main floor, east and west buildings, and a tower; Dusk's quarters in the tower (2nd floor); basement for recruit training, stores and a **secret outside door** Grinky never got through [S34]. Windows boarded, doors locked. Daytime: active (training, planning). Late evening: quiet (seniors asleep, juniors on watch). The party now holds Elix's heavy brass master key [S35]. Which room holds the portrait is ⚠️ — only Dusk knows.
+### 🗝️ Agile Hand headquarters — **the break-in is live**
+Party is inside, disguised and buffed (Invisibility on PQNine/Baron, Pass Without Trace on all, Fic's Cloak of Elvenkind, Hairy-as-Elix, Tordrug-as-Grinky). Already cleared: front office (G10, took coin box + 2 wall-hook keys), receiving/goods room (G12, skipped the earth-encrusted coffin ⚠️), shared bedroom (quietly closed on 2 sleeping members), quartermaster office (took the guild ledger, intimidated the guard outside). Currently in Guildmaster Dusk's round tower bedroom (2nd floor) + the Tower Peak above it [S35]. The portrait was in the Tower Peak — Grinky's floor-plan missed the up-stair. **The portrait is now screaming "Help, help, help!" and the HQ is going hot.**
 
-### 🎭 Elix the Saint — the charmed captive
-Dusk's lieutenant; tied up and charmed by Tordrug in the woods off the Tipsy Tankard road [S35]. Still alive; has already given up that the brass key is the master key and that only Dusk knows the portrait's room. The party is split on whether to kill him or release him; Baron just asked whether there's a vault at the HQ when the session cut.
+### 🖼️ The screaming portrait
+**Constantori's Portrait** is sentient, speaks, and reacted to intruders by screaming for help. Its eyes track viewers. Fic and Baron are in the alcove with it; Hairy's plan is to grab it and shove it into a bag of holding to shut it up. ⚠️ The DM paused the session to statblock it. ⚠️ Lead-lined bags from Halda are too small for it. Containment and transport are both unsolved.
+
+### 💤 Guildmaster Dusk is awake
+Dusk (female, confirmed) and her lover **"Dawn"** ⚠️ were asleep in the round bedroom when the portrait screamed. Dusk woke and called out "Helix, what's going on?" to Hairy-as-Elix. A guard is knocking at the bedroom window and another at the door. Initiative was being rolled when the session cut. Dusk is an assassin with a side career in extortion and blackmail.
+
+### 💍 Elix's wife
+Elix was wearing a cheap brass wedding ring when the party killed him and buried him in the woods [S35]. Hairy took the ring. Someone — his wife, the younger Tipsy Tankard bartender who fancied him, or the Agile Hand — will eventually notice he never came home.
 
 ### 🔪 Guildmaster Dusk — the only one who knows
 Assassin with a side career in extortion and blackmail; the Agile Hand's leader and the one person who knows where in the HQ Constantori's Portrait is actually stashed; also acts as the guild's fence [S34–S35]. Lives in the tower (2nd floor). Not yet seen. Confronting her is probably unavoidable.

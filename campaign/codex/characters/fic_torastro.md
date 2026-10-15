@@ -35,3 +35,9 @@
 - Yelled "Gabby's bolted" when Elix spooked and ran [S35]. Landed the deciding rapier sneak attack ("Rapier Sploon") and chose to knock Elix unconscious rather than kill.
 - **Now wears Elix's heavy brass 3-tooth master key** to the Agile Hand HQ on a leather cord around his neck. Took one of Elix's daggers. **+4 gp 1 sp** from the Elix loot split [S35].
 - ⚠️ Jake flagged a "Resolute Hand Miss re-roll" counter on his sheet he can't identify; chose to ignore for now.
+
+
+## Sessions 33–35 (continued — updated after full-transcript re-ingest)
+- At Tribor, bought the adjacent table at Northfield drinks + food to pump them for info; learned about Carl and Haravin at the Harvest Inn in Westbridge [S33].
+- Confirmed his **Cloak of Elvenkind** is attuned; put the hood up for the HQ infiltration [S35].
+- At the Tower Peak alcove, spoke to the gold-framed sentient portrait when it asked "What are you doing here?" — Fic answered "Admiring a great work of art." The portrait was not flattered and started screaming [S35].

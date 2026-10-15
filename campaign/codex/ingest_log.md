@@ -2,6 +2,26 @@
 
 One entry per ingest: what changed in the codex. Newest first.
 
+## 2026-10-15 — Normalizer bugfix + S33–S35 full re-ingest
+
+Jake noticed each of the three S33–S35 summaries only covered the first ~half of its session. **Root cause:** `skill/getaround-archivist/tools/normalize_transcript.py`'s HDR regex matched only `MM:SS` timestamps and silently rejected `H:MM:SS` ones. Teams switches from `MM:SS` to `H:MM:SS` at the 1-hour mark, so every speaker header past that point was treated as a text line of the previous speaker's turn. The entire back half of each session collapsed into a single trailing mega-line (40K, 55K and 69K characters for S33/S34/S35 respectively).
+
+- **Normalizer fix:** `HDR` now matches `\d+:\d+(:\d+)?` — a one-char change, backward compatible with the old `MM:SS` format.
+- Re-normalized all three `.txt` transcripts:
+  - S33: 787 → **1,178** lines
+  - S34: 634 → **1,142** lines
+  - S35: 827 → **1,577** lines
+- Full re-ingest of the back halves. **Rewrote all three summaries**:
+  - `Session_033_20261001.md` — added the Northfield / North Shield House inn evening, Tordrug's "Mona Lisa" book-lore on Constantori's portrait, Fic buying intel at the inn (learned about Carl + Haravin at the Harvest Inn), PQNine commissioning a stickman portrait from Carl at the Talking Troll, Baron pitching the "Sister Halda stinks" slander campaign.
+  - `Session_034_20261008.md` — unchanged on the Tribor Travelers brawl and the Harvest Inn front half; expanded the back half (previously added via a two-pass workaround) and corrected the stable location (Baron slept in the cart at Northfield's stable, not the Talking Troll's).
+  - `Session_035_20261014.md` — replaced the "Baron asks about a vault" cliffhanger with the full HQ break-in: Elix's full charmed interrogation ("no vault," "Dusk's office," "no secret door into basement — only between the two basements"), **Tordrug killed Elix with Shocking Grasp when the charm wore off** (not released), the roadside burial with PQNine's pewter mug + Minor Illusion crucifix, the party-wide infiltration setup (Hairy-as-Elix, Tordrug-as-Grinky, Invisibility 3rd on PQNine/Baron, Pass Without Trace, Fic's Cloak of Elvenkind), and the entire HQ sweep: front office (G10) coin box, receiving/goods room (G12) coffin, shared bedroom, quartermaster office (took the guild ledger), Dusk's round tower bedroom + two staircases, and the Tower Peak with the sentient Constantori's Portrait that started **screaming** for help as the session cut.
+- **NPCs added or updated:** Courtney (Northfield innkeeper), Carl (Tribor artist, illiterate), "Dawn" (⚠️ Dusk's bedmate, likely a pet name), Agile Hand balcony lookout and quartermaster-office guard, two sleeping HQ members. **Elix the Saint updated to ⚫ dead** (killed by Tordrug after charm wore off). **Guildmaster Dusk updated** — confirmed female, has lover named "Dawn" ⚠️, lives in a round bedroom with staircases to the Tower Peak above (which was NOT on Grinky's floor-plan).
+- **Loot updated:** Hairy kept Elix's cheap brass wedding ring (⚠️ Elix had a wife) and the worn wooden Saint figurine; party took 2 HQ wall-hook keys and the leather-bound guild ledger (Hairy carries); 15 cp + 11 sp from the HQ coin box (2 sp each distributed); PQNine's Tipsy Tankard pewter mug was buried with Elix.
+- **Threads:** closed "Elix the Saint — the charmed captive" (he's dead); replaced "Agile Hand HQ — the break-in" with an **in-progress** version (party inside, portrait screaming, Dusk awake, guards knocking); added "The screaming portrait," "Guildmaster Dusk is awake," and "Elix's wife" threads.
+- **Overview:** "story so far" S33–S35 paragraph rewritten to cover the whole arc through the HQ Tower Peak. "Where we left off" replaced with the portrait-screaming cliffhanger.
+- **New glossary entries** for Carl, Dawn, Dusk, Elix (expanded), Northfield, Hairy's "Perry" alias at Full Hammer.
+- **Needs confirmation (new):** whether "Dawn" is a real name or a pet name; whether the HQ wall-hook keys open specific interior doors; the Agile Hand ledger's contents; whether the earth-encrusted coffin in the receiving/goods room matters; whether Elix's wife is a plot hook or incidental; S35 title — Jake OK'd "The Tipsy Tankard Chase" early but the HQ break-in is now the bigger beat (candidate rename: "The Screaming Portrait").
+
 ## 2026-10-14 — Sessions 33–35
 
 - **Added:** `summaries/Session_033_20261001.md`, `summaries/Session_034_20261008.md`, `summaries/Session_035_20261014.md`.

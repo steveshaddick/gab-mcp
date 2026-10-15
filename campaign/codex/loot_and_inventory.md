@@ -35,10 +35,12 @@
 | Heavy brass master key (3-tooth, on leather cord) | Fic (worn around neck) | Elix the Saint [S35] | Master key to the Agile Hand headquarters. Opens most doors; which rooms it does not reach is ⚠️. |
 | Dagger | Fic | Elix the Saint [S35] | Plain. |
 | Dagger | Tordrug | Elix the Saint [S35] | Plain. |
-| Scimitar | Unclaimed | Elix the Saint [S35] | PQNine suggested dumping it. |
-| Cheap brass wedding ring | Unclaimed | Elix's purse [S35] | — |
-| Worn wooden Saint figurine | Unclaimed | Elix the Saint [S35] | Smooth from handling. Possible personal/sentimental item. |
-| Tipsy Tankard pewter mug (hat-and-apple stamp) | PQNine | Tipsy Tankard, Tribor-area hamlet [S35] | Bought for 1 gp on exit. Unusually well-cast. |
+| Scimitar | Discarded on road | Elix the Saint [S35] | PQNine dumped it. |
+| Cheap brass wedding ring | Hairy | Elix's purse [S35] | ⚠️ Elix had a wife. She may come looking. |
+| Worn wooden Saint figurine | Hairy | Elix the Saint [S35] | Smooth from handling. Pocketed at the burial. |
+| Tipsy Tankard pewter mug (hat-and-apple stamp) | Buried with Elix | Tipsy Tankard, Tribor-area hamlet [S35] | PQNine bought for 1 gp on exit; buried it with Elix in the roadside grave. |
+| 2× Agile Hand key (iron, HQ wall-hook) | Party | HQ front office east wall [S35] | Two of three hooks taken; purpose ⚠️ (interior doors? other buildings?). |
+| Leather-bound Agile Hand guild ledger | Hairy | HQ quartermaster office desk [S35] | Contents ⚠️ — not yet read. |
 
 ## Gone / no longer ours
 
@@ -93,3 +95,5 @@
 | S34 | Hairy −5 gp (Tribor Travelers clerk, lost); Tordrug −3 gp (room) −1 gp (breakfast tip); PQNine −10 gp (beggar); Fic −~1 gp 10 sp (burritos + drinks + tip) | Westbridge inn + Idrissa's barn |
 | S34 | Pending **+2,000 gp** | Cognoscenti commission — on recovery of Constantori's Portrait |
 | S35 | Each party member **+4 gp 1 sp** | Elix loot split (18 gp 24 sp purse ÷ 5) |
+| S35 | Each party member **+2 sp** (Hairy +15 cp extra) | Agile Hand HQ front-office coin box |
+| S35 | PQNine −1 gp | Tipsy Tankard pewter mug (buried with Elix) |

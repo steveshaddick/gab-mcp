@@ -46,3 +46,11 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 
 ## Personal threads (added)
 - ⚠️ **The Sisters-of-the-Vale necklace is a liability.** Haravin's reaction confirms the insignia is widely recognized and feared — anyone else who sees it will remember.
+
+
+## Sessions 33–35 (continued — updated after full-transcript re-ingest)
+- Introduced himself to Full Hammer in Tribor as **"Perry"** [S33]. Invented a cover story that he has "a sister in the Order" to explain the Sisters-of-the-Vale insignia necklace he now wears openly.
+- At the Agile Hand HQ, **disguised as Elix the Saint**; passed the balcony lookout's "Elix, is that you?" with "I'm bringing Grinky back" [S35]. Taller than Elix (barely close enough).
+- Looted the HQ front office coin box (15 cp + 11 sp; split 2 sp per party member, kept the copper) and two of the three wall-hook keys [S35].
+- At the quartermaster office, **Persuaded (with advantage)** the guard with the "trouble at the Tankard, place shut early" cover; **failed** to get him to leave his post; then **Intimidated (18)** him into standing down outside and shut the door on him. **Took the Agile Hand guild ledger** (Hairy carries it) [S35].
+- Kept Elix's **cheap brass wedding ring** and the **worn wooden Saint figurine** from the burial [S35]. ⚠️ Both carry sentimental weight; the ring implies a wife.

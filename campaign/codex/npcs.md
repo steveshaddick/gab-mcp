@@ -88,9 +88,9 @@
 
 **Grink "Grinky" Brithwort** 🟡 — Scrawny, patchy-bearded, sweating human; junior Agile Hand thief; 10 years with the guild and still bottom of the ladder. Caught during the Cognoscenti vault theft after his crew shoved him into the pursuing guards. **Charmed by Tordrug** (Charm Person, DC 16 Wis save — failed) and ratted out two inked maps: a route to the Agile Hand HQ, and a floor-plan of it [S34]. Kept bound at Idrissa's barn under her guard; she will release him alive after the job is done.
 
-**Guildmaster Dusk** 🔴 — Leader of the Agile Hand thieves' guild; an assassin with a side career in extortion and blackmail. Lives in the tower (2nd floor) of the Agile Hand headquarters and holds a master key. The only member who knows which room Constantori's Portrait is actually stashed in; also acts as the guild's fence [S34–S35]. Not yet seen.
+**Guildmaster Dusk** 🔴 — Leader of the Agile Hand thieves' guild; an assassin with a side career in extortion and blackmail. **Female, confirmed [S35].** Lives in a round tower bedroom (2nd floor) with a canopied bed and two staircases hugging the walls — one down, one up to the previously-unmapped **Tower Peak** where she keeps **Constantori's Portrait** herself [S35]. Sleeps with a lover she calls **"Dawn"** ⚠️ (may be a pet name) [S35]. Mantle: soap, brush, clay pipe, ivory skull-shaped tobacco jar. Leather trunk at foot of bed holds a crossbow under linens. Also acts as the guild's fence [S34–S35]. **Woke mid-session on the portrait's alarm;** called out "Helix, what's going on?" when the party was in her bedroom. ⚠️ So Elix may have lied under charm about not knowing where the portrait was — or he genuinely didn't, and Dusk kept it off the floor-plan.
 
-**Elix the Saint** 🔴 — Human; one of Guildmaster Dusk's lieutenants in the Agile Hand. Picks onions out of his supper, carries the guild master key on a leather cord. Walked nightly from the HQ to the Tipsy Tankard to flirt with the younger bartender [S34]. **Captured** by the party on a dark country road outside the Tipsy Tankard after he spooked and bolted; dropped by Baron's arrow, grappled by PQNine, hit with Shocking Grasps and a sneak attack rapier blow, knocked out and tied up. Currently charmed by Tordrug and feeding the party intel on the HQ [S35].
+**Elix the Saint** ⚫ — Human; one of Guildmaster Dusk's lieutenants in the Agile Hand. Picked onions out of his supper, carried the guild master key on a leather cord. Walked nightly from the HQ to the Tipsy Tankard to flirt with the younger bartender [S34]. **Captured** on a dark country road outside the Tipsy Tankard after he spooked and bolted; dropped by Baron's arrow, grappled by PQNine, hit with twin Shocking Grasps and a rapier sneak attack, knocked unconscious and tied up [S35]. Charmed by Tordrug; confirmed the brass key is the HQ master key, that there is no vault, and that Dusk's office holds the fenced goods; said he didn't know which room the portrait was in. **Killed by Tordrug with Shocking Grasp when the charm ended**; buried in the woods further down the road with PQNine's new pewter mug and a Minor Illusion crucifix [S35]. ⚠️ Was wearing a cheap brass wedding ring (Hairy kept it) — a wife may come looking.
 
 **Jaymont the Sinner** 🔴 — Agile Hand spy and Dusk's other named lieutenant; master-key holder; "blends in" on scouting missions [S34]. Not yet seen.
 
@@ -119,7 +119,23 @@
 - **Peasant woman on a skiff** 🟡 — Toothless, dirty; asked the party to retrieve a corked bottle from the reeds. Note inside: *"I know what you did."* Mage-Handed into the river by Hairy. ⚠️ Who sent her and the note is unresolved [S33].
 - **Piano man / piano woman** 🟡 — Well-dressed strangers on opposite banks of the river arguing over a half-submerged floating white piano. Party set the piano on fire and moved on [S33].
 - **Westbridge beggar** 🟡 — Leopard-print-rag-wrapped beggar outside Westbridge; blessed PQNine with Chauntea after a 10 gp handout [S34].
-- **Tipsy Tankard bartenders** 🟡 — Two human women: a short stout older one with a gentle voice, and a younger one genuinely sweet on Elix [S35].
+- **Tipsy Tankard bartenders** 🟡 — Two human women: a short stout older one with a gentle voice, and a younger one genuinely sweet on Elix [S35]. (She may notice he never came home.)
+
+## Tribor — Northfield & the town drunk (added S33)
+
+**Courtney** 🟢 — Retired adventurer who owns and runs the upscale **Northfield / North Shield House** inn in Tribor. Keeps three mastiffs in the common room; staff are unusually loyal [S33]. Did not catch Tordrug's "friend with friends" (rogue-code) prompt.
+
+**Carl ("Kowal"?)** 🟡 — Tribor's town portrait artist and town drunk; late-50s, thinning hair, paint-stained; draws on peeled-off handbills at The Talking Troll. Painted PQNine a stickman portrait for 4 cp + 3 mugs of ale + 1 extra "to make you handsome" [S33]. **Illiterate** (can't read or write his own signature). Charges even to say he likes someone's drawing.
+
+## Agile Hand HQ — internal roster (added S35)
+
+**"Dawn"** 🟡 ⚠️ — Guildmaster Dusk's bedmate; found sleeping with Dusk in the round tower bedroom. Name learned only via Dusk's sleep-murmur "Goodnight, Dawn. Love you." — ⚠️ may be a pet name rather than a real name [S35].
+
+**Agile Hand balcony lookout** 🟡 — Hailed "Elix, is that you?" when the disguised party approached the HQ; Hairy-as-Elix bluffed past him with the "I'm bringing Grinky back" line [S35].
+
+**Agile Hand quartermaster-office guard** 🟡 — Human (⚠️ race not clearly described); answered a confused knock on his own office door; bought Hairy-as-Elix's "trouble at the Tankard, place shut early" cover (Persuasion with advantage) but refused to leave his post; Hairy then intimidated (18) him into standing down outside and shut the door on him [S35].
+
+**Two sleeping Agile Hand members** — Found asleep in a shared bedroom off the HQ main hall; party quietly closed the door and moved on [S35].
 
 ## Authorities
 

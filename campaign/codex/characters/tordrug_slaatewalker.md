@@ -39,3 +39,13 @@ Fire Bolt, disguise/illusion magic. Shares the Wand of Magic Missiles with Hairy
 - At the Tipsy Tankard, confirmed Elix's identity by paying his 1 gp tab to the younger bartender; triggered Elix's spook [S35].
 - Hit Elix with **Shocking Grasp** during the chase takedown [S35]. Took one of Elix's daggers.
 - Cast **Charm Person** on the unconscious Elix (DC 16 Wis — failed) and posed as his rescuer. **Elix is now his charmed captive**, feeding them intel on the Agile Hand HQ. **+4 gp 1 sp** from the loot split [S35].
+
+
+## Sessions 33–35 (continued — updated after full-transcript re-ingest)
+- At Tribor, surfaced college-era book knowledge: **Constantori's Portrait is a masterpiece** with rumored occult properties, repeatedly stolen before it can be properly studied — Fic's "Mona Lisa" [S33].
+- Tried a "friend with friends" rogue-code line on Courtney at Northfield; she didn't catch it [S33].
+- Mage-Hand "played" the floating river piano before Fic Fire-Bolted it [S33].
+- At the Tipsy Tankard, confirmed Elix's identity by paying his 1 gp tab to the younger bartender — triggered Elix's spook [S35].
+- In the Elix chase, hit with **Shocking Grasp**; took Elix's other dagger [S35].
+- Cast **Charm Person** on the unconscious Elix (DC 16 Wis — failed) and interrogated him; **killed Elix with Shocking Grasp when the charm wore off** [S35]. Marked the roadside grave with a 30-second Minor Illusion crucifix.
+- For the HQ infiltration, cast **Invisibility (3rd lvl)** on PQNine and Baron, and disguised himself as Grinky Brithwort (loosely tied as a prisoner being brought back) [S35].

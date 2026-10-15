@@ -40,7 +40,7 @@ def parse(path):
             elif cur and l.strip(): buf.append(l.strip())
         if cur: turns.append((cur,' '.join(buf)))
     else:
-        cur=None;buf=[]; HDR=re.compile(r'^(.+?)\s{2,}\d+:\d+\s*$')
+        cur=None;buf=[]; HDR=re.compile(r"^(.+?)\s{2,}\d+:\d+(:\d+)?\s*$")
         for l in t.split('\n'):
             s=l.strip()
             if not s: continue
