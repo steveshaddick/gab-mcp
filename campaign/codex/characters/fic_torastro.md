@@ -24,3 +24,20 @@
 - **Held on to the onyx box** when Fizzlewidget came through a dimension door and grabbed for it [S29]. Joined the attack on Fizzlewidget [S31].
 - His horse got stuck in the workshop, then was extracted [S31].
 - Called to Halda in the ambush, "you needn't do this, we're on the same side" [S32]. Then championed the **Constantori portrait heist**: "I want to make a name for myself… big and bold." He has theatrical plans for the swap [S32].
+
+
+## Sessions 33–35
+- Shadow Strider training deferred: Full Hammer told the party Tribor is too small; need a bigger city [S33].
+- Cast Fire Bolt to set the floating white piano on fire [S33].
+- Tipped Haravin Dar Dragon 1 gp at breakfast and spent ~1 gp 10 sp on Dar Dragon Deluxe burritos and drinks at the Harvest Inn [S34]. Eyeing *A Proper Elven Courtship* (60 gp) in Haravin's back room.
+- Guarded the hayloft doorway with his rapier during Tordrug's interrogation of Grinky [S34]. Confirmed he has heard of the Agile Hand and wants to "make a splash" with them someday, but is not a member and has no card to flash.
+- Bought rounds for the whole Tipsy Tankard (24 patrons at ~6 sp per round, extra silver for the keep) while pouring his own beer out to stay sober [S35].
+- Yelled "Gabby's bolted" when Elix spooked and ran [S35]. Landed the deciding rapier sneak attack ("Rapier Sploon") and chose to knock Elix unconscious rather than kill.
+- **Now wears Elix's heavy brass 3-tooth master key** to the Agile Hand HQ on a leather cord around his neck. Took one of Elix's daggers. **+4 gp 1 sp** from the Elix loot split [S35].
+- ⚠️ Jake flagged a "Resolute Hand Miss re-roll" counter on his sheet he can't identify; chose to ignore for now.
+
+
+## Sessions 33–35 (continued — updated after full-transcript re-ingest)
+- At Tribor, bought the adjacent table at Northfield drinks + food to pump them for info; learned about Carl and Haravin at the Harvest Inn in Westbridge [S33].
+- Confirmed his **Cloak of Elvenkind** is attuned; put the hood up for the HQ infiltration [S35].
+- At the Tower Peak alcove, spoke to the gold-framed sentient portrait when it asked "What are you doing here?" — Fic answered "Admiring a great work of art." The portrait was not flattered and started screaming [S35].

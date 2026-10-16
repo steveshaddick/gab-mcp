@@ -1,14 +1,44 @@
 # Open Threads
 
-> Living file. Updated through **Session 32** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
+> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
 
 ## Active
 
-### 🖼️ Constantori's portrait — *next job (party's choice)*
-Halda's sealed orders say the portrait has resurfaced and the **Cognoscenti Esoterica** want it "to possess" its corruption. Her map circles **Westbridge** (south of Tribor, where the Long Road meets the Stone Trail) with the note "Haravin?" [S32]. Constantori was a courtier rumored to be the most beautiful man alive, and the portrait may be occult or haunted. Stealing it would make the party's name. Fic wants a big public splash: swap in a portrait of Halda in a red robe, or hang a Getaround Boys portrait in its place [S32].
+### 🖼️ Constantori's portrait — *active contract, 2,000 gp*
+Hired by **Idrissa Caramorte** of the Cognoscenti Esoterica — the group that owned the portrait before the **Agile Hand** thieves' guild stole it from one of their vaults, killing three guards in the process [S34]. 2,000 gp on safe return to Idrissa's barn south of Westbridge. The painting is sentient: it talks, is vain, remembers everything said in its presence, and is subservient to its holder; painted by **Deski Kwan** ⚠️ on commission from the late **Dayani Gristhorne** as an eavesdropping tool. Likely in **Guildmaster Dusk**'s tower quarters or the Agile Hand basement. The guild already has a buyer lined up — there is time pressure. Lead-lined bags from Halda are too small for it. Fic still wants a public splash with the swap-in idea. Halda's "Haravin?" question mark is resolved: Haravin Dar Dragon was the party's contact to Idrissa, not the owner [S34]. **Next session: the Agile Hand break-in.**
 
 ### ⚔️ Sister Halda Thorne — round 3?
 She ambushed the party in the Underdark and was stripped a second time [S32]. She's sworn to stop them from taking cursed artifacts and wants revenge on Hairy. Left alive and humiliated, she will be back. The Sisters of the Vale are also still hunting the party [S15].
+
+### 🗝️ Agile Hand headquarters — **the break-in is live**
+Party is inside, disguised and buffed (Invisibility on PQNine/Baron, Pass Without Trace on all, Fic's Cloak of Elvenkind, Hairy-as-Elix, Tordrug-as-Grinky). Already cleared: front office (G10, took coin box + 2 wall-hook keys), receiving/goods room (G12, skipped the earth-encrusted coffin ⚠️), shared bedroom (quietly closed on 2 sleeping members), quartermaster office (took the guild ledger, intimidated the guard outside). Currently in Guildmaster Dusk's round tower bedroom (2nd floor) + the Tower Peak above it [S35]. The portrait was in the Tower Peak — Grinky's floor-plan missed the up-stair. **The portrait is now screaming "Help, help, help!" and the HQ is going hot.**
+
+### 🖼️ The screaming portrait
+**Constantori's Portrait** is sentient, speaks, and reacted to intruders by screaming for help. Its eyes track viewers. Fic and Baron are in the alcove with it; Hairy's plan is to grab it and shove it into a bag of holding to shut it up. ⚠️ The DM paused the session to statblock it. ⚠️ Lead-lined bags from Halda are too small for it. Containment and transport are both unsolved.
+
+### 💤 Guildmaster Dusk is awake
+Dusk (female, confirmed) and her lover **"Dawn"** ⚠️ were asleep in the round bedroom when the portrait screamed. Dusk woke and called out "Helix, what's going on?" to Hairy-as-Elix. A guard is knocking at the bedroom window and another at the door. Initiative was being rolled when the session cut. Dusk is an assassin with a side career in extortion and blackmail.
+
+### 💍 Elix's wife
+Elix was wearing a cheap brass wedding ring when the party killed him and buried him in the woods [S35]. Hairy took the ring. Someone — his wife, the younger Tipsy Tankard bartender who fancied him, or the Agile Hand — will eventually notice he never came home.
+
+### 🔪 Guildmaster Dusk — the only one who knows
+Assassin with a side career in extortion and blackmail; the Agile Hand's leader and the one person who knows where in the HQ Constantori's Portrait is actually stashed; also acts as the guild's fence [S34–S35]. Lives in the tower (2nd floor). Not yet seen. Confronting her is probably unavoidable.
+
+### 📨 Jimmy Two Pouch — leaked, or coerced?
+Idrissa's gnome courier for her hire-letter to the party; the Sisters of the Vale (Sister Halda) intercepted the message instead. Idrissa concedes he may have been coerced rather than disloyal [S34]. ⚠️ Unresolved.
+
+### 📜 "I know what you did"
+Anonymous note delivered to Tordrug on the river via a toothless peasant woman in a corked bottle [S33]. Sender unknown. Target unknown. Hairy Mage-Handed the woman into the river, so no follow-up questions were asked.
+
+### 🚨 Tribor warrant / caravan-yard brawl
+Hairy knocked the Tribor Travelers clerk unconscious with Chill Touch after a 5 gp "bribe" went sideways; PQNine dropped a guard with unarmed strikes; the bailiff was raising a posse as the party rode out [S34]. Party is at minimum **wanted / unwelcome in Tribor** going forward.
+
+### 🧐 Haravin Dar Dragon — the burrito-watcher
+Tordrug blew an insight check on Haravin's unsettling fixation with watching people eat his hot-sauce burritos and came away rating him highly ⚠️ [S34]. Haravin also keeps a back-room painting collection and fences "rarer pieces" through unnamed contacts. Opportunity, risk, or both.
+
+### 🦁 The Lion Shield Coster franchising in
+Yartar-based trading company has franchised The Lion's Share in Tribor [S33]. May be a wider pattern worth watching.
 
 ### 🍖 The escaped cannibals of Little Lockford
 The party freed two men jailed for murdering and eating gnome children; the abbot had warned them [S27–S28]. The murderers are at large ("Slong and Music"? sp). Little Lockford hates the party, and a grieving father in particular [S31–S32].
