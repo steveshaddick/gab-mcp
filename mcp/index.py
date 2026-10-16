@@ -13,6 +13,7 @@ DB_PATH = Path(os.environ.get("CAMPAIGN_DB", "./campaign.db")).resolve()
 SOURCES = {
     "summary": ("summaries", ".md"),
     "codex": ("codex", ".md"),
+    "characters": ("characters", ".md"),
     "transcript": ("transcripts", ".txt"),
 }
 
@@ -31,7 +32,7 @@ def files():
 
 
 def session_of(kind, path):
-    if kind == "codex":
+    if kind in ("codex", "characters"):
         return ""
     m = re.search(r"(\d+)", path.stem)
     return str(int(m.group(1))) if m else ""
