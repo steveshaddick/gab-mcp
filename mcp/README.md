@@ -48,6 +48,28 @@ The index rebuilds automatically when any file is added, removed, or changed.
 - Revoke a player by removing their token from `CAMPAIGN_TOKENS` and restarting.
 - Keep the repo pull (or file sync) on a cron so new sessions appear without a restart.
 
+### Updating the index on the server
+
+After updating campaign files:
+
+1. Switch to the gab user:
+   ```bash
+   sudo su - gab
+   ```
+
+2. Rebuild the index:
+   ```bash
+   cd /path/to/gab-mcp
+   CAMPAIGN_DIR=./campaign python3 mcp/index.py
+   ```
+
+3. Restart the server to load the new index:
+   ```bash
+   sudo systemctl restart gab-mcp
+   ```
+
+This ensures a clean state and the server uses the updated campaign data on next search.
+
 ## Test locally
 
 `npx @modelcontextprotocol/inspector` and point it at `http://127.0.0.1:8000/mcp`
