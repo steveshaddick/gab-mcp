@@ -1,6 +1,6 @@
 # NPCs
 
-> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
+> Living file. Updated through **Session 36** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
 > Spellings follow the DM where known; transcript mishearings noted with *(sp?)*.
 > Status: 🟢 alive / friendly · 🟡 neutral or unknown · 🔴 hostile · ⚫ dead
 
@@ -88,7 +88,7 @@
 
 **Grink "Grinky" Brithwort** 🟡 — Scrawny, patchy-bearded, sweating human; junior Agile Hand thief; 10 years with the guild and still bottom of the ladder. Caught during the Cognoscenti vault theft after his crew shoved him into the pursuing guards. **Charmed by Tordrug** (Charm Person, DC 16 Wis save — failed) and ratted out two inked maps: a route to the Agile Hand HQ, and a floor-plan of it [S34]. Kept bound at Idrissa's barn under her guard; she will release him alive after the job is done.
 
-**Guildmaster Dusk** 🔴 — Leader of the Agile Hand thieves' guild; an assassin with a side career in extortion and blackmail. **Female, confirmed [S35].** Lives in a round tower bedroom (2nd floor) with a canopied bed and two staircases hugging the walls — one down, one up to the previously-unmapped **Tower Peak** where she keeps **Constantori's Portrait** herself [S35]. Sleeps with a lover she calls **"Dawn"** ⚠️ (may be a pet name) [S35]. Mantle: soap, brush, clay pipe, ivory skull-shaped tobacco jar. Leather trunk at foot of bed holds a crossbow under linens. Also acts as the guild's fence [S34–S35]. **Woke mid-session on the portrait's alarm;** called out "Helix, what's going on?" when the party was in her bedroom. ⚠️ So Elix may have lied under charm about not knowing where the portrait was — or he genuinely didn't, and Dusk kept it off the floor-plan.
+**Guildmaster Dusk** ⚫ — Leader of the Agile Hand thieves' guild; an assassin with a side career in extortion and blackmail. **Female, confirmed [S35].** Lives in a round tower bedroom (2nd floor) with a canopied bed and two staircases hugging the walls — one down, one up to the previously-unmapped **Tower Peak** where she keeps **Constantori's Portrait** herself [S35]. Sleeps with a lover she calls **"Dawn"** ⚠️ (may be a pet name) [S35]. Mantle: soap, brush, clay pipe, ivory skull-shaped tobacco jar. Leather trunk at foot of bed holds a crossbow under linens. Also acts as the guild's fence [S34–S35]. **Woke mid-session on the portrait's alarm;** called out "Helix, what's going on?" when the party was in her bedroom [S35]. **Killed in S36:** charged up the staircase after the party pulled the portrait off the wall and triggered the gas trap; crit Hairy unconscious with her short swords; Baron's second Hunter's-Marked arrow dropped her. Hairy looted her two short swords and stashed her body under the writing desk. ⚠️ So Elix may have lied under charm about not knowing where the portrait was — or he genuinely didn't, and Dusk kept it off the floor-plan.
 
 **Elix the Saint** ⚫ — Human; one of Guildmaster Dusk's lieutenants in the Agile Hand. Picked onions out of his supper, carried the guild master key on a leather cord. Walked nightly from the HQ to the Tipsy Tankard to flirt with the younger bartender [S34]. **Captured** on a dark country road outside the Tipsy Tankard after he spooked and bolted; dropped by Baron's arrow, grappled by PQNine, hit with twin Shocking Grasps and a rapier sneak attack, knocked unconscious and tied up [S35]. Charmed by Tordrug; confirmed the brass key is the HQ master key, that there is no vault, and that Dusk's office holds the fenced goods; said he didn't know which room the portrait was in. **Killed by Tordrug with Shocking Grasp when the charm ended**; buried in the woods further down the road with PQNine's new pewter mug and a Minor Illusion crucifix [S35]. ⚠️ Was wearing a cheap brass wedding ring (Hairy kept it) — a wife may come looking.
 
@@ -99,6 +99,8 @@
 **Deski Kwan** ⚫? ⚠️ — Artist who painted Constantori's Portrait on commission from Dayani Gristhorne. Only the "Kwan" ending was confirmed by the DM; full spelling unverified [S34]. Status (deceased, retired, etc.) unclear.
 
 **Dayani Gristhorne** ⚫ — Late grand dame of the criminal underworld who commissioned Constantori's Portrait specifically as a sentient eavesdropping tool to plant in a rival's parlor [S34].
+
+**Constantori (the portrait)** 🟡 — Sentient gold-framed portrait of "the most beautiful man in the world," ~683 years old, human. Perfect recall of every conversation he's ever heard; haughty, rude, insult-prone (greeted Fic as "a rat that learned to use tools," Hairy as "an owl bear coughed you up," Tordrug as "a bookmark with delusions of grandeur"). **Recovered from the Agile Hand HQ Tower Peak in S36** and **attuned to PQNine as a magic item** [S36]. Attunement perks: true sight; one-way telepathic link to PQNine (PQNine thinks, Constantori answers); can be told to "guard" a hallway or room. Leaks lore when asked (and sometimes when not) — see open threads for Idrissa's agenda, the secret orphanage, the second screaming portrait, the Elix-office loot, and the Elix-the-Saint nickname backstory. **Fic and Hairy want to burn him; PQNine won't let him go.** Was in Lord Hallebrand's presence "when he was a young soldier" ⚠️ (S36 cuts mid-reveal; DM paused to check notes).
 
 ## Tribor (added S33–S34)
 
@@ -129,7 +131,7 @@
 
 ## Agile Hand HQ — internal roster (added S35)
 
-**"Dawn"** 🟡 ⚠️ — Guildmaster Dusk's bedmate; found sleeping with Dusk in the round tower bedroom. Name learned only via Dusk's sleep-murmur "Goodnight, Dawn. Love you." — ⚠️ may be a pet name rather than a real name [S35].
+**"Dawn"** (Dusk's noble lover) 🟡 — Scantily-clad man found sleeping with Dusk in the round tower bedroom; name from Dusk's S35 sleep-murmur "Goodnight, Dawn. Love you." **Played as male in S36** — climbed back into bed during the fight, lit his pipe, blew smoke rings, shrugged off Tordrug's Charm Person (saved, or genuinely indifferent ⚠️), and **had vanished from the bedroom by the time the party left** [S35–S36]. Loose witness in the wild who saw "Grinky" and "Elix" in Dusk's bedroom. ⚠️ Whether "Dawn" is his name or still a pet name is unresolved.
 
 **Agile Hand balcony lookout** 🟡 — Hailed "Elix, is that you?" when the disguised party approached the HQ; Hairy-as-Elix bluffed past him with the "I'm bringing Grinky back" line [S35].
 

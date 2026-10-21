@@ -49,3 +49,11 @@ Fire Bolt, disguise/illusion magic. Shares the Wand of Magic Missiles with Hairy
 - In the Elix chase, hit with **Shocking Grasp**; took Elix's other dagger [S35].
 - Cast **Charm Person** on the unconscious Elix (DC 16 Wis — failed) and interrogated him; **killed Elix with Shocking Grasp when the charm wore off** [S35]. Marked the roadside grave with a 30-second Minor Illusion crucifix.
 - For the HQ infiltration, cast **Invisibility (3rd lvl)** on PQNine and Baron, and disguised himself as Grinky Brithwort (loosely tied as a prisoner being brought back) [S35].
+
+
+## Session 36
+- Bluffed the knocking Agile Hand guard outside the quartermaster office with "Boss says keep everybody out" — Persuasion 13 [S36].
+- Cast **Charm Person** on Dusk's noble lover during the Tower Peak fight — he was unmoved either way, climbed back into bed and lit his pipe ⚠️ [S36].
+- Ran upstairs performatively yelling "Enix! What happened to Enix?!" and poured a healing potion down the unconscious Hairy's throat.
+- Used **Arcane Recovery** during the forest short rest.
+- Won a grudging compliment from Constantori after conjuring a Minor Illusion duplicate of the painting [S36].

@@ -1,6 +1,6 @@
 # Locations
 
-> Living file. Updated through **Session 35**.
+> Living file. Updated through **Session 36**.
 
 ## Waterdeep & surroundings
 
@@ -84,7 +84,9 @@ Islands **suspended over a lake of fire**, linked by retractable bridges and a m
   - **Guildmaster's round bedroom (tower, 2nd floor)** — canopied bed with Dusk and her lover "Dawn" ⚠️; mantle items (soap, brush, clay pipe, ivory skull-shaped tobacco jar); leather trunk at the foot of the bed (crossbow under linens); **two staircases hugging the walls — one down, one up to the Tower Peak** (the up-stair was NOT on Grinky's map).
   - **Tower Peak** — above the Guildmaster's bedroom; pewter chandelier, conical roof, cluttered writing desk, padded chair. **Holds Constantori's Portrait** in a shallow alcove near the stairhead. The portrait's eyes track viewers; it talks; it screams for help [S35].
   - **Basement** — recruit training + stores + rearranging traps course per Elix (contradicts Grinky's "secret outside door" claim) ⚠️ [S35]. Not yet visited.
+  - **Status after S36:** party raided through, took the portrait, killed Dusk and stashed her body under the writing desk, left the trap schematics behind, and walked out past the hallway guard in a red Agile Hand cloak. Dusk's lover escaped and may raise an alarm. ⚠️ Elix's office (G12) still holds unclaimed loot: 2× 1,000 gp spyglasses in a straw-packed crate and a coffin priest with a gold sun-shaped death mask [S36].
 - **The Tipsy Tankard** — Busy roadside tavern in a small hamlet about 45 min walk from the Agile Hand HQ; "medieval truck stop" feel, big hearth, two bartenders, wagon drivers out front, dark country roads behind. Elix the Saint's regular evening haunt before S35 [S35].
+- **Forest campsite outside the Agile Hand hamlet** — Where the party short-rested and long-rested after the break-in; Baron used Natural Explorer to cover tracks. Dawn watch is where PQNine attuned to Constantori [S36].
 
 ## Referenced but not visited
 
