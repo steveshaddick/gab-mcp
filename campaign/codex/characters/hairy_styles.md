@@ -54,3 +54,12 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - Looted the HQ front office coin box (15 cp + 11 sp; split 2 sp per party member, kept the copper) and two of the three wall-hook keys [S35].
 - At the quartermaster office, **Persuaded (with advantage)** the guard with the "trouble at the Tankard, place shut early" cover; **failed** to get him to leave his post; then **Intimidated (18)** him into standing down outside and shut the door on him. **Took the Agile Hand guild ledger** (Hairy carries it) [S35].
 - Kept Elix's **cheap brass wedding ring** and the **worn wooden Saint figurine** from the burial [S35]. ⚠️ Both carry sentimental weight; the ring implies a wife.
+
+
+## Session 36
+- Pulled Constantori's Portrait off its hooks in the Tower Peak alcove and triggered the hidden **poison-gas trap** (DC 14 CON) — took 16 (half) [S36]. Then stuffed the portrait into the party's password Bag of Holding in one action.
+- Burned 2 sorcery points to **Quicken Chill Touch** on Dusk for 16 necrotic.
+- **Crit by Dusk's short sword for 21 — went to 0 HP;** stabilized by Tordrug's forced potion. DM ruled his Elix Disguise Self stayed up through unconsciousness (not concentration).
+- After Baron killed Dusk, Hairy **kicked her corpse** and looted her **two short swords** [S36]. Stashed her body under her writing desk.
+- Cast **Disguise Self on Fic** to disguise him as Elix the Saint for the walkout. Pulled a red Agile Hand cloak out of the Bag of Holding to cover his own thin disguise and bluffed the hallway guard out.
+- Burned 2 hit dice on the forest short rest.

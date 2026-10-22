@@ -2,6 +2,17 @@
 
 One entry per ingest: what changed in the codex. Newest first.
 
+## 2026-10-21 — Session 36
+
+- **Added:** `summaries/Session_036_20261020.md`.
+- **Normalizer:** no changes; the HH:MM:SS fix from the 2026-10-15 entry handled S36 cleanly (1,227 lines, longest line 741 chars).
+- **NPCs added or updated:** **Constantori** promoted from "sentient painting" to full NPC — now a sentient magic item **attuned to PQNine**, with true sight, one-way telepathic link, and a "guard a room" command. **Guildmaster Dusk** marked ⚫ dead (killed by Baron's Hunter-Marked arrow after critting Hairy unconscious). **"Dawn"** updated — played as male this session, saw "Grinky" and "Elix" in Dusk's bedroom, escaped before the party left; whether "Dawn" is his real name or still a pet name remains ⚠️.
+- **Loot:** +Constantori's Portrait (in Bag of Holding, PQNine attuned, mission payload for Idrissa — 2,000 gp pending); +2× short sword (Hairy, off Dusk). Known-but-not-grabbed in Elix's office G12: 2× 1,000 gp spyglasses in a straw crate and a coffin priest with a gold sun-shaped death mask.
+- **Threads opened:** Constantori's three Idrissa leaks (she wants to question him off the orders; she commissioned a second screaming portrait rumored to hold a man's soul; she's secretly funding an orphanage with Cognoscenti / guild money); the escaped noble lover; the Lord Hallebrand × Constantori link ("in Hallebrand's presence when he was a young soldier"); the Elix-office loot as a possible re-heist.
+- **Threads closed / moved to Resolved:** Agile Hand HQ break-in; Guildmaster Dusk; the screaming-portrait alarm (recovered + silenced in Bag of Holding); the "which room is the portrait in" question (Tower Peak alcove, behind the gas trap).
+- **Threads advanced:** Elix "the Saint" nickname explained — he was the only Agile Hand thief who didn't skim [S36 confirms]; the Constantori 2,000 gp contract is now a "deliver or keep?" decision for the table.
+- **Needs confirmation:** correct archive spelling of Hallebrand (DM paused to check his own notes; S36 transcript consistently heard "Hallibrand"); whether "Dawn" is the noble lover's name or a pet name; the exact rules reading on Dusk's lover vs. Charm Person (saved or just didn't care); the identity of whoever Idrissa believes Constantori saw "disappear"; whether the coffin priest with the gold sun death mask is tied to any established faction.
+
 ## 2026-10-15 — Normalizer bugfix + S33–S35 full re-ingest
 
 Jake noticed each of the three S33–S35 summaries only covered the first ~half of its session. **Root cause:** `skill/getaround-archivist/tools/normalize_transcript.py`'s HDR regex matched only `MM:SS` timestamps and silently rejected `H:MM:SS` ones. Teams switches from `MM:SS` to `H:MM:SS` at the 1-hour mark, so every speaker header past that point was treated as a text line of the previous speaker's turn. The entire back half of each session collapsed into a single trailing mega-line (40K, 55K and 69K characters for S33/S34/S35 respectively).

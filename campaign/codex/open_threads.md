@@ -1,6 +1,6 @@
 # Open Threads
 
-> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
+> Living file. Updated through **Session 36** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
 
 ## Active
 
@@ -10,20 +10,30 @@ Hired by **Idrissa Caramorte** of the Cognoscenti Esoterica — the group that o
 ### ⚔️ Sister Halda Thorne — round 3?
 She ambushed the party in the Underdark and was stripped a second time [S32]. She's sworn to stop them from taking cursed artifacts and wants revenge on Hairy. Left alive and humiliated, she will be back. The Sisters of the Vale are also still hunting the party [S15].
 
-### 🗝️ Agile Hand headquarters — **the break-in is live**
-Party is inside, disguised and buffed (Invisibility on PQNine/Baron, Pass Without Trace on all, Fic's Cloak of Elvenkind, Hairy-as-Elix, Tordrug-as-Grinky). Already cleared: front office (G10, took coin box + 2 wall-hook keys), receiving/goods room (G12, skipped the earth-encrusted coffin ⚠️), shared bedroom (quietly closed on 2 sleeping members), quartermaster office (took the guild ledger, intimidated the guard outside). Currently in Guildmaster Dusk's round tower bedroom (2nd floor) + the Tower Peak above it [S35]. The portrait was in the Tower Peak — Grinky's floor-plan missed the up-stair. **The portrait is now screaming "Help, help, help!" and the HQ is going hot.**
+### 🖼️ Constantori — delivery or keep? [S34–S36]
+Portrait recovered from the Agile Hand HQ Tower Peak and **attuned to PQNine as a magic item** [S36]. Idrissa Caramorte still owes 2,000 gp on delivery to her barn, but **Constantori has told PQNine she wants to question him off the books first** about witnessing someone's disappearance. PQNine insists on keeping the painting; **Hairy and Fic want to burn him** when he gets too insulting; the group has not decided. ⚠️ Delivering him lets Idrissa interrogate him with knowledge the party does not have; keeping him breaks the contract and leaves 2,000 gp on the table.
 
-### 🖼️ The screaming portrait
-**Constantori's Portrait** is sentient, speaks, and reacted to intruders by screaming for help. Its eyes track viewers. Fic and Baron are in the alcove with it; Hairy's plan is to grab it and shove it into a bag of holding to shut it up. ⚠️ The DM paused the session to statblock it. ⚠️ Lead-lined bags from Halda are too small for it. Containment and transport are both unsolved.
+### 💰 Elix's office — the loot the party left behind
+Per Constantori, Elix's office (the HQ receiving/goods room G12, which the party walked through and skipped in S35) holds **a wooden crate of straw packing with 2× spyglasses worth 1,000 gp each** and **a coffin containing a priest body wearing a holy symbol and a gold sun-shaped death mask** [S36]. A possible return heist, now that Dusk is dead and the HQ is leaderless.
 
-### 💤 Guildmaster Dusk is awake
-Dusk (female, confirmed) and her lover **"Dawn"** ⚠️ were asleep in the round bedroom when the portrait screamed. Dusk woke and called out "Helix, what's going on?" to Hairy-as-Elix. A guard is knocking at the bedroom window and another at the door. Initiative was being rolled when the session cut. Dusk is an assassin with a side career in extortion and blackmail.
+### 🏃 "Dawn" — the noble lover who got away
+Scantily-clad man found sleeping with Dusk; played as male in S36. Smoked a pipe through the whole fight, shrugged off Charm Person, and had vanished from the bedroom by the time the party left [S36]. He saw "Grinky" and "Elix" in Dusk's room during the raid. ⚠️ Who he is, where he went, and whether "Dawn" is his name or still a pet name are all open.
 
 ### 💍 Elix's wife
 Elix was wearing a cheap brass wedding ring when the party killed him and buried him in the woods [S35]. Hairy took the ring. Someone — his wife, the younger Tipsy Tankard bartender who fancied him, or the Agile Hand — will eventually notice he never came home.
 
 ### 🔪 Guildmaster Dusk — the only one who knows
 Assassin with a side career in extortion and blackmail; the Agile Hand's leader and the one person who knows where in the HQ Constantori's Portrait is actually stashed; also acts as the guild's fence [S34–S35]. Lives in the tower (2nd floor). Not yet seen. Confronting her is probably unavoidable.
+
+### 👁️ Constantori's leaks about Idrissa [S36]
+Three big ones, all from the one-way telepathic link PQNine now has:
+- Idrissa wants to **question him off the orders** — she believes he witnessed someone's disappearance ⚠️ (who?).
+- She **once commissioned a second screaming portrait** rumored to **hold a man's soul** ⚠️.
+- She is **secretly funding an orphanage with Cognoscenti / guild money** ⚠️.
+Collectively this reshapes who Idrissa is (and whether 2,000 gp is a fair deal). The party doesn't yet know Constantori has told them any of this.
+
+### 🐻 Lord Hallebrand × Constantori [S36]
+Constantori was **"in Hallebrand's presence when he was a young soldier"** — an entirely new angle on the Duke Hallebrand thread. ⚠️ Session cut as the DM paused to check his own Hallebrand notes; more intel incoming. Spelling tracked locally as "Hallebrand"; S36 transcript consistently heard "Hallibrand" and the DM flagged the archive spelling needing confirmation.
 
 ### 📨 Jimmy Two Pouch — leaked, or coerced?
 Idrissa's gnome courier for her hire-letter to the party; the Sisters of the Vale (Sister Halda) intercepted the message instead. Idrissa concedes he may have been coerced rather than disloyal [S34]. ⚠️ Unresolved.
@@ -103,3 +113,6 @@ Museum basement gems and cooked books [S1–S2]; the Marvin the Magnificent leve
 - **Little Lockford automatons** — the gear was destroyed and Fizzlewidget subdued. The party was paid, grudgingly, and driven out of town [S29–S32].
 - **PQNine's missing memory** — it was Fizzlewidget, his old partner [S29].
 - **Prisoner 13 job** — vault-key tattoo copied and delivered to Varen [S19–S20].
+- **Agile Hand HQ break-in** — successful. Party disguised in, retrieved Constantori's Portrait from the Tower Peak, killed Guildmaster Dusk, and walked out past the hallway guard in a red Agile Hand cloak [S35–S36].
+- **Guildmaster Dusk** — killed by Baron's Hunter-Marked arrow after critting Hairy unconscious [S36]. Dusk's two short swords claimed by Hairy; body stashed under her writing desk.
+- **Elix the Saint** — ambushed and taken alive on the Tipsy Tankard road, charmed, interrogated, and killed by Tordrug with Shocking Grasp when the charm wore off; buried roadside with PQNine's pewter mug [S35]. Nickname explained: he was the only Agile Hand thief who didn't skim [S36].

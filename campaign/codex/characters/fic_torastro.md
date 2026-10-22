@@ -41,3 +41,10 @@
 - At Tribor, bought the adjacent table at Northfield drinks + food to pump them for info; learned about Carl and Haravin at the Harvest Inn in Westbridge [S33].
 - Confirmed his **Cloak of Elvenkind** is attuned; put the hood up for the HQ infiltration [S35].
 - At the Tower Peak alcove, spoke to the gold-framed sentient portrait when it asked "What are you doing here?" — Fic answered "Admiring a great work of art." The portrait was not flattered and started screaming [S35].
+
+
+## Session 36
+- Saved vs. the Tower Peak poison-gas trap (no damage) [S36]. Sneak-attacked Dusk with his rapier (hidden under Cloak of Elvenkind — DM ruled advantage because she never actively perceived him); 11 damage. Second rapier swing retconned — the bonus action had already gone to a 2d4+2 potion (+12 HP).
+- Walked out of the HQ in Hairy's Disguise Self as Elix the Saint, under a stolen red Agile Hand cloak [S36].
+- Mid-forest-camp, asked Constantori about Lord Hallebrand — the painting confirmed he was in Hallebrand's presence "when he was a young soldier." Session cut on that reveal while the DM looked up his notes [S36].
+- Still openly considering burning the portrait "to make a name" for the Get Around Boys ⚠️.

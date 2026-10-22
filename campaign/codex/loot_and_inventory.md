@@ -1,6 +1,6 @@
 # Loot & Inventory
 
-> Living file. Updated through **Session 35** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
+> Living file. Updated through **Session 36** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
 > ⚠️ = holder or status uncertain; confirm at the table.
 
 ## Magic & significant items
@@ -41,6 +41,8 @@
 | Tipsy Tankard pewter mug (hat-and-apple stamp) | Buried with Elix | Tipsy Tankard, Tribor-area hamlet [S35] | PQNine bought for 1 gp on exit; buried it with Elix in the roadside grave. |
 | 2× Agile Hand key (iron, HQ wall-hook) | Party | HQ front office east wall [S35] | Two of three hooks taken; purpose ⚠️ (interior doors? other buildings?). |
 | Leather-bound Agile Hand guild ledger | Hairy | HQ quartermaster office desk [S35] | Contents ⚠️ — not yet read. |
+| **Constantori's Portrait** | In the password Bag of Holding (PQNine **attuned**) | Agile Hand HQ Tower Peak alcove [S36] | Sentient magic item. True sight; one-way telepathic link to PQNine; can be commanded to guard a hallway or room. 683 years old, rude, high-recall. Mission payload for Idrissa Caramorte — 2,000 gp on delivery. |
+| 2× Short sword | Hairy | Guildmaster Dusk's corpse [S36] | Dusk's weapons; stripped off her body in the Tower Peak. |
 
 ## Gone / no longer ours
 
@@ -97,3 +99,6 @@
 | S35 | Each party member **+4 gp 1 sp** | Elix loot split (18 gp 24 sp purse ÷ 5) |
 | S35 | Each party member **+2 sp** (Hairy +15 cp extra) | Agile Hand HQ front-office coin box |
 | S35 | PQNine −1 gp | Tipsy Tankard pewter mug (buried with Elix) |
+| S36 | +Constantori's Portrait (mission payload) | Agile Hand HQ Tower Peak |
+| S36 | +2× short sword (Hairy) | Looted off Dusk |
+| S36 | Pending **+2,000 gp** on delivery of the portrait | Still owed by Idrissa |

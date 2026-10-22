@@ -49,3 +49,10 @@
 - In the Elix chase, grappled/pinned him; took ~18 damage from Elix's scimitar + dagger; **drank a healing potion (2d4+2 = 7 HP)** during the planning rest [S35].
 - Said a prayer and **buried Elix** in the woods further down the road, placing his newly-bought **Tipsy Tankard pewter mug** in the grave [S35].
 - For the HQ infiltration, took the invisibility from Tordrug; lent Baron his **"invisible hat"** (⚠️ item identity unclear — a separate magic hat?) [S35].
+
+
+## Session 36
+- Readied an invisible trip for anyone running up the stairs; slipped past Dusk on the Tower Peak stair on a DEX check [S36].
+- On second watch in the forest camp, **lured Tordrug off to "fan out," then quietly took Constantori's Portrait out of the Bag of Holding** (he knows the password) [S36].
+- **Attuned to Constantori as a magic item** after being insulted into it. Attunement perks: **true sight**, **one-way telepathic link** to the painting (PQNine thinks, Constantori answers), and the ability to **command the painting to "guard" a hallway or room**.
+- Has made keeping Constantori his personal cause; Hairy and Fic have joked about burning him more than once [S36].

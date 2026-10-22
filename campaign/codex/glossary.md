@@ -57,3 +57,11 @@ Elix: Enix, Helix, Alex, Elex, "E-licks", Lixa, Elixir
 Jordan Hale: Joran
 Haravin: Hairvindar, Herovindar, Harrow, Harbin, Aravin, Aaron, "Hair of it"
 Northfield: North Shield House, Northern Shield House
+
+## Added S36
+Constantori: Cognosori, Constantory, Cognostori
+PQNine (continued): Kwabney, Quafni, Aquapi, Quopney, Quad
+Elix: Enox
+Tordrug: Tora Drug, Tordurig, Tar Dor, Toy, Tor Drunk
+Idrissa: Trissa, Dresser, Edrissa
+Hallebrand: Hallibrand, Hello Brand, Hallo Brand, Halleprand (⚠️ DM flagged archive spelling needs confirmation — tracked locally as Hallebrand)

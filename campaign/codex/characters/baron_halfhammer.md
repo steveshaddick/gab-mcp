@@ -38,3 +38,10 @@
 - Opened the Elix takedown with an 18-damage ranged bow shot (held a Horde Breaker — never fired) [S35].
 - For the HQ infiltration, cast **Pass Without Trace** on the party (+10 Stealth, 1 hour); wears PQNine's "invisible hat" [S35].
 - Climbed to the Tower Peak with Fic; tried to grab writings from the desk once the portrait started screaming and the alarm went up [S35].
+
+
+## Session 36
+- Invisibly ransacked Dusk's writing desk in the Tower Peak and found **trap schematics** — decided they weren't worth taking; the gas trap behind the portrait went off a moment later [S36].
+- **Took the full 33 damage** from the Tower Peak poison-gas trap (DC 14 CON — fail). Drank a healing potion while still invisible.
+- Broke invisibility to shoot Dusk — first bow hit 11 damage; set **Hunter's Mark**; **second volley dropped her** [S36].
+- First watch at the forest camp (uneventful). Used **Natural Explorer (forest)** to cover the party's tracks leaving the HQ hamlet.
