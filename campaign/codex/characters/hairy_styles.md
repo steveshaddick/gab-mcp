@@ -63,3 +63,13 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - After Baron killed Dusk, Hairy **kicked her corpse** and looted her **two short swords** [S36]. Stashed her body under her writing desk.
 - Cast **Disguise Self on Fic** to disguise him as Elix the Saint for the walkout. Pulled a red Agile Hand cloak out of the Bag of Holding to cover his own thin disguise and bluffed the hallway guard out.
 - Burned 2 hit dice on the forest short rest.
+
+
+## Session 37
+- Floated impersonating Elix to take over the Agile Hand guild (shelved) [S37].
+- Threatened to pee on Constantori while PQNine was carrying him strapped to his back.
+- Clutch **insight + persuasion** (nat 25) at the Harvest Inn walked Haravin back from 90 gp to the original 60 gp + 2 gp on *A Proper Elven Courtship* for Fic.
+- Arm-wrestled his way around the common room all evening, backhandedly insulting ("nice hat") anyone who refused. Won against **Mabel Axelthorn** (Athletics 19) by a narrower margin than expected and bought her five beers.
+- Commissioned a **6"×6"×6" granite block** from Mabel for **8 cp**; privately plans to pay her **8 gp** (a bag of coins) instead. Delivery sunrise +2 at the Harvest Inn.
+- Learned Mabel has a daughter in the Sisters of the Vale ⚠️ — possibly Sister Halda.
+- **+500 gp** share of the Idrissa payout.

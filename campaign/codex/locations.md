@@ -1,6 +1,6 @@
 # Locations
 
-> Living file. Updated through **Session 36**.
+> Living file. Updated through **Session 37**.
 
 ## Waterdeep & surroundings
 
@@ -92,3 +92,12 @@ Islands **suspended over a lake of fire**, linked by retractable bridges and a m
 
 - **Yartar** — Home city of the Lion Shield Coster, the trading company franchising into Tribor shops [S33].
 - **Red Larch** — The next town south of Westbridge on the Long Road [S34].
+
+
+## The Long Road & Waterdeep approach (added S37)
+
+- **The Long Road** — Main trade route between Westbridge and Waterdeep. Westbridge → Red Larch → Amphail → Waterdeep, "a couple of days" travel, well-patrolled, peaceful [S37].
+- **Red Larch** — Town of ~600 on the Long Road, named for the stand of red larch trees felled at founding; a source of quarried granite and ore (Mabel Axelthorn's old hauling route) [S37].
+- **Amphail** — Next town up the Long Road past Red Larch [S37].
+- **Hallebrand Family Chapel** (near Waterdeep) — Surface-level chapel of the Hallebrand family. Entry point to Lady Meredith's crypt [S37].
+- **Lady Meredith's Crypt** — Beneath the Hallebrand Family Chapel. Resting place of Lady Meredith Hallowbrand, who is buried wearing the Shard of Zeluin as a pendant. Target for the party; Lord Hallebrand is already financing an expedition to retrieve the Shard [S37].

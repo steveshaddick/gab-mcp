@@ -1,6 +1,6 @@
 # Open Threads
 
-> Living file. Updated through **Session 36** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
+> Living file. Updated through **Session 37** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
 
 ## Active
 
@@ -10,8 +10,17 @@ Hired by **Idrissa Caramorte** of the Cognoscenti Esoterica — the group that o
 ### ⚔️ Sister Halda Thorne — round 3?
 She ambushed the party in the Underdark and was stripped a second time [S32]. She's sworn to stop them from taking cursed artifacts and wants revenge on Hairy. Left alive and humiliated, she will be back. The Sisters of the Vale are also still hunting the party [S15].
 
-### 🖼️ Constantori — delivery or keep? [S34–S36]
-Portrait recovered from the Agile Hand HQ Tower Peak and **attuned to PQNine as a magic item** [S36]. Idrissa Caramorte still owes 2,000 gp on delivery to her barn, but **Constantori has told PQNine she wants to question him off the books first** about witnessing someone's disappearance. PQNine insists on keeping the painting; **Hairy and Fic want to burn him** when he gets too insulting; the group has not decided. ⚠️ Delivering him lets Idrissa interrogate him with knowledge the party does not have; keeping him breaks the contract and leaves 2,000 gp on the table.
+### 💎 The Shard of Zeluin — the big new job
+Constantori spilled this in S37 before delivery: his favorite former owner was **Lady Meredith Hallowbrand**, Lord Hallebrand's grandmother, who died wearing the **Shard of Zeluin** as a pendant specifically to keep it from her grandson. The Shard is an abyssal pendant that **feeds the demon Kale Vore, the Veiled Maw** on the misery it inflicts on its wielders and their enemies. **Lord Hallebrand is already financing an expedition to retrieve it** — the party plans to beat him to it. Target: **Lady Meredith's crypt beneath the Hallebrand Family Chapel near Waterdeep.** [S37]
+
+### ⚰️ Mabel Axelthorn's daughter — is it Sister Halda?
+Mabel is a widowed Red Larch quarry teamster whose one surviving daughter joined the **Order of the Vale / Sisters of the Vale**; she considers her daughter dead and calls the order "cultist fanatics" [S37]. Baron is explicitly banking the connection as leverage against Sister Halda. ⚠️ No confirmation yet that the daughter is Halda specifically.
+
+### 🏚️ Buying a Waterdeep base
+Party is discussing property in Waterdeep (the Delphi Mansion / old church quarter / the burnt-out South Ward) as a crew base — complicated by the fact that they are the ones who burned the South Ward [S37]. Open.
+
+### 📬 Idrissa's next job
+Idrissa hinted at another job coming for the party once they're in the Waterdeep area and offered to send a courier [S37]. Open.
 
 ### 💰 Elix's office — the loot the party left behind
 Per Constantori, Elix's office (the HQ receiving/goods room G12, which the party walked through and skipped in S35) holds **a wooden crate of straw packing with 2× spyglasses worth 1,000 gp each** and **a coffin containing a priest body wearing a holy symbol and a gold sun-shaped death mask** [S36]. A possible return heist, now that Dusk is dead and the HQ is leaderless.
@@ -32,8 +41,8 @@ Three big ones, all from the one-way telepathic link PQNine now has:
 - She is **secretly funding an orphanage with Cognoscenti / guild money** ⚠️.
 Collectively this reshapes who Idrissa is (and whether 2,000 gp is a fair deal). The party doesn't yet know Constantori has told them any of this.
 
-### 🐻 Lord Hallebrand × Constantori [S36]
-Constantori was **"in Hallebrand's presence when he was a young soldier"** — an entirely new angle on the Duke Hallebrand thread. ⚠️ Session cut as the DM paused to check his own Hallebrand notes; more intel incoming. Spelling tracked locally as "Hallebrand"; S36 transcript consistently heard "Hallibrand" and the DM flagged the archive spelling needing confirmation.
+### 🐻 Lord Hallebrand — spelling + growing dossier
+Constantori confirmed his grandmother was **Lady Meredith Hallowbrand**; Hallebrand himself was in Constantori's presence "when he was a young soldier"; Hallebrand's current project is the Shard of Zeluin expedition [S36–S37]. ⚠️ Spelling still unsettled: S36–S37 transcripts heard "Hallibrand" throughout; archive tracks "Hallebrand." DM used "Hallowbrand" for the grandmother specifically — unclear whether that's the real family surname or a DM pronunciation variant. Mabel Axelthorn calls him "nasty" and refuses to discuss him further.
 
 ### 📨 Jimmy Two Pouch — leaked, or coerced?
 Idrissa's gnome courier for her hire-letter to the party; the Sisters of the Vale (Sister Halda) intercepted the message instead. Idrissa concedes he may have been coerced rather than disloyal [S34]. ⚠️ Unresolved.
@@ -116,3 +125,4 @@ Museum basement gems and cooked books [S1–S2]; the Marvin the Magnificent leve
 - **Agile Hand HQ break-in** — successful. Party disguised in, retrieved Constantori's Portrait from the Tower Peak, killed Guildmaster Dusk, and walked out past the hallway guard in a red Agile Hand cloak [S35–S36].
 - **Guildmaster Dusk** — killed by Baron's Hunter-Marked arrow after critting Hairy unconscious [S36]. Dusk's two short swords claimed by Hairy; body stashed under her writing desk.
 - **Elix the Saint** — ambushed and taken alive on the Tipsy Tankard road, charmed, interrogated, and killed by Tordrug with Shocking Grasp when the charm wore off; buried roadside with PQNine's pewter mug [S35]. Nickname explained: he was the only Agile Hand thief who didn't skim [S36].
+- **Constantori contract** — portrait and Agile Hand ledger delivered to Idrissa at her barn; 2,000 gp paid + 500 gp ledger bonus; PQNine formally de-attuned [S37].

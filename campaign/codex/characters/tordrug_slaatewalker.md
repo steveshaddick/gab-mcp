@@ -57,3 +57,10 @@ Fire Bolt, disguise/illusion magic. Shares the Wand of Magic Missiles with Hairy
 - Ran upstairs performatively yelling "Enix! What happened to Enix?!" and poured a healing potion down the unconscious Hairy's throat.
 - Used **Arcane Recovery** during the forest short rest.
 - Won a grudging compliment from Constantori after conjuring a Minor Illusion duplicate of the painting [S36].
+
+
+## Session 37
+- Largely background this session; present for the Constantori hand-off and the Harvest Inn evening [S37].
+- Participated in the Waterdeep real-estate brainstorming (Delphi Mansion, the burnt South Ward, the old church quarter).
+- Asked Idrissa whether she'd heard of Kale Vore of the Veldma (framed as art) — she hadn't.
+- **+500 gp** share of the Idrissa payout.
