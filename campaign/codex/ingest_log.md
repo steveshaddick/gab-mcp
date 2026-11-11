@@ -2,6 +2,19 @@
 
 One entry per ingest: what changed in the codex. Newest first.
 
+## 2026-11-10 — Session 37
+
+- **Added:** `summaries/Session_037_20261027.md`.
+- **Normalizer:** no changes; S37 clean (860 lines, longest line 1,246 chars).
+- **NPCs added:** **Mabel Axelthorn** (Red Larch quarry teamster, widowed, daughter in the Sisters of the Vale ⚠️ possibly Sister Halda); **Lady Meredith Hallowbrand** (⚫ Hallebrand's grandmother, buried wearing the Shard of Zeluin); **Kale Vore, the Veiled Maw** (long-forgotten demon fed by the Shard's misery; DM-typed spelling canonical).
+- **NPCs updated:** **Constantori** — contract delivered, PQNine de-attuned, no longer in party hands; before handover he revealed the Shard of Zeluin arc and the Lady Meredith → Hallebrand connection.
+- **Loot:** +2,000 gp (portrait contract paid) + 500 gp (ledger bonus) = **+2,500 gp total**, split 500 each. Constantori's Portrait and the Agile Hand ledger marked delivered. Fic bought *A Proper Elven Courtship* for 62 gp (held on consignment at the Harvest Inn). PQNine bought a 1 gp replacement Tipsy Tankard pewter mug. Hairy owes Mabel **8 cp quoted / 8 gp planned** for a 6"×6"×6" granite block (not yet paid, delivery sunrise +2). Added "Intel, not yet acquired" subsection to loot for the Shard of Zeluin.
+- **Locations added:** The Long Road (Westbridge → Red Larch → Amphail → Waterdeep); **Red Larch** (~600, quarry town); **Amphail**; **Hallebrand Family Chapel** (near Waterdeep); **Lady Meredith's Crypt** (beneath the chapel).
+- **Threads opened:** **The Shard of Zeluin — the big new job** (race Hallebrand to the crypt); **Mabel Axelthorn's daughter — is it Sister Halda?** ⚠️; **Buying a Waterdeep base** (Delphi Mansion / burnt South Ward / old church quarter); **Idrissa's next job** (she'll send a courier).
+- **Threads closed / moved to Resolved:** Constantori contract delivered (2,000 gp + 500 gp bonus paid, PQNine de-attuned); "Constantori — delivery or keep?" decision made (delivered); Hallebrand × Constantori link resolved into the richer Shard-of-Zeluin dossier.
+- **Threads advanced:** Lord Hallebrand (growing dossier — Lady Meredith is his grandmother, he's financing the Shard expedition, Mabel calls him "nasty"); the Columbo-style investigator at the Elix burial site was seen working the scene — party walked past, he's still active; the Elix-office loot (2× 1,000 gp spyglasses + coffin priest with gold sun death mask) was explicitly shelved, not grabbed.
+- **Needs confirmation:** Hallebrand spelling (S37 heard "Hallibrand" throughout, DM used "Hallowbrand" for Lady Meredith specifically — whether the family name is actually "Hallowbrand," "Hallebrand," or "Hallibrand" is still unsettled, tracking locally as "Hallebrand"); whether Mabel's daughter is Sister Halda; the exact Waterdeep location of the Hallebrand Family Chapel (PQNine's History with advantage didn't place it); the Columbo-style investigator's actual identity (most likely Investigator Tam Vell).
+
 ## 2026-10-21 — Session 36
 
 - **Added:** `summaries/Session_036_20261020.md`.

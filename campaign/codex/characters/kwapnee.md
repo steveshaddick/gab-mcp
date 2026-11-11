@@ -56,3 +56,11 @@
 - On second watch in the forest camp, **lured Tordrug off to "fan out," then quietly took Constantori's Portrait out of the Bag of Holding** (he knows the password) [S36].
 - **Attuned to Constantori as a magic item** after being insulted into it. Attunement perks: **true sight**, **one-way telepathic link** to the painting (PQNine thinks, Constantori answers), and the ability to **command the painting to "guard" a hallway or room**.
 - Has made keeping Constantori his personal cause; Hairy and Fic have joked about burning him more than once [S36].
+
+
+## Session 37
+- Carried the sentient portrait strapped to his back like a backpack on the walk south; nearly peed on by Hairy as a result [S37].
+- Rolled History with advantage on the Hallebrand Family Chapel's exact location — doesn't know it.
+- **Formally de-attuned from Constantori** at Idrissa's barn and said goodbye; the painting went quiet. True sight, telepathic link, and "guard a room" command are all gone.
+- Bought a **1 gp replacement pewter mug** at the Tipsy Tankard for the one buried with Elix.
+- **+500 gp** share of the Idrissa payout.

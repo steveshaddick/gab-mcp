@@ -45,3 +45,9 @@
 - **Took the full 33 damage** from the Tower Peak poison-gas trap (DC 14 CON — fail). Drank a healing potion while still invisible.
 - Broke invisibility to shoot Dusk — first bow hit 11 damage; set **Hunter's Mark**; **second volley dropped her** [S36].
 - First watch at the forest camp (uneventful). Used **Natural Explorer (forest)** to cover the party's tracks leaving the HQ hamlet.
+
+
+## Session 37
+- Took rear of the marching order on the Long Road — "it's a straight road," wouldn't scout [S37].
+- Pointed out Hairy's rapport with Mabel sets up future ammunition against Sister Halda if the daughter turns out to be her. Explicitly banking the connection.
+- **+500 gp** share of the Idrissa payout.

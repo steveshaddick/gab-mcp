@@ -1,6 +1,6 @@
 # Loot & Inventory
 
-> Living file. Updated through **Session 36** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
+> Living file. Updated through **Session 37** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
 > ⚠️ = holder or status uncertain; confirm at the table.
 
 ## Magic & significant items
@@ -40,9 +40,11 @@
 | Worn wooden Saint figurine | Hairy | Elix the Saint [S35] | Smooth from handling. Pocketed at the burial. |
 | Tipsy Tankard pewter mug (hat-and-apple stamp) | Buried with Elix | Tipsy Tankard, Tribor-area hamlet [S35] | PQNine bought for 1 gp on exit; buried it with Elix in the roadside grave. |
 | 2× Agile Hand key (iron, HQ wall-hook) | Party | HQ front office east wall [S35] | Two of three hooks taken; purpose ⚠️ (interior doors? other buildings?). |
-| Leather-bound Agile Hand guild ledger | Hairy | HQ quartermaster office desk [S35] | Contents ⚠️ — not yet read. |
-| **Constantori's Portrait** | In the password Bag of Holding (PQNine **attuned**) | Agile Hand HQ Tower Peak alcove [S36] | Sentient magic item. True sight; one-way telepathic link to PQNine; can be commanded to guard a hallway or room. 683 years old, rude, high-recall. Mission payload for Idrissa Caramorte — 2,000 gp on delivery. |
+| Leather-bound Agile Hand guild ledger | **Delivered to Idrissa** [S37] | HQ quartermaster office desk [S35] | Contents were an inventory of stolen goods and fence prices. Idrissa paid a **500 gp bonus** on handover — "above and beyond" [S37]. |
+| **Constantori's Portrait** | **Delivered to Idrissa** [S37] | Agile Hand HQ Tower Peak alcove [S36] | Sentient magic item. 2,000 gp paid; PQNine de-attuned at handover [S37]. See NPCs for the lore he leaked before delivery. |
 | 2× Short sword | Hairy | Guildmaster Dusk's corpse [S36] | Dusk's weapons; stripped off her body in the Tower Peak. |
+| *A Proper Elven Courtship* (painting) | Fic (on consignment at Harvest Inn, Westbridge) | Haravin Dar Dragon [S37] | Bought 60 gp + 2 gp handler's fee = 62 gp all-in; stored at Haravin's until Fic claims it. |
+| Tipsy Tankard pewter mug #2 (hat-and-apple stamp) | PQNine | Tipsy Tankard, Tribor-area hamlet [S37] | 1 gp replacement for the one buried with Elix. |
 
 ## Gone / no longer ours
 
@@ -57,6 +59,10 @@
 | Loot sold to Norris Inker | 355 gp [S14]. Probably included the gem chips, altar pieces and necklace ⚠️. |
 | Some gems and papers | Lost when the bag burst [S12]. |
 | Tordrug's Merckmire book | Left with Barlow Lundegger for appraisal [S14]. **Pick it up.** |
+
+## Intel, not yet acquired
+
+- **The Shard of Zeluin** — abyssal pendant that feeds the demon **Kale Vore, the Veiled Maw** on the misery it inflicts on its wielders and their enemies. Reportedly buried as a pendant with **Lady Meredith Hallowbrand** in her crypt beneath the **Hallebrand Family Chapel near Waterdeep** [S37]. **Lord Hallebrand is financing an expedition to retrieve it** — the party plans to beat him to it. Source: Constantori (sentient portrait, since delivered to Idrissa).
 
 ## Treasure & valuables (check against the Norris sale)
 
@@ -102,3 +108,5 @@
 | S36 | +Constantori's Portrait (mission payload) | Agile Hand HQ Tower Peak |
 | S36 | +2× short sword (Hairy) | Looted off Dusk |
 | S36 | Pending **+2,000 gp** on delivery of the portrait | Still owed by Idrissa |
+| S37 | **+2,000 gp** (portrait contract paid) + **+500 gp** (ledger bonus) = **+2,500 gp total**, split 500 each | Idrissa paid at her barn [S37] |
+| S37 | Fic −62 gp (painting + storage) · PQNine −1 gp (new pewter mug) · Hairy will owe Mabel 8 cp quoted / 8 gp planned (not yet paid) | Harvest Inn + Tipsy Tankard + Mabel's commission |

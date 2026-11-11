@@ -65,3 +65,16 @@ Elix: Enox
 Tordrug: Tora Drug, Tordurig, Tar Dor, Toy, Tor Drunk
 Idrissa: Trissa, Dresser, Edrissa
 Hallebrand: Hallibrand, Hello Brand, Hallo Brand, Halleprand (⚠️ DM flagged archive spelling needs confirmation — tracked locally as Hallebrand)
+
+## Added S37
+Zeluin: Shard of Zeluin, "the shirt"
+Kale Vore: Kilvore, "Hail 4", Kalevore (DM typed "Kale Vore" in Teams chat — canonical)
+Veiled Maw: Veldma, "the Veldma"
+Hallowbrand: (Lady Meredith; DM-used variant of the family name)
+Mabel Axelthorn: Mabel Axel's Thorn
+Red Larch: Red Large
+Amphail: Amphil, Amphile, Tampfails, Ampfail
+Idrissa (continued): Addresser, "a dresser", ADRISACARIMORTE (DM spelled it out)
+Halda: Sister Holiday, "Sister Hold Her"
+PQNine (continued): Cooperative, Co-op, Quality
+Haravin (continued): Harvey
