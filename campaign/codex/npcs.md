@@ -44,7 +44,7 @@
 
 **Prisoner 13 ("Quarter Glintstone," sp?)** 🟡 — Former trusted Axebreaker agent who betrayed the clan and stole its fortune. **The tattoo on her right hand is the vault key**; she let the party copy it [S19]. Does as she pleases inside and seems not to want to leave. Stole the Warden's Ledger. "The trickiest case in 20 years."
 
-**The Warden** 🟡 — Lords' Alliance mage, 20 years in corrections (name heard as "Martha…," sp?). Carries the spirit of her dwarf friend **Vlax**, who takes over at times, drinks whiskey and tells war stories. Freeing him would mean a trip to the Brawn Anvil Crypts in Gauntlgrym, which she won't make [S17–S19]. Kind to Hairy; apologized for Hallebrand's atrocities and for the bugbear round-ups [S18]. Doesn't know the party robbed her office.
+**The Warden** 🟡 — Lords' Alliance mage, 20 years in corrections (name heard as "Martha…," sp?). Carries the spirit of her dwarf friend **Vlax**, who takes over at times, drinks whiskey and tells war stories. Freeing him would mean a trip to the Brawn Anvil Crypts in Gauntlgrym, which she won't make [S17–S19]. Kind to Hairy; apologized for Hallowbrand's atrocities and for the bugbear round-ups [S18]. Doesn't know the party robbed her office.
 
 **Vlax** 🟡 — Dwarf soldier's spirit living in the Warden [S17–S18].
 
@@ -100,7 +100,7 @@
 
 **Dayani Gristhorne** ⚫ — Late grand dame of the criminal underworld who commissioned Constantori's Portrait specifically as a sentient eavesdropping tool to plant in a rival's parlor [S34].
 
-**Constantori (the portrait)** 🟡 — Sentient gold-framed portrait of "the most beautiful man in the world," ~683 years old, human. Perfect recall of every conversation he's ever heard; haughty, rude, insult-prone. Recovered from the Agile Hand HQ Tower Peak and attuned to PQNine [S36]; **delivered to Idrissa Caramorte in S37 and PQNine formally de-attuned.** No longer in party hands. Before handover he spilled **the Shard of Zeluin arc**: his favorite former owner was **Lady Meredith Hallowbrand** (Lord Hallebrand's grandmother), who died wearing the Shard as a pendant to keep it from her grandson; the Shard feeds a long-forgotten demon called **Kale Vore, the Veiled Maw**; and **Hallebrand is already financing an expedition** to recover it from her crypt beneath the **Hallebrand Family Chapel near Waterdeep** [S37]. Attunement perks (now moot): true sight; one-way telepathic link to the attuned owner; can be told to "guard" a hallway or room.
+**Constantori (the portrait)** 🟡 — Sentient gold-framed portrait of "the most beautiful man in the world," ~683 years old, human. Perfect recall of every conversation he's ever heard; haughty, rude, insult-prone. Recovered from the Agile Hand HQ Tower Peak and attuned to PQNine [S36]; **delivered to Idrissa Caramorte in S37 and PQNine formally de-attuned.** No longer in party hands. Before handover he spilled **the Shard of Xeluan arc**: his favorite former owner was **Lady Meredith Hallowbrand** (Lord Hallowbrand's grandmother), who died wearing the Shard as a pendant to keep it from her grandson; the Shard feeds a long-forgotten demon called **Kale Vore, the Veiled Maw**; and **Hallowbrand is already financing an expedition** to recover it from her crypt beneath the **Hallowbrand Family Chapel near Waterdeep** [S37]. Attunement perks (now moot): true sight; one-way telepathic link to the attuned owner; can be told to "guard" a hallway or room.
 
 ## Tribor (added S33–S34)
 
@@ -165,18 +165,18 @@
 
 **Fragment of Krokilmar** ⚫ — Destroyed beneath the Delphi mansion [S11]. Krokilmar itself is still out there.
 
-**Duke (formerly Lord) Hallebrand** 🔴 — Human noble. Years ago he waged a war to "cleanse the wilds" of greenskins and bugbears, then turned the Wilds into **Hallebrand Province** in the north [S15–S16, S18]. Tied to Hairy's backstory (humans killed his family).
+**Duke (formerly Lord) Hallowbrand** 🔴 — Human noble. Years ago he waged a war to "cleanse the wilds" of greenskins and bugbears, then turned the Wilds into **Hallowbrand Province** in the north [S15–S16, S18]. Tied to Hairy's backstory (humans killed his family).
 
 
-## The Shard of Zeluin arc (added S37)
+## The Shard of Xeluan arc (added S37)
 
-**Lady Meredith Hallowbrand** ⚫ — Lord Hallebrand's grandmother; long dead. Constantori's favorite former owner — kept him in her study, read aloud to him, asked his opinion. Chose to be **buried wearing the Shard of Zeluin as a pendant** specifically to keep her grandson Hallebrand from ever possessing it [S37]. Lies in **Lady Meredith's Crypt** beneath the Hallebrand Family Chapel near Waterdeep. ⚠️ "Hallowbrand" vs. "Hallebrand" — the DM used "Hallowbrand" for her; whether it's the family name or a DM pronunciation variant is unsettled (see Hallebrand notes).
+**Lady Meredith Hallowbrand** ⚫ — Lord Hallowbrand's grandmother; long dead. Constantori's favorite former owner — kept him in her study, read aloud to him, asked his opinion. Chose to be **buried wearing the Shard of Xeluan as a pendant** specifically to keep her grandson Hallowbrand from ever possessing it [S37]. Lies in **Lady Meredith's Crypt** beneath the Hallowbrand Family Chapel near Waterdeep.
 
-**Kale Vore, the Veiled Maw** 🔴 — Long-forgotten demon. Fed by the misery the **Shard of Zeluin** inflicts on its wielders and their enemies. Idrissa Caramorte hasn't heard the name [S37]. DM typed "Kale Vore" in Teams chat — that spelling is canonical.
+**Kale Vore, the Veiled Maw** 🔴 — Long-forgotten demon. Fed by the misery the **Shard of Xeluan** inflicts on its wielders and their enemies. Idrissa Caramorte hasn't heard the name [S37]. DM typed "Kale Vore" in Teams chat — that spelling is canonical.
 
 ## Westbridge locals (added S37)
 
-**Mabel Axelthorn** 🟢 — Wiry, physically powerful retired-but-still-active human quarry teamster who hauled stone and ore out of **Red Larch** for 40 years [S37]. Widowed (husband died in a quarry accident); her children died of plague except her one surviving daughter, who **joined the Order of the Vale / Sisters of the Vale** — a loss Mabel treats as a death, calling the order "cultist fanatics." Loathes **Lord Hallebrand** — calls him "nasty," refuses to discuss politics. Lost an arm-wrestle to Hairy (Hairy Athletics 19 vs. a narrower-than-expected margin), accepted five beers and a granite-block commission from him (**8 cp quoted; Hairy secretly plans to pay 8 gp**). ⚠️ Her estranged Sisters-of-the-Vale daughter may be **Sister Halda Thorne** — Baron is explicitly saving the connection as leverage for later.
+**Mabel "Axles" Thorne** 🟢 — Wiry, physically powerful retired-but-still-active human quarry teamster who hauled stone and ore out of **Red Larch** for 40 years [S37]. Widowed (husband died in a quarry accident); her children died of plague except her one surviving daughter, who **joined the Order of the Vale / Sisters of the Vale** — a loss Mabel treats as a death, calling the order "cultist fanatics." Loathes **Lord Hallowbrand** — calls him "nasty," refuses to discuss politics. Lost an arm-wrestle to Hairy (Hairy Athletics 19 vs. a narrower-than-expected margin), accepted five beers and a granite-block commission from him (**8 cp quoted; Hairy secretly plans to pay 8 gp**). ⚠️ Her estranged Sisters-of-the-Vale daughter may be **Sister Halda Thorne** — Baron is explicitly saving the connection as leverage for later.
 
 ## Minor / one-offs
 

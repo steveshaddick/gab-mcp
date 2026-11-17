@@ -60,11 +60,13 @@ After updating campaign files:
 2. Rebuild the index:
    ```bash
    cd /path/to/gab-mcp
+   git pull origin main
    CAMPAIGN_DIR=./campaign python3 mcp/index.py
    ```
 
 3. Restart the server to load the new index:
    ```bash
+   exit
    sudo systemctl restart gab-mcp
    ```
 

@@ -11,7 +11,7 @@ Baron: Barrett
 
 ## NPCs
 Halda: Holda, Holden, Hal
-Hallebrand: Halderbrand, Halibrand, Hallibrand, Halogrand, Haldebrand, Aldebrand
+Hallowbrand: Hallebrand, Halderbrand, Halibrand, Hallibrand, Halogrand, Haldebrand, Aldebrand, Hello Brand, Hallo Brand, Halleprand
 Haravin: Harrow, Harvin, Harbin, Haribin, Aravin, Hairvindar, Herovindar, Harem, Aaron
 Idrissa: Drissa, Dressa, Darissa, Adrisa, Andrew, Arissa
 Caramorte: Carmorte, CaraMorte
@@ -64,14 +64,12 @@ PQNine (continued): Kwabney, Quafni, Aquapi, Quopney, Quad
 Elix: Enox
 Tordrug: Tora Drug, Tordurig, Tar Dor, Toy, Tor Drunk
 Idrissa: Trissa, Dresser, Edrissa
-Hallebrand: Hallibrand, Hello Brand, Hallo Brand, Halleprand (⚠️ DM flagged archive spelling needs confirmation — tracked locally as Hallebrand)
 
 ## Added S37
-Zeluin: Shard of Zeluin, "the shirt"
+Xeluan: Zeluin, Shard of Zeluin, "the shirt"
 Kale Vore: Kilvore, "Hail 4", Kalevore (DM typed "Kale Vore" in Teams chat — canonical)
 Veiled Maw: Veldma, "the Veldma"
-Hallowbrand: (Lady Meredith; DM-used variant of the family name)
-Mabel Axelthorn: Mabel Axel's Thorn
+Axles: Axelthorn, Axel's Thorn
 Red Larch: Red Large
 Amphail: Amphil, Amphile, Tampfails, Ampfail
 Idrissa (continued): Addresser, "a dresser", ADRISACARIMORTE (DM spelled it out)
