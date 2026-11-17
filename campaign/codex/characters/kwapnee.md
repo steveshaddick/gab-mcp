@@ -60,7 +60,7 @@
 
 ## Session 37
 - Carried the sentient portrait strapped to his back like a backpack on the walk south; nearly peed on by Hairy as a result [S37].
-- Rolled History with advantage on the Hallebrand Family Chapel's exact location — doesn't know it.
+- Rolled History with advantage on the Hallowbrand Family Chapel's exact location — doesn't know it.
 - **Formally de-attuned from Constantori** at Idrissa's barn and said goodbye; the painting went quiet. True sight, telepathic link, and "guard a room" command are all gone.
 - Bought a **1 gp replacement pewter mug** at the Tipsy Tankard for the one buried with Elix.
 - **+500 gp** share of the Idrissa payout.

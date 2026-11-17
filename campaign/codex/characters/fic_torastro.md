@@ -46,12 +46,12 @@
 ## Session 36
 - Saved vs. the Tower Peak poison-gas trap (no damage) [S36]. Sneak-attacked Dusk with his rapier (hidden under Cloak of Elvenkind — DM ruled advantage because she never actively perceived him); 11 damage. Second rapier swing retconned — the bonus action had already gone to a 2d4+2 potion (+12 HP).
 - Walked out of the HQ in Hairy's Disguise Self as Elix the Saint, under a stolen red Agile Hand cloak [S36].
-- Mid-forest-camp, asked Constantori about Lord Hallebrand — the painting confirmed he was in Hallebrand's presence "when he was a young soldier." Session cut on that reveal while the DM looked up his notes [S36].
+- Mid-forest-camp, asked Constantori about Lord Hallowbrand — the painting confirmed he was in Hallowbrand's presence "when he was a young soldier." Session cut on that reveal while the DM looked up his notes [S36].
 - Still openly considering burning the portrait "to make a name" for the Get Around Boys ⚠️.
 
 
 ## Session 37
-- Pressed Constantori for Hallebrand intel — got Lady Meredith Hallowbrand, the Shard of Zeluin, and Kale Vore, the Veiled Maw [S37].
+- Pressed Constantori for Hallowbrand intel — got Lady Meredith Hallowbrand, the Shard of Xeluan, and Kale Vore, the Veiled Maw [S37].
 - Haggled Haravin Dar Dragon over *A Proper Elven Courtship*; Haravin tried to bump to 90 gp claiming another buyer; Hairy's nat-25 insight + persuasion brought it back to the original **60 gp + 2 gp handler's fee = 62 gp** [S37]. Painting is on consignment at the Harvest Inn until Fic claims it.
 - Still joking about burning Constantori with a tinderbox — now moot since the portrait is with Idrissa.
 - **+500 gp** share of the Idrissa payout.

@@ -62,7 +62,7 @@
 
 ## Intel, not yet acquired
 
-- **The Shard of Zeluin** — abyssal pendant that feeds the demon **Kale Vore, the Veiled Maw** on the misery it inflicts on its wielders and their enemies. Reportedly buried as a pendant with **Lady Meredith Hallowbrand** in her crypt beneath the **Hallebrand Family Chapel near Waterdeep** [S37]. **Lord Hallebrand is financing an expedition to retrieve it** — the party plans to beat him to it. Source: Constantori (sentient portrait, since delivered to Idrissa).
+- **The Shard of Xeluan** — abyssal pendant that feeds the demon **Kale Vore, the Veiled Maw** on the misery it inflicts on its wielders and their enemies. Reportedly buried as a pendant with **Lady Meredith Hallowbrand** in her crypt beneath the **Hallowbrand Family Chapel near Waterdeep** [S37]. **Lord Hallowbrand is financing an expedition to retrieve it** — the party plans to beat him to it. Source: Constantori (sentient portrait, since delivered to Idrissa).
 
 ## Treasure & valuables (check against the Norris sale)
 

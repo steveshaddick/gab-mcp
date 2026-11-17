@@ -23,12 +23,12 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - Wisdom saves at disadvantage during the Bag of Holding's eldritch surges; the egg was bonded to him to the end [S11].
 - **Point-blank Magic Missile on Sister Halda** when she put a sword to his neck (19 force to her, 6 to him) [S12]. That set off the Halda feud.
 - The **South Ward fire** wanted notices describe "a bugbear of great size." Waterdeep then rounded up bugbears [S15, S18]. He hid at the old cult church [S15].
-- **Backstory surfacing:** in Thornhold he learned Lord Hallebrand is now **Duke Hallebrand of Hallebrand Province**. His old campaign to "cleanse the wilds" is likely what killed Hairy's family [S16]. Has a private history with Captain **Vessa Orin** of the Sable Dancer [S16].
+- **Backstory surfacing:** in Thornhold he learned Lord Hallowbrand is now **Duke Hallowbrand of Hallowbrand Province**. His old campaign to "cleanse the wilds" is likely what killed Hairy's family [S16]. Has a private history with Captain **Vessa Orin** of the Sable Dancer [S16].
 - Bought a **custom lightning-bolt hat** (30 gp) [S16].
 - The Warden apologized to him personally for what humans did to bugbears [S18]. He was detained over Prisoner 13, then released with apologies [S19].
 
 ## Personal threads
-- ⚠️ **Duke Hallebrand.** Revenge? Justice?
+- ⚠️ **Duke Hallowbrand.** Revenge? Justice?
 
 ## Sessions 21–32
 - Wears **Sister Halda's shield and splint armour**, and now has her plate set too [S26, S32]. Halda is out for revenge on him specifically [S32].
@@ -69,7 +69,7 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - Floated impersonating Elix to take over the Agile Hand guild (shelved) [S37].
 - Threatened to pee on Constantori while PQNine was carrying him strapped to his back.
 - Clutch **insight + persuasion** (nat 25) at the Harvest Inn walked Haravin back from 90 gp to the original 60 gp + 2 gp on *A Proper Elven Courtship* for Fic.
-- Arm-wrestled his way around the common room all evening, backhandedly insulting ("nice hat") anyone who refused. Won against **Mabel Axelthorn** (Athletics 19) by a narrower margin than expected and bought her five beers.
+- Arm-wrestled his way around the common room all evening, backhandedly insulting ("nice hat") anyone who refused. Won against **Mabel "Axles" Thorne** (Athletics 19) by a narrower margin than expected and bought her five beers.
 - Commissioned a **6"×6"×6" granite block** from Mabel for **8 cp**; privately plans to pay her **8 gp** (a bag of coins) instead. Delivery sunrise +2 at the Harvest Inn.
 - Learned Mabel has a daughter in the Sisters of the Vale ⚠️ — possibly Sister Halda.
 - **+500 gp** share of the Idrissa payout.

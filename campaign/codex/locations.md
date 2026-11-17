@@ -38,13 +38,13 @@ Decaying family estate with alabaster walls and three floors joined by a great s
 
 ## The Sword Coast North (added S15–S21)
 
-- **Thornhold** — Harbor and logistics town where Hairy dug up the Hallebrand story [S16].
+- **Thornhold** — Harbor and logistics town where Hairy dug up the Hallowbrand story [S16].
 - **Luskan** — Rough port. The haberdasher Maurice is here, and so are **the Keelhauler's Mercy** (a packed dock pub where you pay into a bowl of coins, teeth and rings) and **the Last Warm Light** (a safe inn by the inland gate, private rooms 2 gp/night) [S16, S20]. It also has the **Northgate Teamsters yard** for horses [S21].
 - **The Lords' Alliance prison ("the Panopticon")** — A sea fortress about 3 days' sail north of Luskan, cold and windy, with a central tower and spiral stair, barracks, kitchens, a yard and a hexagonal cell block. The Warden's office is on the 3rd floor and magically sealed. There's a suspicion/alert system: horns sound and the continual flames turn red [S16–S19].
 - **Gauntlgrym** — Dwarven fortress under **Mount Hotenow** near Neverwinter. It holds the **Axebreaker vault** and the **Brawn Anvil Crypts**, where Vlax's kin rest [S15, S17, S19].
 - **Mirabar** — Fortified dwarven trade city full of caravans. Home of the **Hammer and Hitch** inn and caravan yard (Borum Feldhand) [S21].
 - **Cormier College ruins** — Orc-infested; a long-sought tome lies beneath [S14].
-- **Hallebrand Province** — The former "Wilds" to the north [S16].
+- **Hallowbrand Province** — The former "Wilds" to the north [S16].
 
 ## The road to Little Lockford (added S21–S32)
 
@@ -97,7 +97,7 @@ Islands **suspended over a lake of fire**, linked by retractable bridges and a m
 ## The Long Road & Waterdeep approach (added S37)
 
 - **The Long Road** — Main trade route between Westbridge and Waterdeep. Westbridge → Red Larch → Amphail → Waterdeep, "a couple of days" travel, well-patrolled, peaceful [S37].
-- **Red Larch** — Town of ~600 on the Long Road, named for the stand of red larch trees felled at founding; a source of quarried granite and ore (Mabel Axelthorn's old hauling route) [S37].
+- **Red Larch** — Town of ~600 on the Long Road, named for the stand of red larch trees felled at founding; a source of quarried granite and ore (Mabel "Axles" Thorne's old hauling route) [S37].
 - **Amphail** — Next town up the Long Road past Red Larch [S37].
-- **Hallebrand Family Chapel** (near Waterdeep) — Surface-level chapel of the Hallebrand family. Entry point to Lady Meredith's crypt [S37].
-- **Lady Meredith's Crypt** — Beneath the Hallebrand Family Chapel. Resting place of Lady Meredith Hallowbrand, who is buried wearing the Shard of Zeluin as a pendant. Target for the party; Lord Hallebrand is already financing an expedition to retrieve the Shard [S37].
+- **Hallowbrand Family Chapel** (near Waterdeep) — Surface-level chapel of the Hallowbrand family. Entry point to Lady Meredith's crypt [S37].
+- **Lady Meredith's Crypt** — Beneath the Hallowbrand Family Chapel. Resting place of Lady Meredith Hallowbrand, who is buried wearing the Shard of Xeluan as a pendant. Target for the party; Lord Hallowbrand is already financing an expedition to retrieve the Shard [S37].
