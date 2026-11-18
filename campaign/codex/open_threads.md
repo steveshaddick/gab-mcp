@@ -1,6 +1,6 @@
 # Open Threads
 
-> Living file. Updated through **Session 37** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
+> Living file. Updated through **Session 38** (Sessions 13 and 25 have no transcript). When a thread closes, move it to **Resolved** with the session it closed in.
 
 ## Active
 
@@ -13,8 +13,26 @@ She ambushed the party in the Underdark and was stripped a second time [S32]. Sh
 ### 💎 The Shard of Xeluan — the big new job
 Constantori spilled this in S37 before delivery: his favorite former owner was **Lady Meredith Hallowbrand**, Lord Hallowbrand's grandmother, who died wearing the **Shard of Xeluan** as a pendant specifically to keep it from her grandson. The Shard is an abyssal pendant that **feeds the demon Kale Vore, the Veiled Maw** on the misery it inflicts on its wielders and their enemies. **Lord Hallowbrand is already financing an expedition to retrieve it** — the party plans to beat him to it. Target: **Lady Meredith's crypt beneath the Hallowbrand Family Chapel near Waterdeep.** [S37]
 
-### ⚰️ Mabel "Axles" Thorne's daughter — is it Sister Halda?
-Mabel is a widowed Red Larch quarry teamster whose one surviving daughter joined the **Order of the Vale / Sisters of the Vale**; she considers her daughter dead and calls the order "cultist fanatics" [S37]. Baron is explicitly banking the connection as leverage against Sister Halda. ⚠️ No confirmation yet that the daughter is Halda specifically.
+### 👁️ The Halda–Mabel reveal — leverage pending
+**DM confirmed in the S38 recap that Mabel's daughter is named Halda** — Mabel "Axles" Thorne is **Sister Halda Thorne's mother** [S38]. Mabel treats her daughter as dead and calls the Sisters of the Vale "cultist fanatics," and in S38 she gifted Hairy a granite cube free and called him a friend. Mabel does NOT know the party has personally stripped her daughter twice and burned down a ward in Waterdeep. Baron is explicitly banking this as emotional ammunition against Sister Halda. ⚠️ What happens the day Mabel finds out, and whether Halda knows her mother is alive and well in Westbridge, are both open.
+
+### 📦 The sweaty wagon driver's tin [S38]
+Twitchy roadside man pretending to repair a wheel on the road to Amphail; obsessively guarding a small lidded tin he kept staring at. Asked the party if they were "King's Men" ("I heard you have to say"). Party left him alone. ⚠️ What's in the tin and why he was spooked about King's Men is unresolved.
+
+### 🧌 The troll transport [S38]
+A chained troll was being hauled in a prisoner-transport cage on the road to Red Larch. Party killed it for 30 gp from the two surviving guards. ⚠️ Who was paying to transport a live troll, and where to, is unanswered.
+
+### 🧪 The hag of the Long Road [S38]
+The Amphail scarecrow farmer once fed a passing hag; she repaid him by weaving the red-bracelet-keyed scarecrow enchantment. Not seen, only referenced. Possibly roaming and trading charms along the Long Road for food.
+
+### 🐴 Fic's horse upgrade in Amphail [S38]
+Red Larch locals pointed Fic to Amphail as THE horse-breeding town supplying the Waterdeep country estates. Shadow Strider's long-pending training (deferred since S33 — "need a bigger city than Tribor") can probably be addressed in Amphail. Open.
+
+### ⚙️ Elix's steam regulator — Waterdeep gears [S38]
+A Red Larch rock gnome tinkerer admired the workmanship on Elix's dented steam regulator and flagged it as foreign-sourced — replacement gears have to come from Waterdeep. ⚠️ Possible lead on the Underdark / Little Lockford gear's actual origin and maker.
+
+### 📝 DM drift from the PR #11 canonical spellings [S38]
+PR #11 (Nov 17) locked the family / shard / Mabel-surname / demon spellings. In S38 the DM reverted: "Halibrand" / "Zeluin" / "Mabel Axels Thorne" / "Kael Vor, the Veiled Maul." Archive is still tracking the PR #11 canonical (**Hallowbrand / Xeluan / Mabel "Axles" Thorne / Kale Vore, the Veiled Maw**) with the drift captured in `glossary.md`. ⚠️ Worth raising with the DM at the next table so the archive and his notes lock to one spelling each.
 
 ### 🏚️ Buying a Waterdeep base
 Party is discussing property in Waterdeep (the Delphi Mansion / old church quarter / the burnt-out South Ward) as a crew base — complicated by the fact that they are the ones who burned the South Ward [S37]. Open.

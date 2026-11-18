@@ -2,6 +2,22 @@
 
 One entry per ingest: what changed in the codex. Newest first.
 
+## 2026-11-18 — Session 38
+
+- **Added:** `summaries/Session_038_20261118.md`.
+- **Normalizer:** no changes; S38 clean (1,232 lines, longest line 1,356 chars).
+- **Major reveal:** **DM confirmed in the recap that Mabel's daughter is named Halda** — Mabel "Axles" Thorne is **Sister Halda Thorne's mother**. Updated Mabel's NPC entry and moved the "Mabel's daughter — is it Halda?" thread from open ⚠️ to a new "👁️ The Halda–Mabel reveal — leverage pending" thread focused on the fallout instead.
+- **NPCs added:** the Red Larch rock gnome tinkerer (flagged Elix's steam regulator as foreign-sourced, Waterdeep gears); the two troll transport guards (⚠️ unknown buyer); the sweaty wagon driver (⚠️ the tin); the Amphail scarecrow farmer + wife + 3 kids; the funeral-rehearsal matron and her son; the unseen hag of the Long Road.
+- **Loot:** +30 gp from the troll guards (6 gp each); +4 cp from the farmer; granite cube (free gift from Mabel); roast-chicken hayloft stay with **inspiration for every PC**. New Magic & significant items rows for the granite cube and the red bracelet. Gold ledger updated for S38.
+- **Locations added:** Red Larch expanded (Swinging Sword inn, Helver Tarnall's shop, Maliko Stoneworks, the Quarry); Amphail expanded (horse-breeding country for Waterdeep estates); the scarecrow farmer's farmhouse; **Raslantar** ⚠️ (hamlet by the Hallowbrand Chapel — spelling from one DM mention).
+- **Threads opened:** the sweaty wagon driver's tin ⚠️; the troll transport buyer ⚠️; the hag of the Long Road ⚠️; Fic's planned Amphail horse upgrade; **Elix's steam regulator → Waterdeep gears** lead; the DM drift from PR #11 canonical spellings.
+- **Threads advanced / closed:** the Mabel-daughter question is answered (Halda confirmed) — moved to a new in-progress leverage thread; Shadow Strider's long-pending training has an actual target (Amphail); PR #11 canonical spellings are flagged as drifting at the table.
+- **Needs confirmation / table items:**
+  - **DM is drifting on every PR #11 correction.** S38 transcript has **Hallowbrand → Halibrand / Allebrand / Haleybrand**, **Shard of Xeluan → Shard of Zeluin**, **Mabel "Axles" Thorne → Mabel Axels Thorne**, **Kale Vore, the Veiled Maw → Kael Vor, the Veiled Maul**. Archive is still tracking the PR #11 canonical on all four; drift captured in `glossary.md` and flagged as an open thread. Worth raising with the DM so the archive and his notes lock to one spelling each.
+  - Spelling of **Raslantar** (single DM mention, no transcript confirmation).
+  - What's in the sweaty wagon driver's tin; who the troll transport was for; the hag's identity.
+  - Red bracelet(s): did any walk off with the party, or did Tordrug return them all?
+
 ## 2026-11-10 — Session 37
 
 - **Added:** `summaries/Session_037_20261027.md`.

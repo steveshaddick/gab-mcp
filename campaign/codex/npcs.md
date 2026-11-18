@@ -1,6 +1,6 @@
 # NPCs
 
-> Living file. Updated through **Session 37** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
+> Living file. Updated through **Session 38** (Sessions 13 and 25 have no transcript). Session references in brackets, e.g. [S7].
 > Spellings follow the DM where known; transcript mishearings noted with *(sp?)*.
 > Status: 🟢 alive / friendly · 🟡 neutral or unknown · 🔴 hostile · ⚫ dead
 
@@ -176,7 +176,22 @@
 
 ## Westbridge locals (added S37)
 
-**Mabel "Axles" Thorne** 🟢 — Wiry, physically powerful retired-but-still-active human quarry teamster who hauled stone and ore out of **Red Larch** for 40 years [S37]. Widowed (husband died in a quarry accident); her children died of plague except her one surviving daughter, who **joined the Order of the Vale / Sisters of the Vale** — a loss Mabel treats as a death, calling the order "cultist fanatics." Loathes **Lord Hallowbrand** — calls him "nasty," refuses to discuss politics. Lost an arm-wrestle to Hairy (Hairy Athletics 19 vs. a narrower-than-expected margin), accepted five beers and a granite-block commission from him (**8 cp quoted; Hairy secretly plans to pay 8 gp**). ⚠️ Her estranged Sisters-of-the-Vale daughter may be **Sister Halda Thorne** — Baron is explicitly saving the connection as leverage for later.
+**Mabel "Axles" Thorne** 🟢 — Wiry, physically powerful retired-but-still-active human quarry teamster who hauled stone and ore out of **Red Larch** for 40 years [S37]. Widowed (husband died in a quarry accident); her children died of plague except her one surviving daughter, **Halda** — **DM confirmed in the S38 recap: Mabel is Sister Halda Thorne's mother.** Mabel considers Halda dead, calls the Sisters of the Vale "cultist fanatics," and loathes **Lord Hallowbrand** (calls him "nasty," refuses to discuss politics). Lost an arm-wrestle to Hairy (Athletics 19) at the Harvest Inn [S37]. In S38 she **gifted Hairy the 6" granite cube free**, told him she considers him a friend, and offered to **name-drop him in Amphail** as an introduction. ⚠️ She does not know the party has personally stripped her daughter twice and burned down a ward in Waterdeep.
+
+
+## The road to Waterdeep (added S38)
+
+**The Red Larch rock gnome tinkerer** 🟢 — Unnamed; runs a conveyor-belt "wheelie bobber" at the Red Larch quarry that tripled productivity. Admired PQNine's "invisible feathered hat" ("virile") and flagged **Elix's dented steam regulator** as foreign-sourced — real replacement gears have to come from Waterdeep [S38]. Possible future lead on the Underdark gear's actual origin.
+
+**The troll transport guards** 🟡 — Two unnamed guards caught on the roof of a stranded prisoner-transport cage after the chained troll inside dragged their horse into the woods. Paid the party **30 gp to kill it** (20 gp to re-cage). ⚠️ Who was paying to transport a live troll, and where to, is unanswered [S38].
+
+**The sweaty wagon driver** 🟡 — Unnamed, twitchy, miming a wheel repair on the road to Amphail; asked the party if they were "King's Men" ("I heard you have to say"), rambled about his long-dead mother, and obsessively guarded a small lidded tin he kept staring at. Party left him alone. ⚠️ What's in the tin [S38].
+
+**The Amphail scarecrow farmer** 🟢 — Unnamed farmer on the outskirts of Amphail who once fed a passing **hag**; she repaid him by animating his scarecrows to attack thieves, **keyed to red braided-string bracelets** on the gate [S38]. Forgot his bracelet, was knocked out by his own scarecrow; Baron woke him with Cure Wounds. Has a wife and three children; fed and lodged the party for a night in the hayloft and all he had on him was 4 cp.
+
+**The hag of the Long Road** 🔴 — Unnamed and unseen; wove the red-bracelet-keyed scarecrow enchantment in exchange for a meal the farmer gave her [S38]. Possibly roaming and trading charms along the Long Road for food.
+
+**The funeral-rehearsal matron** 🟡 — Unnamed elderly dying woman directing her own funeral rehearsal on the road out of Westbridge; smacked her front-left pallbearer son with the funeral flowers after PQNine told him he couldn't truly mourn while she was alive [S38].
 
 ## Minor / one-offs
 

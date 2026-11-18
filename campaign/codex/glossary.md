@@ -76,3 +76,22 @@ Idrissa (continued): Addresser, "a dresser", ADRISACARIMORTE (DM spelled it out)
 Halda: Sister Holiday, "Sister Hold Her"
 PQNine (continued): Cooperative, Co-op, Quality
 Haravin (continued): Harvey
+
+## Added S38 — DM drift + new names
+
+**DM drift from the PR #11 canonical spellings** (DM used these variants throughout S38; archive still uses the canonical left-hand name):
+Hallowbrand: Halibrand, Allebrand, Haleybrand
+Xeluan: Zeluin
+Mabel "Axles" Thorne: Mabel Axels Thorne (DM pronunciation; "Axels" with s, not "Axles")
+Kale Vore, the Veiled Maw: Kael Vor the Veiled Maul
+
+**New names + variants from S38:**
+Lucrota: Lucrodas, Lucroda, Lucronus, Lucrodus
+Raslantar: (hamlet by the Hallowbrand Chapel — spelling from one DM mention only ⚠️)
+Helver Tarnall: Hellver Tarnall (Red Larch road-supplies shop)
+Maliko Stoneworks: (Red Larch stoneworks)
+Swinging Sword: (Red Larch inn)
+PQNine (continued): Kwadi, Squat me, Quietly, Tometer
+Fic (continued): Pick, Thick, Fake, Tag
+Tordrug (continued): Georgia, Torja, Tordrick, Poor drug, Bordrug
+Amphail (continued): Amp Vale, Amfel, Ant Pale (DM spelled it aloud: "AM-P-H-A-I-L")

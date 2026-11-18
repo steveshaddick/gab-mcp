@@ -55,3 +55,12 @@
 - Haggled Haravin Dar Dragon over *A Proper Elven Courtship*; Haravin tried to bump to 90 gp claiming another buyer; Hairy's nat-25 insight + persuasion brought it back to the original **60 gp + 2 gp handler's fee = 62 gp** [S37]. Painting is on consignment at the Harvest Inn until Fic claims it.
 - Still joking about burning Constantori with a tinderbox — now moot since the portrait is with Idrissa.
 - **+500 gp** share of the Idrissa payout.
+
+
+## Session 38
+- Killed the chained troll on the road to Red Larch with a finishing sneak-attack rapier strike (20 to hit, 17 damage) after Hairy's Flame Blade + Tordrug's Fire Bolt preempted regen [S38]. Used **Fire Bolt** (confirmed his one cantrip).
+- Lead on the road for the Lucrota ambush; smelled the trap and noticed the Eye Stone wasn't glowing, then finished the second Lucrota with an acrobatic rapier strike to the skull.
+- **Failed the scarecrow Wis save and was Frightened** for a round — climbed down the wall and fled 30 ft. Recovered and finished the burning scarecrow with his rapier.
+- Asked Red Larch locals about horse trainers and was pointed to **Amphail** as THE place to upgrade / train Shadow Strider — the town supplies the Waterdeep country estates.
+- Paid an extra 1 sp at the Swinging Sword to get his roast chicken + beef grilled wrap-style ("breakfast burrito").
+- Ended the session with **inspiration** from the farmer's hayloft stay.

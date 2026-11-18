@@ -1,6 +1,6 @@
 # Locations
 
-> Living file. Updated through **Session 37**.
+> Living file. Updated through **Session 38**.
 
 ## Waterdeep & surroundings
 
@@ -97,7 +97,10 @@ Islands **suspended over a lake of fire**, linked by retractable bridges and a m
 ## The Long Road & Waterdeep approach (added S37)
 
 - **The Long Road** — Main trade route between Westbridge and Waterdeep. Westbridge → Red Larch → Amphail → Waterdeep, "a couple of days" travel, well-patrolled, peaceful [S37].
-- **Red Larch** — Town of ~600 on the Long Road, named for the stand of red larch trees felled at founding; a source of quarried granite and ore (Mabel "Axles" Thorne's old hauling route) [S37].
-- **Amphail** — Next town up the Long Road past Red Larch [S37].
+- **Red Larch** — Dusty quarry town of ~600 on the Long Road, built on a spring at a crossroads; named for the stand of red larch trees felled at founding; source of quarried granite and ore (Mabel "Axles" Thorne's old hauling route) [S37]. Known places (added [S38]): **The Swinging Sword** inn (5 sp/person incl. stabling); **Helver Tarnall's** road-supplies shop; **Maliko Stoneworks** (likely Mabel's old employer); the **Red Larch Quarry** itself (audible hammers before town is visible). Tordrug's academic career includes a thesis on "magic in Red Larch" [S38].
+- **Amphail** — Next town up the Long Road past Red Larch; **horse-breeding country supplying the Waterdeep country estates** [S37–S38]. Open paddocks and hayfields on the outskirts; stone-wall field boundaries. Fic's planned stop to upgrade / train Shadow Strider.
 - **Hallowbrand Family Chapel** (near Waterdeep) — Surface-level chapel of the Hallowbrand family. Entry point to Lady Meredith's crypt [S37].
 - **Lady Meredith's Crypt** — Beneath the Hallowbrand Family Chapel. Resting place of Lady Meredith Hallowbrand, who is buried wearing the Shard of Xeluan as a pendant. Target for the party; Lord Hallowbrand is already financing an expedition to retrieve the Shard [S37].
+
+- **Raslantar** — Hamlet by the Hallowbrand Family Chapel; the party's final waypoint before the chapel itself. Named only in the S38 recap ⚠️ spelling [S38].
+- **The scarecrow farmer's farmhouse** — Farmstead on the outskirts of Amphail. Stone-wall-bordered hayfield full of (normally dormant) scarecrows animated by a passing hag's charm, keyed to red braided-string bracelets on the gate. Family of five + hayloft above a stable [S38].
