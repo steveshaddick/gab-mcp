@@ -73,3 +73,12 @@ Disguise Self, Message (with copper wire), Mage Hand, Magic Missile. Carries the
 - Commissioned a **6"×6"×6" granite block** from Mabel for **8 cp**; privately plans to pay her **8 gp** (a bag of coins) instead. Delivery sunrise +2 at the Harvest Inn.
 - Learned Mabel has a daughter in the Sisters of the Vale ⚠️ — possibly Sister Halda.
 - **+500 gp** share of the Idrissa payout.
+
+
+## Session 38
+- Picked up his 6" granite cube from Mabel "Axles" Thorne — **she gifted it free**, called him a friend, and offered to name-drop him in Amphail as an introduction [S38]. Still carries it in the Bag of Holding; still can't remember what he wanted it for.
+- **First use of Flame Blade** — torched the chained troll on the road to Red Larch; the fire damage prevented regen.
+- Cast **Haste** on PQNine during the Lucrota ambush and burned a **3rd-level Magic Missile** (wand) to finish the first Lucrota.
+- Multiple **Mage Hand** bracelet-pulls in the hayfield (DM required a d6 roll each; a 2 jammed him once).
+- ⚠️ **Mabel is Sister Halda's mother** per the DM's S38 recap. Hairy doesn't yet know that the friend who gave him free granite is the mother of the holy warrior they've stripped twice.
+- Ended the session with **inspiration**.

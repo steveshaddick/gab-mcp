@@ -64,3 +64,11 @@
 - **Formally de-attuned from Constantori** at Idrissa's barn and said goodbye; the painting went quiet. True sight, telepathic link, and "guard a room" command are all gone.
 - Bought a **1 gp replacement pewter mug** at the Tipsy Tankard for the one buried with Elix.
 - **+500 gp** share of the Idrissa payout.
+
+
+## Session 38
+- Retrieved his "invisible feathered hat" from Baron [S38].
+- Insight-checked the funeral-rehearsal son ("face sad, eyes not") and told the dying matron her son can't truly mourn while she's still alive — she smacked the son with her funeral flowers.
+- Took heavy damage from both Lucrota (one crit) during the ambush; **benefited from Haste** (Hairy). Used **Dodge + spider climb** on the scarecrow-farm wall. **Recognized the Lucrotas from childhood stories** as voice-mimicking bait predators.
+- Chatted up a Red Larch rock gnome tinkerer at the Swinging Sword; showed him **Elix's dented steam regulator**. Gnome admired the workmanship, flagged it as **foreign-sourced**, said real replacement gears have to come from **Waterdeep**. Compliments on the invisible hat ("virile"). Parted as friends.
+- Ended the session with **inspiration**.

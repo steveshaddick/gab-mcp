@@ -51,3 +51,11 @@
 - Took rear of the marching order on the Long Road — "it's a straight road," wouldn't scout [S37].
 - Pointed out Hairy's rapport with Mabel sets up future ammunition against Sister Halda if the daughter turns out to be her. Explicitly banking the connection.
 - **+500 gp** share of the Idrissa payout.
+
+
+## Session 38
+- Attempted (then bailed on) Speak with Animals / Undercommon shouting at the chained troll [S38]. Landed Hunter's Mark arrows on both the troll and a Lucrota — **crit the second Lucrota for 25 damage single-arrow** into its eye. Briefly tracked Hunter's Mark concentration himself for the first time.
+- Cast **Cure Wounds (lvl 1, 5 HP)** on the KO'd scarecrow farmer on the wall, waking him back up.
+- Silently thought-crimed about killing the troll transport guards for their extra coin, then didn't.
+- Paid the Swinging Sword tab (**2 gp 5 sp** for all five rooms incl. stabling).
+- Ended the session with **inspiration**.

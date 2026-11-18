@@ -64,3 +64,11 @@ Fire Bolt, disguise/illusion magic. Shares the Wand of Magic Missiles with Hairy
 - Participated in the Waterdeep real-estate brainstorming (Delphi Mansion, the burnt South Ward, the old church quarter).
 - Asked Idrissa whether she'd heard of Kale Vore of the Veldma (framed as art) — she hadn't.
 - **+500 gp** share of the Idrissa payout.
+
+
+## Session 38
+- Rolled back-to-back nat 20s on history: **26** for full troll lore (strong, fast, keen smell, speaks Giant only, regenerates unless hit with fire or acid) and **28** for Red Larch, where he remembered **his own thesis on "magic in Red Larch"** [S38].
+- Fire Bolt opened the troll fight; **level-2 Magic Missile** on a Lucrota; **Fireball** on a scarecrow, which kept swinging while burning.
+- Pioneered the **Mage Hand bracelet-removal trick** that pops the hag's scarecrow animation. Wore a red bracelet himself briefly with no ill effect. ⚠️ Carries at least one red bracelet (unclear if returned).
+- Burned the two Lucrota corpses on a pyre (they stank worse burning).
+- Ended the session with **inspiration**.

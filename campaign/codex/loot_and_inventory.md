@@ -1,6 +1,6 @@
 # Loot & Inventory
 
-> Living file. Updated through **Session 37** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
+> Living file. Updated through **Session 38** (Sessions 13 and 25 have no transcript). "Holder" = who has it now, as best the transcripts show.
 > ⚠️ = holder or status uncertain; confirm at the table.
 
 ## Magic & significant items
@@ -45,6 +45,8 @@
 | 2× Short sword | Hairy | Guildmaster Dusk's corpse [S36] | Dusk's weapons; stripped off her body in the Tower Peak. |
 | *A Proper Elven Courtship* (painting) | Fic (on consignment at Harvest Inn, Westbridge) | Haravin Dar Dragon [S37] | Bought 60 gp + 2 gp handler's fee = 62 gp all-in; stored at Haravin's until Fic claims it. |
 | Tipsy Tankard pewter mug #2 (hat-and-apple stamp) | PQNine | Tipsy Tankard, Tribor-area hamlet [S37] | 1 gp replacement for the one buried with Elix. |
+| 6" granite cube | Hairy (Bag of Holding) | Gift from Mabel "Axles" Thorne, Westbridge [S38] | She gifted it free, called Hairy a friend, offered to name-drop him in Amphail. Hairy still can't remember what he wanted it for. |
+| Red braided-string bracelet (hag-enchantment keyed) | ⚠️ unclear (Tordrug kept at least one in play) | Amphail scarecrow farmer's gate [S38] | Scarecrows refuse to attack anyone wearing one. Removing it from a scarecrow instantly deactivates that scarecrow. |
 
 ## Gone / no longer ours
 
@@ -110,3 +112,8 @@
 | S36 | Pending **+2,000 gp** on delivery of the portrait | Still owed by Idrissa |
 | S37 | **+2,000 gp** (portrait contract paid) + **+500 gp** (ledger bonus) = **+2,500 gp total**, split 500 each | Idrissa paid at her barn [S37] |
 | S37 | Fic −62 gp (painting + storage) · PQNine −1 gp (new pewter mug) · Hairy will owe Mabel 8 cp quoted / 8 gp planned (not yet paid) | Harvest Inn + Tipsy Tankard + Mabel's commission |
+| S38 | +30 gp (6 gp each) for killing the chained troll | Troll transport guards on the road to Red Larch |
+| S38 | +4 cp (farmer) + roast-chicken meal + hayloft + 1 inspiration each | Amphail scarecrow farmer |
+| S38 | Mabel gifted the granite cube free — the 8 gp Hairy planned to overpay is NOT paid | Westbridge, morning of travel day 1 |
+| S38 | Baron −2 gp 5 sp | All five rooms at the Swinging Sword, Red Larch |
+| S38 | Fic −1 sp | Grill-upgrade on roast chicken/beef ("breakfast burrito") |
